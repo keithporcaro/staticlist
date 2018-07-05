@@ -4,3 +4,13 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
+
+
+- label: "Project"
+  name: "project"
+  folder: "projects"
+  create: true
+  fields:
+    - {label: "Name", name: "title", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "datetime"}
+    - {label: "Body", name: "body", widget: "markdown"}
