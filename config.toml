@@ -92,7 +92,7 @@ disqusShortname = ""
       title = "Stakeholder Tools"
       subtitle = "Tools used primarily by criminal justice stakeholders."
       image = "pic01.jpg"
-      url = "project_types/stakeholder"
+      url = "project_types/stakeholders"
 
     [[params.tiles.showcase]]
       title = "Crowdsourcing Tools"
@@ -110,7 +110,7 @@ disqusShortname = ""
       title = "Predictive Tools"
       subtitle = "Tools that see the future."
       image = "pic04.jpg"
-      url = "project_types/predictions"
+      url = "project_types/predictive"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
