@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sexual Assault on Forty</title>
-    <link>http://example.org/tags/sexual-assault/</link>
-    <description>Recent content in Sexual Assault on Forty</description>
+    <title>Sexual Assault on Academic</title>
+    <link>/tags/sexual-assault/</link>
+    <description>Recent content in Sexual Assault on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/sexual-assault/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/sexual-assault/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Callisto</title>
-      <link>http://example.org/projects/callisto/</link>
+      <link>/projects/callisto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/callisto/</guid>
+      <guid>/projects/callisto/</guid>
       <description>   Name Callisto     Categories  Intake &amp;amp; Referral    Project URL https://demo.callistocampus.org/    Organization  Sexual Health Innovations    Location Various U.S. Universities    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User NA    Founded 2014    Tags  Sexual Assault , Open Sourced , Crowd Sourcing , Investigation     </description>
     </item>
     
     <item>
       <title>Unfounded</title>
-      <link>http://example.org/projects/unfounded/</link>
+      <link>/projects/unfounded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/unfounded/</guid>
+      <guid>/projects/unfounded/</guid>
       <description>   Name Unfounded     Categories  Law Enforcement    Project URL https://beta.theglobeandmail.com/news/investigations/compare-unfounded-sex-assault-rates-across-canada/article33855643/?ref=http://www.theglobeandmail.com&amp;amp;    Organization  The Globe and Mail    Location Canada    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2017    Tags  Data , Sexual Assault , Police Accountability     </description>
     </item>
     

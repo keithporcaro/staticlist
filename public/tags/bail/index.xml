@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bail on Forty</title>
-    <link>http://example.org/tags/bail/</link>
-    <description>Recent content in Bail on Forty</description>
+    <title>Bail on Academic</title>
+    <link>/tags/bail/</link>
+    <description>Recent content in Bail on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/bail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/bail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bail Judgment Debt</title>
-      <link>http://example.org/projects/bail-judgment-debt/</link>
+      <link>/projects/bail-judgment-debt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/bail-judgment-debt/</guid>
+      <guid>/projects/bail-judgment-debt/</guid>
       <description>   Name Bail Judgment Debt     Categories  Probation &amp;amp; Parole    Project URL     Organization  Community Legal Services    Location Philadelphia, PA    Public Portal No    Bulk Download No    Ongoing No    Founded     Tags  Data , Bail     </description>
     </item>
     

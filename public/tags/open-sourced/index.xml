@@ -1,166 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Sourced on Forty</title>
-    <link>http://example.org/tags/open-sourced/</link>
-    <description>Recent content in Open Sourced on Forty</description>
+    <title>Open sourced on Academic</title>
+    <link>/tags/open-sourced/</link>
+    <description>Recent content in Open sourced on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/open-sourced/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/open-sourced/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Acivilate</title>
-      <link>http://example.org/projects/acivilate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/acivilate/</guid>
-      <description>   Name Acivilate     Categories  ReEntry    Project URL http://acivilate.com/    Organization  Acivilate    Location U.S.    Open Source Yes    Open Data     Compatibility  Web &amp;amp; mobile    Outcome Measurements     Cost to User SaaS model    Founded 2014    Tags  Open Sourced;     </description>
-    </item>
-    
-    <item>
-      <title>Callisto</title>
-      <link>http://example.org/projects/callisto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/callisto/</guid>
-      <description>   Name Callisto     Categories  Intake &amp;amp; Referral    Project URL https://demo.callistocampus.org/    Organization  Sexual Health Innovations    Location Various U.S. Universities    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User NA    Founded 2014    Tags  Sexual Assault , Open Sourced , Crowd Sourcing , Investigation     </description>
-    </item>
-    
-    <item>
-      <title>Clean Slate DC</title>
-      <link>http://example.org/projects/clean-slate-dc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/clean-slate-dc/</guid>
-      <description>   Name Clean Slate DC     Categories  Intake &amp;amp; Referral    Project URL http://cleanslatedc.com    Organization  Rebuilding Reentry    Location Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
-    </item>
-    
-    <item>
-      <title>Clear My Record</title>
-      <link>http://example.org/projects/clear-my-record/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/clear-my-record/</guid>
-      <description>   Name Clear My Record     Categories  Intake &amp;amp; Referral    Project URL https://clearmyrecord.codeforamerica.org/    Organization  Code for America    Location San Francisco, CA    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
-    </item>
-    
-    <item>
-      <title>ClientComm</title>
-      <link>http://example.org/projects/clientcomm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/clientcomm/</guid>
-      <description>   Name ClientComm     Categories  Probation &amp;amp; Parole    Project URL https://clientcomm.org/    Organization  Code for America    Location Salt Lake County, UT    Open Source Yes    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Varies    Founded 2016    Tags  Open Sourced;     </description>
-    </item>
-    
-    <item>
-      <title>CourtBot</title>
-      <link>http://example.org/projects/courtbot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/courtbot/</guid>
-      <description>   Name CourtBot     Categories  Courts    Project URL https://www.codeforamerica.org/past-projects/court-bot    Organization  Code for America    Location Atlanta, GA    Open Source Yes    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal Texting Fees Apply    Founded 2016    Tags  Open Sourced , A2J     </description>
-    </item>
-    
-    <item>
-      <title>Crime Scape</title>
-      <link>http://example.org/projects/crime-scape/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/crime-scape/</guid>
-      <description>   Name Crime Scape     Categories  Law Enforcement    Project URL https://www.civicscape.com/    Organization  CivicScape    Location U.S.    What is Predicted Where police are needed    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Sourced , Open Data , Predictive Policing     </description>
-    </item>
     
     <item>
       <title>Expunge.io</title>
-      <link>http://example.org/projects/expungeio/</link>
+      <link>/projects/expungeio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/expungeio/</guid>
+      <guid>/projects/expungeio/</guid>
       <description>   Name Expunge.io     Categories  Intake &amp;amp; Referral    Project URL http://www.expunge.io/    Organization  Smart Chicago    Location Cook County, IL    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Expungements &amp;amp; Pardons , Open sourced     </description>
-    </item>
-    
-    <item>
-      <title>ExpungeMaryland</title>
-      <link>http://example.org/projects/expungemaryland/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/expungemaryland/</guid>
-      <description>   Name ExpungeMaryland     Categories  Intake &amp;amp; Referral    Project URL https://docs.google.com/spreadsheets/d/1xqdPyLLza8qlgY_HJg_yTwEuvQi5iJ-1NIxzNJw8fQw/expungemaryland.org    Organization  Advocates for Children &amp;amp; Youth    Location Maryland    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
-    </item>
-    
-    <item>
-      <title>Expungement Generator</title>
-      <link>http://example.org/projects/expungement-generator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/expungement-generator/</guid>
-      <description>   Name Expungement Generator     Categories  Intake &amp;amp; Referral    Project URL     Organization  Community Legal Services    Location Philadelphia, PA    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
-    </item>
-    
-    <item>
-      <title>Friendly</title>
-      <link>http://example.org/projects/friendly/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/friendly/</guid>
-      <description>   Name Friendly     Categories  Intake &amp;amp; Referral    Project URL http://simlab.org/blog/2016/07/19/making-complexity-friendly/    Organization  SIMLab    Location Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Open Sourced;     </description>
-    </item>
-    
-    <item>
-      <title>Jail Population Dashboard</title>
-      <link>http://example.org/projects/jail-population-dashboard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/jail-population-dashboard/</guid>
-      <description>   Name Jail Population Dashboard     Categories  Corrections    Project URL https://cjdashboardtst.louisvilleky.gov/    Organization  Code for America    Location Louisville, KY    Public Portal Yes, via separate Xjail data portal    Bulk Download No    Ongoing Yes    Founded 2013    Tags  Data , Open Sourced     </description>
-    </item>
-    
-    <item>
-      <title>My Clean Jacket</title>
-      <link>http://example.org/projects/my-clean-jacket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/my-clean-jacket/</guid>
-      <description>   Name My Clean Jacket     Categories  Intake &amp;amp; Referral    Project URL http://www.jaclouisiana.org/    Organization  Justice &amp;amp; Accountability Center of Louisiana    Location Louisiana    Open Source Yes    Open Data     Compatibility  iOS , Android , Web    Outcome Measurements     Cost to User Free to users; Fee to become a legal partner    Founded 2013    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
-    </item>
-    
-    <item>
-      <title>Notice of Claim</title>
-      <link>http://example.org/projects/notice-of-claim/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/notice-of-claim/</guid>
-      <description>   Name Notice of Claim     Categories  Intake &amp;amp; Referral    Project URL http://notice-of-claim.herokuapp.com/    Organization  Justice Codes &amp;#43; Partners    Location New York City, NY    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Police Accountability , Open Sourced     </description>
-    </item>
-    
-    <item>
-      <title>Open Referral</title>
-      <link>http://example.org/projects/open-referral/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/open-referral/</guid>
-      <description>   Name Open Referral     Categories  Intake &amp;amp; Referral    Project URL https://openreferral.org/    Organization  Open Referral    Location Chicago, IL; San Francisco, CA; Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2012    Tags  Open Sourced , Data , Open Data     </description>
-    </item>
-    
-    <item>
-      <title>Visallo</title>
-      <link>http://example.org/projects/visallo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/visallo/</guid>
-      <description>   Name Visallo     Categories  Law Enforcement    Project URL https://www.visallo.com    Organization  Visallo    Location U.S.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Varies    Founded 2014    Tags  Open Sourced , Investigation     </description>
-    </item>
-    
-    <item>
-      <title>Yelp Prison Review Faxbot</title>
-      <link>http://example.org/projects/yelp-prison-review-faxbot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/yelp-prison-review-faxbot/</guid>
-      <description>   Name Yelp Prison Review Faxbot     Categories  Corrections    Project URL http://lav.io/2014/11/yelp-prison-review-faxbot/    Organization  Sam Lavign    Location Various U.S. Prisons    Open Source Yes    Open Data     Compatibility  Web , Fax    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Open Sourced;     </description>
     </item>
     
   </channel>

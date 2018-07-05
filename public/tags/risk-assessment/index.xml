@@ -1,84 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Risk Assessment on Forty</title>
-    <link>http://example.org/tags/risk-assessment/</link>
-    <description>Recent content in Risk Assessment on Forty</description>
+    <title>Risk Assessment on Academic</title>
+    <link>/tags/risk-assessment/</link>
+    <description>Recent content in Risk Assessment on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/risk-assessment/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/risk-assessment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Correctional Assessment and Intervention System (CAIS)</title>
-      <link>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</link>
+      <link>/projects/correctional-assessment-and-intervention-system-cais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</guid>
+      <guid>/projects/correctional-assessment-and-intervention-system-cais/</guid>
       <description>   Name Correctional Assessment and Intervention System (CAIS)     Categories  Corrections    Project URL http://www.nccdglobal.org/assessment/correctional-assessment-and-intervention-system-cais    Organization  National Council on Crime and Delinquency    Location U.S.    What is Predicted Likelihood of recidivism    Open Source     Available Training Data NA    Ongoing Yes    Founded NA    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Correctional Offender Management Profile for Alternative Sanctions (COMPAS)</title>
-      <link>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</link>
+      <link>/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</guid>
+      <guid>/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</guid>
       <description>   Name Correctional Offender Management Profile for Alternative Sanctions (COMPAS)     Categories  Corrections    Project URL http://www.equivant.com/solutions/inmate-classification    Organization  Equivant    Location U.S.    What is Predicted Likelihood of recidivism; service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded 1989    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Harm Assessment Risk Tool</title>
-      <link>http://example.org/projects/harm-assessment-risk-tool/</link>
+      <link>/projects/harm-assessment-risk-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/harm-assessment-risk-tool/</guid>
+      <guid>/projects/harm-assessment-risk-tool/</guid>
       <description>   Name Harm Assessment Risk Tool     Categories  Corrections    Project URL     Organization  Durham Constabulary &amp;amp; University of Cambridge&amp;#39;s Centre for Evidence-based Policing    Location Durham, England    What is Predicted Likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2013    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Level of Service Assessments (LSI-R and LS/CMI)</title>
-      <link>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</link>
+      <link>/projects/level-of-service-assessments-lsi-r-and-lscmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</guid>
+      <guid>/projects/level-of-service-assessments-lsi-r-and-lscmi/</guid>
       <description>   Name Level of Service Assessments (LSI-R and LS/CMI)     Categories  Corrections    Project URL http://www.mhs.com/product.aspx?gr=saf&amp;amp;id=overview&amp;amp;prod=ls-cmi    Organization  Multi-Health Systems, Inc.    Location U.S.    What is Predicted Likelihood of recidivism; service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded 1995    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Offender Screening Tool (OST)</title>
-      <link>http://example.org/projects/offender-screening-tool-ost/</link>
+      <link>/projects/offender-screening-tool-ost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/offender-screening-tool-ost/</guid>
+      <guid>/projects/offender-screening-tool-ost/</guid>
       <description>   Name Offender Screening Tool (OST)     Categories  Corrections    Project URL https://www.azcourts.gov/apsd/Evidence-Based-Practice/Risk-Needs-Assessment/Offender-Screening-Tool-OST    Organization  Arizona Judicial Branch    Location Arizona, Virginia    What is Predicted likelihood of recidivism; includes service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded NA    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Ohio Risk Assessment System (ORAS)</title>
-      <link>http://example.org/projects/ohio-risk-assessment-system-oras/</link>
+      <link>/projects/ohio-risk-assessment-system-oras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/ohio-risk-assessment-system-oras/</guid>
+      <guid>/projects/ohio-risk-assessment-system-oras/</guid>
       <description>   Name Ohio Risk Assessment System (ORAS)     Categories  Corrections    Project URL http://www.drc.ohio.gov/oras    Organization  Ohio Dept. of Rehabilitation and Correction    Location Ohio    What is Predicted 10 tools: ranging from likelihood of recidivism, misdemeanor screening, community supervision screening    Open Source     Available Training Data No    Ongoing Yes    Founded 2011    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Public Safety Assessment</title>
-      <link>http://example.org/projects/public-safety-assessment/</link>
+      <link>/projects/public-safety-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/public-safety-assessment/</guid>
+      <guid>/projects/public-safety-assessment/</guid>
       <description>   Name Public Safety Assessment     Categories  Corrections    Project URL http://www.arnoldfoundation.org/initiative/criminal-justice/crime-prevention/public-safety-assessment/    Organization  Laura and John Arnold Foundation    Location Kentucky, New Jersey, Arizona, Florida, Illinois, Ohio, Pennsylvania, Washington, Wisconsin, California, North Carolina    What is Predicted Likelihood to attend court date; likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2017    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Static Risk and Offender Needs Guide (STRONG)</title>
-      <link>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</link>
+      <link>/projects/static-risk-and-offender-needs-guide-strong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</guid>
+      <guid>/projects/static-risk-and-offender-needs-guide-strong/</guid>
       <description>   Name Static Risk and Offender Needs Guide (STRONG)     Categories  Corrections    Project URL     Organization  Washington State Institute for Criminal Justice &amp;amp; Washington Department of Corrections    Location Califonria, Florida, Texas, Washington    What is Predicted Likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2013    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     

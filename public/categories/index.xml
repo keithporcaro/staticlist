@@ -1,93 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Forty</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on Forty</description>
+    <title>Categories on Academic</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comprehensive</title>
-      <link>http://example.org/categories/comprehensive/</link>
+      <link>/categories/comprehensive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/comprehensive/</guid>
+      <guid>/categories/comprehensive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corrections</title>
-      <link>http://example.org/categories/corrections/</link>
+      <link>/categories/corrections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/corrections/</guid>
+      <guid>/categories/corrections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courts</title>
-      <link>http://example.org/categories/courts/</link>
+      <link>/categories/courts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/courts/</guid>
+      <guid>/categories/courts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Intake  Referral</title>
-      <link>http://example.org/categories/intake--referral/</link>
+      <title>Intake &amp; Referral</title>
+      <link>/categories/intake--referral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/intake--referral/</guid>
+      <guid>/categories/intake--referral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Law Enforcement</title>
-      <link>http://example.org/categories/law-enforcement/</link>
+      <link>/categories/law-enforcement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/law-enforcement/</guid>
+      <guid>/categories/law-enforcement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legal</title>
-      <link>http://example.org/categories/legal/</link>
+      <link>/categories/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/legal/</guid>
+      <guid>/categories/legal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Parole  Probation</title>
-      <link>http://example.org/categories/parole--probation/</link>
+      <title>Parole &amp; Probation</title>
+      <link>/categories/parole--probation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/parole--probation/</guid>
+      <guid>/categories/parole--probation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Probation  Parole</title>
-      <link>http://example.org/categories/probation--parole/</link>
+      <title>Probation &amp; Parole</title>
+      <link>/categories/probation--parole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/probation--parole/</guid>
+      <guid>/categories/probation--parole/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Reentry</title>
-      <link>http://example.org/categories/reentry/</link>
+      <title>ReEntry</title>
+      <link>/categories/reentry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/reentry/</guid>
+      <guid>/categories/reentry/</guid>
       <description></description>
     </item>
     

@@ -1,102 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Probation  Parole on Forty</title>
-    <link>http://example.org/categories/probation--parole/</link>
-    <description>Recent content in Probation  Parole on Forty</description>
+    <title>Probation &amp; Parole on Academic</title>
+    <link>/categories/probation--parole/</link>
+    <description>Recent content in Probation &amp; Parole on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/categories/probation--parole/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/probation--parole/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bail Judgment Debt</title>
-      <link>http://example.org/projects/bail-judgment-debt/</link>
+      <link>/projects/bail-judgment-debt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/bail-judgment-debt/</guid>
+      <guid>/projects/bail-judgment-debt/</guid>
       <description>   Name Bail Judgment Debt     Categories  Probation &amp;amp; Parole    Project URL     Organization  Community Legal Services    Location Philadelphia, PA    Public Portal No    Bulk Download No    Ongoing No    Founded     Tags  Data , Bail     </description>
     </item>
     
     <item>
       <title>ClientComm</title>
-      <link>http://example.org/projects/clientcomm/</link>
+      <link>/projects/clientcomm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/clientcomm/</guid>
+      <guid>/projects/clientcomm/</guid>
       <description>   Name ClientComm     Categories  Probation &amp;amp; Parole    Project URL https://clientcomm.org/    Organization  Code for America    Location Salt Lake County, UT    Open Source Yes    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Varies    Founded 2016    Tags  Open Sourced;     </description>
     </item>
     
     <item>
       <title>FocalPoint</title>
-      <link>http://example.org/projects/focalpoint/</link>
+      <link>/projects/focalpoint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/focalpoint/</guid>
+      <guid>/projects/focalpoint/</guid>
       <description>   Name FocalPoint     Categories  Probation &amp;amp; Parole    Project URL     Organization  Omnilink    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies    Founded 1988    Tags       </description>
     </item>
     
     <item>
       <title>Outreach Smartphone Monitoring</title>
-      <link>http://example.org/projects/outreach-smartphone-monitoring/</link>
+      <link>/projects/outreach-smartphone-monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/outreach-smartphone-monitoring/</guid>
+      <guid>/projects/outreach-smartphone-monitoring/</guid>
       <description>   Name Outreach Smartphone Monitoring     Categories  Probation &amp;amp; Parole    Project URL http://www.osmnow.com/    Organization  Outreach Smartphone Monitoring    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User $1-$4 per day    Founded 2016    Tags       </description>
     </item>
     
     <item>
       <title>Parole Board Hearing Data Project</title>
-      <link>http://example.org/projects/parole-board-hearing-data-project/</link>
+      <link>/projects/parole-board-hearing-data-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/parole-board-hearing-data-project/</guid>
+      <guid>/projects/parole-board-hearing-data-project/</guid>
       <description>   Name Parole Board Hearing Data Project     Categories  Probation &amp;amp; Parole    Project URL http://www.parolehearingdata.org/    Organization  Nikki Zeichner    Location New York    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>SPROKIT</title>
-      <link>http://example.org/projects/sprokit/</link>
+      <link>/projects/sprokit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/sprokit/</guid>
+      <guid>/projects/sprokit/</guid>
       <description>   Name SPROKIT     Categories  Probation &amp;amp; Parole    Project URL http://www.sprokit.net/    Organization  SPROKIT    Location U.S.    Open Source No    Open Data     Compatibility  Web , Android    Outcome Measurements     Cost to User Varies    Founded 2015    Tags       </description>
     </item>
     
     <item>
       <title>TestNotice</title>
-      <link>http://example.org/projects/testnotice/</link>
+      <link>/projects/testnotice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/testnotice/</guid>
+      <guid>/projects/testnotice/</guid>
       <description>   Name TestNotice     Categories  Probation &amp;amp; Parole    Project URL http://www.testnotice.com/    Organization  TestNotice    Location Nevada, Oklahoma, Minnesota, South Dakota    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User $10 to create an account; $5 per month    Founded 2015    Tags       </description>
     </item>
     
     <item>
       <title>UpTrust</title>
-      <link>http://example.org/projects/uptrust/</link>
+      <link>/projects/uptrust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/uptrust/</guid>
+      <guid>/projects/uptrust/</guid>
       <description>   Name UpTrust     Categories  Probation &amp;amp; Parole    Project URL http://www.uptrust.co/    Organization  UpTrust    Location Brooklyn, NY    Open Source No    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags       </description>
     </item>
     
     <item>
       <title>Verie</title>
-      <link>http://example.org/projects/verie/</link>
+      <link>/projects/verie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/verie/</guid>
+      <guid>/projects/verie/</guid>
       <description>   Name Verie     Categories  Probation &amp;amp; Parole    Project URL http://verie.com/    Organization  Verie    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies    Founded 2014    Tags       </description>
     </item>
     
     <item>
       <title>Virtual Youth Probation Teams</title>
-      <link>http://example.org/projects/virtual-youth-probation-teams/</link>
+      <link>/projects/virtual-youth-probation-teams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/virtual-youth-probation-teams/</guid>
+      <guid>/projects/virtual-youth-probation-teams/</guid>
       <description>   Name Virtual Youth Probation Teams     Categories  Probation &amp;amp; Parole    Project URL     Organization  Google Government Innovation Labs    Location San Joaquin, CA    Open Source No    Open Data     Compatibility  NA    Outcome Measurements     Cost to User NA    Founded 2016    Tags       </description>
     </item>
     

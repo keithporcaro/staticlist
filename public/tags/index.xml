@@ -1,246 +1,283 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Forty</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Forty</description>
+    <title>Tags on Academic</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/tags/</link>
+      <link>/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/</guid>
+      <guid>/tags/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A2j</title>
-      <link>http://example.org/tags/a2j/</link>
+      <title>A2J</title>
+      <link>/tags/a2j/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/a2j/</guid>
+      <guid>/tags/a2j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A2J;</title>
+      <link>/tags/a2j/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/a2j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bail</title>
-      <link>http://example.org/tags/bail/</link>
+      <link>/tags/bail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/bail/</guid>
+      <guid>/tags/bail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain</title>
-      <link>http://example.org/tags/blockchain/</link>
+      <link>/tags/blockchain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/blockchain/</guid>
+      <guid>/tags/blockchain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crowd Sourcing</title>
-      <link>http://example.org/tags/crowd-sourcing/</link>
+      <link>/tags/crowd-sourcing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/crowd-sourcing/</guid>
+      <guid>/tags/crowd-sourcing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crowdsourced</title>
-      <link>http://example.org/tags/crowdsourced/</link>
+      <link>/tags/crowdsourced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/crowdsourced/</guid>
+      <guid>/tags/crowdsourced/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crowdsourcing</title>
-      <link>http://example.org/tags/crowdsourcing/</link>
+      <link>/tags/crowdsourcing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/crowdsourcing/</guid>
+      <guid>/tags/crowdsourcing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>http://example.org/tags/data/</link>
+      <link>/tags/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/data/</guid>
+      <guid>/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data;</title>
+      <link>/tags/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defense</title>
-      <link>http://example.org/tags/defense/</link>
+      <link>/tags/defense/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/defense/</guid>
+      <guid>/tags/defense/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dispute Resolution</title>
-      <link>http://example.org/tags/dispute-resolution/</link>
+      <title>Dispute Resolution </title>
+      <link>/tags/dispute-resolution-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/dispute-resolution/</guid>
+      <guid>/tags/dispute-resolution-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diversion</title>
-      <link>http://example.org/tags/diversion/</link>
+      <link>/tags/diversion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/diversion/</guid>
+      <guid>/tags/diversion/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Expungements  Pardons</title>
-      <link>http://example.org/tags/expungements--pardons/</link>
+      <title>Expungements &amp; Pardons</title>
+      <link>/tags/expungements--pardons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/expungements--pardons/</guid>
+      <guid>/tags/expungements--pardons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gangs</title>
-      <link>http://example.org/tags/gangs/</link>
+      <link>/tags/gangs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/gangs/</guid>
+      <guid>/tags/gangs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigation</title>
-      <link>http://example.org/tags/investigation/</link>
+      <link>/tags/investigation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/investigation/</guid>
+      <guid>/tags/investigation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legal Education</title>
-      <link>http://example.org/tags/legal-education/</link>
+      <link>/tags/legal-education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/legal-education/</guid>
+      <guid>/tags/legal-education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Data</title>
-      <link>http://example.org/tags/open-data/</link>
+      <link>/tags/open-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/open-data/</guid>
+      <guid>/tags/open-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Sourced</title>
-      <link>http://example.org/tags/open-sourced/</link>
+      <link>/tags/open-sourced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/open-sourced/</guid>
+      <guid>/tags/open-sourced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Sourced;</title>
+      <link>/tags/open-sourced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-sourced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open sourced</title>
+      <link>/tags/open-sourced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-sourced/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Police Accountability</title>
-      <link>http://example.org/tags/police-accountability/</link>
+      <link>/tags/police-accountability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/police-accountability/</guid>
+      <guid>/tags/police-accountability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive</title>
-      <link>http://example.org/tags/predictive/</link>
+      <link>/tags/predictive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/predictive/</guid>
+      <guid>/tags/predictive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive Policing</title>
-      <link>http://example.org/tags/predictive-policing/</link>
+      <link>/tags/predictive-policing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/predictive-policing/</guid>
+      <guid>/tags/predictive-policing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prosectuors</title>
-      <link>http://example.org/tags/prosectuors/</link>
+      <link>/tags/prosectuors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/prosectuors/</guid>
+      <guid>/tags/prosectuors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prosecutors</title>
-      <link>http://example.org/tags/prosecutors/</link>
+      <link>/tags/prosecutors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/prosecutors/</guid>
+      <guid>/tags/prosecutors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://example.org/tags/research/</link>
+      <link>/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/research/</guid>
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk Assessment</title>
-      <link>http://example.org/tags/risk-assessment/</link>
+      <link>/tags/risk-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/risk-assessment/</guid>
+      <guid>/tags/risk-assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sexual Assault</title>
-      <link>http://example.org/tags/sexual-assault/</link>
+      <link>/tags/sexual-assault/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/sexual-assault/</guid>
+      <guid>/tags/sexual-assault/</guid>
       <description></description>
     </item>
     
     <item>
       <title>White Collar</title>
-      <link>http://example.org/tags/white-collar/</link>
+      <link>/tags/white-collar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/white-collar/</guid>
+      <guid>/tags/white-collar/</guid>
       <description></description>
     </item>
     

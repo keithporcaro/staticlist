@@ -1,84 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Investigation on Forty</title>
-    <link>http://example.org/tags/investigation/</link>
-    <description>Recent content in Investigation on Forty</description>
+    <title>Investigation on Academic</title>
+    <link>/tags/investigation/</link>
+    <description>Recent content in Investigation on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/investigation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/investigation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Callisto</title>
-      <link>http://example.org/projects/callisto/</link>
+      <link>/projects/callisto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/callisto/</guid>
+      <guid>/projects/callisto/</guid>
       <description>   Name Callisto     Categories  Intake &amp;amp; Referral    Project URL https://demo.callistocampus.org/    Organization  Sexual Health Innovations    Location Various U.S. Universities    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User NA    Founded 2014    Tags  Sexual Assault , Open Sourced , Crowd Sourcing , Investigation     </description>
     </item>
     
     <item>
       <title>FQ Task Force</title>
-      <link>http://example.org/projects/fq-task-force/</link>
+      <link>/projects/fq-task-force/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/fq-task-force/</guid>
+      <guid>/projects/fq-task-force/</guid>
       <description>   Name FQ Task Force     Categories  Law Enforcement    Project URL http://www.fqtaskforce.com/    Organization  SDT Productions    Location New Orleans, LA    Open Source No    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Investigation     </description>
     </item>
     
     <item>
       <title>LEEDIR</title>
-      <link>http://example.org/projects/leedir/</link>
+      <link>/projects/leedir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/leedir/</guid>
+      <guid>/projects/leedir/</guid>
       <description>   Name LEEDIR     Categories  Law Enforcement    Project URL https://www.leedir.com    Organization  Citizen Global &amp;amp; LA County Sheriff&amp;#39;s Department    Location U.S.    Open Source No    Open Data     Compatibility  Cloud    Outcome Measurements     Cost to User Free to law enforcement    Founded 2014    Tags  Investigation     </description>
     </item>
     
     <item>
       <title>Nextdoor</title>
-      <link>http://example.org/projects/nextdoor/</link>
+      <link>/projects/nextdoor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/nextdoor/</guid>
+      <guid>/projects/nextdoor/</guid>
       <description>   Name Nextdoor     Categories  Law Enforcement    Project URL https://nextdoor.com/    Organization  Nextdoor    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Crowdsourcing , Investigation     </description>
     </item>
     
     <item>
       <title>See Something Send Something</title>
-      <link>http://example.org/projects/see-something-send-something/</link>
+      <link>/projects/see-something-send-something/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/see-something-send-something/</guid>
+      <guid>/projects/see-something-send-something/</guid>
       <description>   Name See Something Send Something     Categories  Law Enforcement    Project URL http://www.mymobilewitness.com/consumer-services    Organization  My Mobile Witness    Location Colorado, Louisiana, New York, Ohio, Pennsylvania, Virginia    Open Source No    Outcome Measurements     Cost to User Free to users    Founded 2008    Tags  Crowdsourcing , Investigation     </description>
     </item>
     
     <item>
       <title>ShotSpotter</title>
-      <link>http://example.org/projects/shotspotter/</link>
+      <link>/projects/shotspotter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/shotspotter/</guid>
+      <guid>/projects/shotspotter/</guid>
       <description>   Name ShotSpotter     Categories  Law Enforcement    Project URL http://www.shotspotter.com/    Organization  SST    Location International    Open Source No    Outcome Measurements     Cost to User Yes    Founded 1996    Tags  Crowdsourcing , Investigation     </description>
     </item>
     
     <item>
       <title>Solve a Crime</title>
-      <link>http://example.org/projects/solve-a-crime/</link>
+      <link>/projects/solve-a-crime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/solve-a-crime/</guid>
+      <guid>/projects/solve-a-crime/</guid>
       <description>   Name Solve a Crime     Categories  Law Enforcement    Project URL https://www.solveacrime.com/    Organization  Qface Systems LLC.    Location U.S.    Open Source No    Outcome Measurements     Cost to User Varies    Founded 2015    Tags  Crowdsourcing , Investigation     </description>
     </item>
     
     <item>
       <title>Visallo</title>
-      <link>http://example.org/projects/visallo/</link>
+      <link>/projects/visallo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/visallo/</guid>
+      <guid>/projects/visallo/</guid>
       <description>   Name Visallo     Categories  Law Enforcement    Project URL https://www.visallo.com    Organization  Visallo    Location U.S.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Varies    Founded 2014    Tags  Open Sourced , Investigation     </description>
     </item>
     

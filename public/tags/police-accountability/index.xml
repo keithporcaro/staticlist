@@ -1,246 +1,247 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Police Accountability on Forty</title>
-    <link>http://example.org/tags/police-accountability/</link>
-    <description>Recent content in Police Accountability on Forty</description>
+    <title>Police Accountability on Academic</title>
+    <link>/tags/police-accountability/</link>
+    <description>Recent content in Police Accountability on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/police-accountability/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/police-accountability/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arrest SOS</title>
-      <link>http://example.org/projects/arrest-sos/</link>
+      <link>/projects/arrest-sos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/arrest-sos/</guid>
+      <guid>/projects/arrest-sos/</guid>
       <description>   Name Arrest SOS     Categories  Intake &amp;amp; Referral    Project URL http://arrestsos.com/    Organization  Arrest SOS    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Free    Founded 2011    Tags  A2J , Police Accountability     </description>
     </item>
     
     <item>
       <title>Buoy</title>
-      <link>http://example.org/projects/buoy/</link>
+      <link>/projects/buoy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/buoy/</guid>
+      <guid>/projects/buoy/</guid>
       <description>   Name Buoy     Categories  Law Enforcement    Project URL https://maymay.net/blog/2015/11/25/a-sneak-peek-at-better-angels-buoy-the-private-enhanced-9-1-1-for-your-personal-community/    Organization  Better Angel Collective    Location U.S.    Open Source https://github.com/meitar/better-angels/#readme    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Police Accountability     </description>
     </item>
     
     <item>
       <title>Chicago Police Board Info Center</title>
-      <link>http://example.org/projects/chicago-police-board-info-center/</link>
+      <link>/projects/chicago-police-board-info-center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/chicago-police-board-info-center/</guid>
+      <guid>/projects/chicago-police-board-info-center/</guid>
       <description>   Name Chicago Police Board Info Center     Categories  Law Enforcement    Project URL http://www.cpbinfocenter.org/    Organization  Chicago Justice Project    Location Chicago, IL    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Citizens Police Data Project</title>
-      <link>http://example.org/projects/citizens-police-data-project/</link>
+      <link>/projects/citizens-police-data-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/citizens-police-data-project/</guid>
+      <guid>/projects/citizens-police-data-project/</guid>
       <description>   Name Citizens Police Data Project     Categories  Law Enforcement    Project URL http://cpdb.co/    Organization  Invisible Institute    Location Chicago, IL    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Cop Accountability Project</title>
-      <link>http://example.org/projects/cop-accountability-project/</link>
+      <link>/projects/cop-accountability-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/cop-accountability-project/</guid>
+      <guid>/projects/cop-accountability-project/</guid>
       <description>   Name Cop Accountability Project     Categories  Law Enforcement    Project URL     Organization  New York Legal Aid Society    Location New York City, NY    Public Portal No    Bulk Download No    Ongoing Yes    Founded 2015    Tags  Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Cop Watch Video Recorder</title>
-      <link>http://example.org/projects/cop-watch-video-recorder/</link>
+      <link>/projects/cop-watch-video-recorder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/cop-watch-video-recorder/</guid>
+      <guid>/projects/cop-watch-video-recorder/</guid>
       <description>   Name Cop Watch Video Recorder     Categories  Law Enforcement    Project URL http://nepv.org/cop-watch/download-app    Organization  Network for Elimination of Police Violence    Location Toronto, Canada    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
     </item>
     
     <item>
       <title>Fatal Encounters</title>
-      <link>http://example.org/projects/fatal-encounters/</link>
+      <link>/projects/fatal-encounters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/fatal-encounters/</guid>
+      <guid>/projects/fatal-encounters/</guid>
       <description>   Name Fatal Encounters     Categories  Law Enforcement    Project URL http://www.fatalencounters.org/    Organization  D. Brian Burghart    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Five-0</title>
-      <link>http://example.org/projects/five-0/</link>
+      <link>/projects/five-0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/five-0/</guid>
+      <guid>/projects/five-0/</guid>
       <description>   Name Five-0     Categories  Law Enforcement    Project URL http://fiveo.us/    Organization  Pinetart, Inc.    Location Georgia    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
     </item>
     
     <item>
       <title>I&#39;m Getting Arrested</title>
-      <link>http://example.org/projects/im-getting-arrested/</link>
+      <link>/projects/im-getting-arrested/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/im-getting-arrested/</guid>
+      <guid>/projects/im-getting-arrested/</guid>
       <description>   Name I&amp;rsquo;m Getting Arrested     Categories  Law Enforcement    Project URL https://play.google.com/store/apps/details?id=us.quadrant2.arrested&amp;amp;hl=en    Organization  Quadrant 2, Inc.    Location International    Open Source No    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Crowdsourcing , Police Accountability     </description>
     </item>
     
     <item>
       <title>Killed By Police</title>
-      <link>http://example.org/projects/killed-by-police/</link>
+      <link>/projects/killed-by-police/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/killed-by-police/</guid>
+      <guid>/projects/killed-by-police/</guid>
       <description>   Name Killed By Police     Categories  Law Enforcement    Project URL http://killedbypolice.net/    Organization  Killed By Police    Location U.S.    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2013    Tags  Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>LegalEq</title>
-      <link>http://example.org/projects/legaleq/</link>
+      <link>/projects/legaleq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/legaleq/</guid>
+      <guid>/projects/legaleq/</guid>
       <description>   Name LegalEq     Categories  Law Enforcement    Project URL http://www.legaleqapp.com/    Organization  Legal Equalizer LLC    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Police Accountability     </description>
     </item>
     
     <item>
       <title>Mapping Police Violence</title>
-      <link>http://example.org/projects/mapping-police-violence/</link>
+      <link>/projects/mapping-police-violence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/mapping-police-violence/</guid>
+      <guid>/projects/mapping-police-violence/</guid>
       <description>   Name Mapping Police Violence     Categories  Law Enforcement    Project URL http://mappingpoliceviolence.org/    Organization  Various Stakeholders    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Mobile Justice App</title>
-      <link>http://example.org/projects/mobile-justice-app/</link>
+      <link>/projects/mobile-justice-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/mobile-justice-app/</guid>
+      <guid>/projects/mobile-justice-app/</guid>
       <description>   Name Mobile Justice App     Categories  Law Enforcement    Project URL https://www.aclu.org/feature/aclu-apps-record-police-conduct    Organization  ACLU    Location Arizona, California, Colorado, Washington D.C., Gerogia, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New Jersey, New Mexico, North Carolina, Oklahoma, Oregon, Pennsylvania, Virginia    Open Source No    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Police Accountability     </description>
     </item>
     
     <item>
       <title>National Police Misconduct Reporting Project</title>
-      <link>http://example.org/projects/national-police-misconduct-reporting-project/</link>
+      <link>/projects/national-police-misconduct-reporting-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/national-police-misconduct-reporting-project/</guid>
+      <guid>/projects/national-police-misconduct-reporting-project/</guid>
       <description>   Name National Police Misconduct Reporting Project     Categories  Law Enforcement    Project URL https://www.policemisconduct.net    Organization  Cato Institute    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2012    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Notice of Claim</title>
-      <link>http://example.org/projects/notice-of-claim/</link>
+      <link>/projects/notice-of-claim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/notice-of-claim/</guid>
+      <guid>/projects/notice-of-claim/</guid>
       <description>   Name Notice of Claim     Categories  Intake &amp;amp; Referral    Project URL http://notice-of-claim.herokuapp.com/    Organization  Justice Codes &amp;#43; Partners    Location New York City, NY    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Police Accountability , Open Sourced     </description>
     </item>
     
     <item>
       <title>Officer Complaint History</title>
-      <link>http://example.org/projects/officer-complaint-history/</link>
+      <link>/projects/officer-complaint-history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/officer-complaint-history/</guid>
+      <guid>/projects/officer-complaint-history/</guid>
       <description>   Name Officer Complaint History     Categories  Law Enforcement    Project URL http://www.ci.minneapolis.mn.us/civilrights/policereview/opcr-data    Organization  Minneapolis Police Department    Location Minneapolis, MN    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2012    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Open Data Policing NC</title>
-      <link>http://example.org/projects/open-data-policing-nc/</link>
+      <link>/projects/open-data-policing-nc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/open-data-policing-nc/</guid>
+      <guid>/projects/open-data-policing-nc/</guid>
       <description>   Name Open Data Policing NC     Categories  Law Enforcement    Project URL https://opendatapolicingnc.com/    Organization  Southern Coalition for Social Justice    Location North Carolina    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Open Police Complaints</title>
-      <link>http://example.org/projects/open-police-complaints/</link>
+      <link>/projects/open-police-complaints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/open-police-complaints/</guid>
+      <guid>/projects/open-police-complaints/</guid>
       <description>   Name Open Police Complaints     Categories  Law Enforcement    Project URL https://openpolice.org/    Organization  Flex Your Rights    Location U.S.    Public Portal No    Bulk Download Not yet    Ongoing Yes    Founded 2016    Tags  Police Accountability , Legal Education     </description>
     </item>
     
     <item>
       <title>Police Shootings Investigation</title>
-      <link>http://example.org/projects/police-shootings-investigation/</link>
+      <link>/projects/police-shootings-investigation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/police-shootings-investigation/</guid>
+      <guid>/projects/police-shootings-investigation/</guid>
       <description>   Name Police Shootings Investigation     Categories  Law Enforcement    Project URL https://www.washingtonpost.com/graphics/national/police-shootings/    Organization  The Washington Post    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Project Comport</title>
-      <link>http://example.org/projects/project-comport/</link>
+      <link>/projects/project-comport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/project-comport/</guid>
+      <guid>/projects/project-comport/</guid>
       <description>   Name Project Comport     Categories  Law Enforcement    Project URL https://www.projectcomport.org/    Organization  Code for America    Location Indianapolis, IN    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Raheem</title>
-      <link>http://example.org/projects/raheem/</link>
+      <link>/projects/raheem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/raheem/</guid>
+      <guid>/projects/raheem/</guid>
       <description>   Name Raheem     Categories  Law Enforcement    Project URL http://raheem.ai/    Organization  Raheem AI    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Police Accountability     </description>
     </item>
     
     <item>
       <title>Seattle Complaint Portal</title>
-      <link>http://example.org/projects/seattle-complaint-portal/</link>
+      <link>/projects/seattle-complaint-portal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/seattle-complaint-portal/</guid>
+      <guid>/projects/seattle-complaint-portal/</guid>
       <description>   Name Seattle Complaint Portal     Categories  Law Enforcement    Project URL http://www.seattle.gov/opa/file-a-complaint-about-the-seattle-police    Organization  Seattle Police    Location Seattle, WA    Open Source No    Open Data https://data.seattle.gov/City-Business/OPA-Complaint-Tracker/pafy-bfmu    Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Police Accountability , Open Data , Data     </description>
     </item>
     
     <item>
       <title>Stop and Frisk App</title>
-      <link>http://example.org/projects/stop-and-frisk-app/</link>
+      <link>/projects/stop-and-frisk-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/stop-and-frisk-app/</guid>
+      <guid>/projects/stop-and-frisk-app/</guid>
       <description>   Name Stop and Frisk App     Categories  Law Enforcement    Project URL http://www.nyclu.org/app    Organization  NY Civil Liberties Union    Location New York City, NY    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
     </item>
     
     <item>
       <title>The Counted</title>
-      <link>http://example.org/projects/the-counted/</link>
+      <link>/projects/the-counted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/the-counted/</guid>
+      <guid>/projects/the-counted/</guid>
       <description>   Name The Counted     Categories  Law Enforcement    Project URL http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database    Organization  The Guardian    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Unfounded</title>
-      <link>http://example.org/projects/unfounded/</link>
+      <link>/projects/unfounded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/unfounded/</guid>
+      <guid>/projects/unfounded/</guid>
       <description>   Name Unfounded     Categories  Law Enforcement    Project URL https://beta.theglobeandmail.com/news/investigations/compare-unfounded-sex-assault-rates-across-canada/article33855643/?ref=http://www.theglobeandmail.com&amp;amp;    Organization  The Globe and Mail    Location Canada    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2017    Tags  Data , Sexual Assault , Police Accountability     </description>
     </item>
     
     <item>
       <title>Use of Force Project</title>
-      <link>http://example.org/projects/use-of-force-project/</link>
+      <link>/projects/use-of-force-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/use-of-force-project/</guid>
+      <guid>/projects/use-of-force-project/</guid>
       <description>   Name Use of Force Project     Categories  Law Enforcement    Project URL http://useofforceproject.org/    Organization  Various Stakeholders    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2016    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     

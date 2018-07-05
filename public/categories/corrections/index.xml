@@ -1,156 +1,157 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Corrections on Forty</title>
-    <link>http://example.org/categories/corrections/</link>
-    <description>Recent content in Corrections on Forty</description>
+    <title>Corrections on Academic</title>
+    <link>/categories/corrections/</link>
+    <description>Recent content in Corrections on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/categories/corrections/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/corrections/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Between the Bars</title>
-      <link>http://example.org/projects/between-the-bars/</link>
+      <link>/projects/between-the-bars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/between-the-bars/</guid>
+      <guid>/projects/between-the-bars/</guid>
       <description>   Name Between the Bars     Categories  Corrections    Project URL https://betweenthebars.org/    Organization  MIT Center for Civic Media    Location U.S.    Open Source No    Open Data     Compatibility  Web , Paper    Outcome Measurements     Cost to User Free    Founded 2012    Tags       </description>
     </item>
     
     <item>
       <title>Chicagos Million Dollar Blocks</title>
-      <link>http://example.org/projects/chicagos-million-dollar-blocks/</link>
+      <link>/projects/chicagos-million-dollar-blocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/chicagos-million-dollar-blocks/</guid>
+      <guid>/projects/chicagos-million-dollar-blocks/</guid>
       <description>   Name Chicagos Million Dollar Blocks     Categories  Corrections    Project URL http://chicagosmilliondollarblocks.com/    Organization  Various Stakeholders    Location Chicago, IL    Public Portal Yes    Bulk Download No    Ongoing No    Founded 2006    Tags  Data     </description>
     </item>
     
     <item>
       <title>Correctional Assessment and Intervention System (CAIS)</title>
-      <link>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</link>
+      <link>/projects/correctional-assessment-and-intervention-system-cais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</guid>
+      <guid>/projects/correctional-assessment-and-intervention-system-cais/</guid>
       <description>   Name Correctional Assessment and Intervention System (CAIS)     Categories  Corrections    Project URL http://www.nccdglobal.org/assessment/correctional-assessment-and-intervention-system-cais    Organization  National Council on Crime and Delinquency    Location U.S.    What is Predicted Likelihood of recidivism    Open Source     Available Training Data NA    Ongoing Yes    Founded NA    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Correctional Offender Management Profile for Alternative Sanctions (COMPAS)</title>
-      <link>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</link>
+      <link>/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</guid>
+      <guid>/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</guid>
       <description>   Name Correctional Offender Management Profile for Alternative Sanctions (COMPAS)     Categories  Corrections    Project URL http://www.equivant.com/solutions/inmate-classification    Organization  Equivant    Location U.S.    What is Predicted Likelihood of recidivism; service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded 1989    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Flikshop</title>
-      <link>http://example.org/projects/flikshop/</link>
+      <link>/projects/flikshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/flikshop/</guid>
+      <guid>/projects/flikshop/</guid>
       <description>   Name Flikshop     Categories  Corrections    Project URL     Organization  Flikshop    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User $.99 per postcard    Founded 2011    Tags       </description>
     </item>
     
     <item>
       <title>Harm Assessment Risk Tool</title>
-      <link>http://example.org/projects/harm-assessment-risk-tool/</link>
+      <link>/projects/harm-assessment-risk-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/harm-assessment-risk-tool/</guid>
+      <guid>/projects/harm-assessment-risk-tool/</guid>
       <description>   Name Harm Assessment Risk Tool     Categories  Corrections    Project URL     Organization  Durham Constabulary &amp;amp; University of Cambridge&amp;#39;s Centre for Evidence-based Policing    Location Durham, England    What is Predicted Likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2013    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Haystac</title>
-      <link>http://example.org/projects/haystac/</link>
+      <link>/projects/haystac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/haystac/</guid>
+      <guid>/projects/haystac/</guid>
       <description>   Name Haystac     Categories  Corrections    Project URL https://pigeon.ly/search?_ga=2.133203149.21256110.1527441308-1979766512.1527441308    Organization  Pigeon.ly    Location U.S.    Public Portal Yes, behind pay wall    Bulk Download No    Ongoing Yes    Founded 2015    Tags  Data     </description>
     </item>
     
     <item>
       <title>Jail Population Dashboard</title>
-      <link>http://example.org/projects/jail-population-dashboard/</link>
+      <link>/projects/jail-population-dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/jail-population-dashboard/</guid>
+      <guid>/projects/jail-population-dashboard/</guid>
       <description>   Name Jail Population Dashboard     Categories  Corrections    Project URL https://cjdashboardtst.louisvilleky.gov/    Organization  Code for America    Location Louisville, KY    Public Portal Yes, via separate Xjail data portal    Bulk Download No    Ongoing Yes    Founded 2013    Tags  Data , Open Sourced     </description>
     </item>
     
     <item>
       <title>Justice Atlas</title>
-      <link>http://example.org/projects/justice-atlas/</link>
+      <link>/projects/justice-atlas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/justice-atlas/</guid>
+      <guid>/projects/justice-atlas/</guid>
       <description>   Name Justice Atlas     Categories  Corrections    Project URL http://www.justiceatlas.org/    Organization  Justice Mapping Center    Location U.S.    Public Portal Yes    Bulk Download No    Ongoing No    Founded 2010    Tags  Data     </description>
     </item>
     
     <item>
       <title>Level of Service Assessments (LSI-R and LS/CMI)</title>
-      <link>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</link>
+      <link>/projects/level-of-service-assessments-lsi-r-and-lscmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</guid>
+      <guid>/projects/level-of-service-assessments-lsi-r-and-lscmi/</guid>
       <description>   Name Level of Service Assessments (LSI-R and LS/CMI)     Categories  Corrections    Project URL http://www.mhs.com/product.aspx?gr=saf&amp;amp;id=overview&amp;amp;prod=ls-cmi    Organization  Multi-Health Systems, Inc.    Location U.S.    What is Predicted Likelihood of recidivism; service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded 1995    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Offender Screening Tool (OST)</title>
-      <link>http://example.org/projects/offender-screening-tool-ost/</link>
+      <link>/projects/offender-screening-tool-ost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/offender-screening-tool-ost/</guid>
+      <guid>/projects/offender-screening-tool-ost/</guid>
       <description>   Name Offender Screening Tool (OST)     Categories  Corrections    Project URL https://www.azcourts.gov/apsd/Evidence-Based-Practice/Risk-Needs-Assessment/Offender-Screening-Tool-OST    Organization  Arizona Judicial Branch    Location Arizona, Virginia    What is Predicted likelihood of recidivism; includes service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded NA    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Ohio Risk Assessment System (ORAS)</title>
-      <link>http://example.org/projects/ohio-risk-assessment-system-oras/</link>
+      <link>/projects/ohio-risk-assessment-system-oras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/ohio-risk-assessment-system-oras/</guid>
+      <guid>/projects/ohio-risk-assessment-system-oras/</guid>
       <description>   Name Ohio Risk Assessment System (ORAS)     Categories  Corrections    Project URL http://www.drc.ohio.gov/oras    Organization  Ohio Dept. of Rehabilitation and Correction    Location Ohio    What is Predicted 10 tools: ranging from likelihood of recidivism, misdemeanor screening, community supervision screening    Open Source     Available Training Data No    Ongoing Yes    Founded 2011    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Photo, Print, Voice, &amp; Letters</title>
-      <link>http://example.org/projects/photo-print-voice--letters/</link>
+      <link>/projects/photo-print-voice--letters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/photo-print-voice--letters/</guid>
+      <guid>/projects/photo-print-voice--letters/</guid>
       <description>   Name Photo, Print, Voice, &amp;amp; Letters     Categories  Corrections    Project URL     Organization  Pigeon.ly    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies by Service    Founded 2012    Tags       </description>
     </item>
     
     <item>
       <title>Public Safety Assessment</title>
-      <link>http://example.org/projects/public-safety-assessment/</link>
+      <link>/projects/public-safety-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/public-safety-assessment/</guid>
+      <guid>/projects/public-safety-assessment/</guid>
       <description>   Name Public Safety Assessment     Categories  Corrections    Project URL http://www.arnoldfoundation.org/initiative/criminal-justice/crime-prevention/public-safety-assessment/    Organization  Laura and John Arnold Foundation    Location Kentucky, New Jersey, Arizona, Florida, Illinois, Ohio, Pennsylvania, Washington, Wisconsin, California, North Carolina    What is Predicted Likelihood to attend court date; likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2017    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Static Risk and Offender Needs Guide (STRONG)</title>
-      <link>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</link>
+      <link>/projects/static-risk-and-offender-needs-guide-strong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</guid>
+      <guid>/projects/static-risk-and-offender-needs-guide-strong/</guid>
       <description>   Name Static Risk and Offender Needs Guide (STRONG)     Categories  Corrections    Project URL     Organization  Washington State Institute for Criminal Justice &amp;amp; Washington Department of Corrections    Location Califonria, Florida, Texas, Washington    What is Predicted Likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2013    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Yelp Prison Review Faxbot</title>
-      <link>http://example.org/projects/yelp-prison-review-faxbot/</link>
+      <link>/projects/yelp-prison-review-faxbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/yelp-prison-review-faxbot/</guid>
+      <guid>/projects/yelp-prison-review-faxbot/</guid>
       <description>   Name Yelp Prison Review Faxbot     Categories  Corrections    Project URL http://lav.io/2014/11/yelp-prison-review-faxbot/    Organization  Sam Lavign    Location Various U.S. Prisons    Open Source Yes    Open Data     Compatibility  Web , Fax    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Open Sourced;     </description>
     </item>
     

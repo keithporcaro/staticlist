@@ -1,165 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Predictive on Forty</title>
-    <link>http://example.org/project_types/predictive/</link>
-    <description>Recent content in Predictive on Forty</description>
+    <title>Predictive on Academic</title>
+    <link>/project_types/predictive/</link>
+    <description>Recent content in Predictive on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/project_types/predictive/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project_types/predictive/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Correctional Assessment and Intervention System (CAIS)</title>
-      <link>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</link>
+      <link>/projects/correctional-assessment-and-intervention-system-cais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</guid>
+      <guid>/projects/correctional-assessment-and-intervention-system-cais/</guid>
       <description>   Name Correctional Assessment and Intervention System (CAIS)     Categories  Corrections    Project URL http://www.nccdglobal.org/assessment/correctional-assessment-and-intervention-system-cais    Organization  National Council on Crime and Delinquency    Location U.S.    What is Predicted Likelihood of recidivism    Open Source     Available Training Data NA    Ongoing Yes    Founded NA    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Correctional Offender Management Profile for Alternative Sanctions (COMPAS)</title>
-      <link>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</link>
+      <link>/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</guid>
+      <guid>/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</guid>
       <description>   Name Correctional Offender Management Profile for Alternative Sanctions (COMPAS)     Categories  Corrections    Project URL http://www.equivant.com/solutions/inmate-classification    Organization  Equivant    Location U.S.    What is Predicted Likelihood of recidivism; service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded 1989    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Crime Scape</title>
-      <link>http://example.org/projects/crime-scape/</link>
+      <link>/projects/crime-scape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/crime-scape/</guid>
+      <guid>/projects/crime-scape/</guid>
       <description>   Name Crime Scape     Categories  Law Enforcement    Project URL https://www.civicscape.com/    Organization  CivicScape    Location U.S.    What is Predicted Where police are needed    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Sourced , Open Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>Finding Street Gang Members on Twitter</title>
-      <link>http://example.org/projects/finding-street-gang-members-on-twitter/</link>
+      <link>/projects/finding-street-gang-members-on-twitter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/finding-street-gang-members-on-twitter/</guid>
+      <guid>/projects/finding-street-gang-members-on-twitter/</guid>
       <description>   Name Finding Street Gang Members on Twitter     Categories  Law Enforcement    Project URL     Organization  Kno.e.sis at Wright State University    Location U.S.    What is Predicted Likelihood person is a gang member    Open Source     Available Training Data No    Ongoing No    Founded 2010    Tags  Gangs , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Harm Assessment Risk Tool</title>
-      <link>http://example.org/projects/harm-assessment-risk-tool/</link>
+      <link>/projects/harm-assessment-risk-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/harm-assessment-risk-tool/</guid>
+      <guid>/projects/harm-assessment-risk-tool/</guid>
       <description>   Name Harm Assessment Risk Tool     Categories  Corrections    Project URL     Organization  Durham Constabulary &amp;amp; University of Cambridge&amp;#39;s Centre for Evidence-based Policing    Location Durham, England    What is Predicted Likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2013    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Hitachi Visualization Predictive Crime Analytics</title>
-      <link>http://example.org/projects/hitachi-visualization-predictive-crime-analytics/</link>
+      <link>/projects/hitachi-visualization-predictive-crime-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/hitachi-visualization-predictive-crime-analytics/</guid>
+      <guid>/projects/hitachi-visualization-predictive-crime-analytics/</guid>
       <description>   Name Hitachi Visualization Predictive Crime Analytics     Categories  Law Enforcement    Project URL https://www.hds.com/en-us/news-insights/press-releases/2015/gl150928.html    Organization  Hitachi Data Systems Corporation    Location U.S.    What is Predicted Where police are needed/ geospatial risk of crime    Open Source     Available Training Data No    Ongoing Yes    Founded 2015    Tags  Predictive Policing     </description>
     </item>
     
     <item>
       <title>Hunchlab</title>
-      <link>http://example.org/projects/hunchlab/</link>
+      <link>/projects/hunchlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/hunchlab/</guid>
+      <guid>/projects/hunchlab/</guid>
       <description>   Name Hunchlab     Categories  Law Enforcement    Project URL https://www.hunchlab.com/    Organization  Avazea    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2005    Tags  Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>Internet Banging Algorithm </title>
-      <link>http://example.org/projects/internet-banging-algorithm-/</link>
+      <link>/projects/internet-banging-algorithm-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/internet-banging-algorithm-/</guid>
+      <guid>/projects/internet-banging-algorithm-/</guid>
       <description>   Name Internet Banging Algorithm     Categories  Law Enforcement    Project URL     Organization  Columbia School of Social work: Desmond Patton    Location U.S.    What is Predicted Likelihood a youth&amp;#39;s violent post to social media is going to percipitate a violent act    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2012    Tags  Gangs , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Level of Service Assessments (LSI-R and LS/CMI)</title>
-      <link>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</link>
+      <link>/projects/level-of-service-assessments-lsi-r-and-lscmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</guid>
+      <guid>/projects/level-of-service-assessments-lsi-r-and-lscmi/</guid>
       <description>   Name Level of Service Assessments (LSI-R and LS/CMI)     Categories  Corrections    Project URL http://www.mhs.com/product.aspx?gr=saf&amp;amp;id=overview&amp;amp;prod=ls-cmi    Organization  Multi-Health Systems, Inc.    Location U.S.    What is Predicted Likelihood of recidivism; service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded 1995    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Offender Screening Tool (OST)</title>
-      <link>http://example.org/projects/offender-screening-tool-ost/</link>
+      <link>/projects/offender-screening-tool-ost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/offender-screening-tool-ost/</guid>
+      <guid>/projects/offender-screening-tool-ost/</guid>
       <description>   Name Offender Screening Tool (OST)     Categories  Corrections    Project URL https://www.azcourts.gov/apsd/Evidence-Based-Practice/Risk-Needs-Assessment/Offender-Screening-Tool-OST    Organization  Arizona Judicial Branch    Location Arizona, Virginia    What is Predicted likelihood of recidivism; includes service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded NA    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Ohio Risk Assessment System (ORAS)</title>
-      <link>http://example.org/projects/ohio-risk-assessment-system-oras/</link>
+      <link>/projects/ohio-risk-assessment-system-oras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/ohio-risk-assessment-system-oras/</guid>
+      <guid>/projects/ohio-risk-assessment-system-oras/</guid>
       <description>   Name Ohio Risk Assessment System (ORAS)     Categories  Corrections    Project URL http://www.drc.ohio.gov/oras    Organization  Ohio Dept. of Rehabilitation and Correction    Location Ohio    What is Predicted 10 tools: ranging from likelihood of recidivism, misdemeanor screening, community supervision screening    Open Source     Available Training Data No    Ongoing Yes    Founded 2011    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Power BI &#43; Azure Analytics</title>
-      <link>http://example.org/projects/power-bi-azure-analytics/</link>
+      <link>/projects/power-bi-&#43;-azure-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/power-bi-azure-analytics/</guid>
+      <guid>/projects/power-bi-&#43;-azure-analytics/</guid>
+      <description>   Name Power BI + Azure Analytics     Categories  Law Enforcement    Project URL https://enterprise.microsoft.com/en-us/articles/industries/government/predictive-policing-the-future-of-law-enforcement/    Organization  Microsoft    Location Chicago, IL    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2016    Tags  Data , Predictive Policing     </description>
+    </item>
+    
+    <item>
+      <title>Power BI &#43; Azure Analytics</title>
+      <link>/projects/power-bi-azure-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/power-bi-azure-analytics/</guid>
       <description>   Name Power BI + Azure Analytics     Categories  Law Enforcement    Project URL https://enterprise.microsoft.com/en-us/articles/industries/government/predictive-policing-the-future-of-law-enforcement/    Organization  Microsoft    Location Chicago, IL    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2016    Tags  Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>PredPol</title>
-      <link>http://example.org/projects/predpol/</link>
+      <link>/projects/predpol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/predpol/</guid>
+      <guid>/projects/predpol/</guid>
       <description>   Name PredPol     Categories  Law Enforcement    Project URL http://www.predpol.com/    Organization  PredPol    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2012    Tags  Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>Public Safety Assessment</title>
-      <link>http://example.org/projects/public-safety-assessment/</link>
+      <link>/projects/public-safety-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/public-safety-assessment/</guid>
+      <guid>/projects/public-safety-assessment/</guid>
       <description>   Name Public Safety Assessment     Categories  Corrections    Project URL http://www.arnoldfoundation.org/initiative/criminal-justice/crime-prevention/public-safety-assessment/    Organization  Laura and John Arnold Foundation    Location Kentucky, New Jersey, Arizona, Florida, Illinois, Ohio, Pennsylvania, Washington, Wisconsin, California, North Carolina    What is Predicted Likelihood to attend court date; likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2017    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Static Risk and Offender Needs Guide (STRONG)</title>
-      <link>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</link>
+      <link>/projects/static-risk-and-offender-needs-guide-strong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</guid>
+      <guid>/projects/static-risk-and-offender-needs-guide-strong/</guid>
       <description>   Name Static Risk and Offender Needs Guide (STRONG)     Categories  Corrections    Project URL     Organization  Washington State Institute for Criminal Justice &amp;amp; Washington Department of Corrections    Location Califonria, Florida, Texas, Washington    What is Predicted Likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2013    Tags  Risk Assessment , Predictive , Data     </description>
     </item>
     
     <item>
       <title>Statistical Package for the Social Sciences</title>
-      <link>http://example.org/projects/statistical-package-for-the-social-sciences/</link>
+      <link>/projects/statistical-package-for-the-social-sciences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/statistical-package-for-the-social-sciences/</guid>
+      <guid>/projects/statistical-package-for-the-social-sciences/</guid>
       <description>   Name Statistical Package for the Social Sciences     Categories  Law Enforcement    Project URL http://www-01.ibm.com/software/analytics/spss/11/na/cpp/    Organization  IBM    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded NA    Tags  Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>White Collar Crime Risk Zones</title>
-      <link>http://example.org/projects/white-collar-crime-risk-zones/</link>
+      <link>/projects/white-collar-crime-risk-zones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/white-collar-crime-risk-zones/</guid>
+      <guid>/projects/white-collar-crime-risk-zones/</guid>
       <description>   Name White Collar Crime Risk Zones     Categories  Law Enforcement    Project URL https://whitecollar.thenewinquiry.com/    Organization  The New Inquiry Magazine    Location U.S.    What is Predicted Where white collar crime is likely to occur    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2017    Tags  White Collar , Data     </description>
     </item>
     

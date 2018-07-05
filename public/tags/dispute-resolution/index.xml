@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dispute Resolution on Forty</title>
-    <link>http://example.org/tags/dispute-resolution/</link>
+    <link>https://cranky-lamarr-dd2ed9.netlify.com/tags/dispute-resolution/</link>
     <description>Recent content in Dispute Resolution on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/tags/dispute-resolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cranky-lamarr-dd2ed9.netlify.com/tags/dispute-resolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Matterhorn</title>
-      <link>http://example.org/projects/matterhorn/</link>
+      <link>https://cranky-lamarr-dd2ed9.netlify.com/projects/matterhorn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/matterhorn/</guid>
+      <guid>https://cranky-lamarr-dd2ed9.netlify.com/projects/matterhorn/</guid>
       <description>   Name Matterhorn     Categories  Courts    Project URL http://getmatterhorn.com/    Organization  Court Innovations    Location Michigan    Open Source No    Open Data     Compatibility  Web , SMS    Outcome Measurements     Cost to User Free to Individuals, Court pays to install platform    Founded 2014    Tags  A2J , Dispute Resolution      </description>
     </item>
     

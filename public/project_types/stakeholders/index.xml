@@ -1,390 +1,391 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stakeholders on Forty</title>
-    <link>http://example.org/project_types/stakeholders/</link>
-    <description>Recent content in Stakeholders on Forty</description>
+    <title>Stakeholders on Academic</title>
+    <link>/project_types/stakeholders/</link>
+    <description>Recent content in Stakeholders on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/project_types/stakeholders/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project_types/stakeholders/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A2J Author</title>
-      <link>http://example.org/projects/a2j-author/</link>
+      <link>/projects/a2j-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/a2j-author/</guid>
+      <guid>/projects/a2j-author/</guid>
       <description>   Name A2J Author     Categories  Intake &amp;amp; Referral    Project URL https://www.kentlaw.iit.edu/institutes-centers/center-for-access-to-justice-and-technology/a2j-author    Organization  Chicago-Kent College of Law &amp;amp; CALI    Location U.S. &amp;amp; Canada    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free for certain non-profit legal service providers    Founded 1999    Tags  A2J     </description>
     </item>
     
     <item>
       <title>Acivilate</title>
-      <link>http://example.org/projects/acivilate/</link>
+      <link>/projects/acivilate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/acivilate/</guid>
+      <guid>/projects/acivilate/</guid>
       <description>   Name Acivilate     Categories  ReEntry    Project URL http://acivilate.com/    Organization  Acivilate    Location U.S.    Open Source Yes    Open Data     Compatibility  Web &amp;amp; mobile    Outcome Measurements     Cost to User SaaS model    Founded 2014    Tags  Open Sourced;     </description>
     </item>
     
     <item>
       <title>Arrest SOS</title>
-      <link>http://example.org/projects/arrest-sos/</link>
+      <link>/projects/arrest-sos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/arrest-sos/</guid>
+      <guid>/projects/arrest-sos/</guid>
       <description>   Name Arrest SOS     Categories  Intake &amp;amp; Referral    Project URL http://arrestsos.com/    Organization  Arrest SOS    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Free    Founded 2011    Tags  A2J , Police Accountability     </description>
     </item>
     
     <item>
       <title>Between the Bars</title>
-      <link>http://example.org/projects/between-the-bars/</link>
+      <link>/projects/between-the-bars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/between-the-bars/</guid>
+      <guid>/projects/between-the-bars/</guid>
       <description>   Name Between the Bars     Categories  Corrections    Project URL https://betweenthebars.org/    Organization  MIT Center for Civic Media    Location U.S.    Open Source No    Open Data     Compatibility  Web , Paper    Outcome Measurements     Cost to User Free    Founded 2012    Tags       </description>
     </item>
     
     <item>
       <title>Callisto</title>
-      <link>http://example.org/projects/callisto/</link>
+      <link>/projects/callisto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/callisto/</guid>
+      <guid>/projects/callisto/</guid>
       <description>   Name Callisto     Categories  Intake &amp;amp; Referral    Project URL https://demo.callistocampus.org/    Organization  Sexual Health Innovations    Location Various U.S. Universities    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User NA    Founded 2014    Tags  Sexual Assault , Open Sourced , Crowd Sourcing , Investigation     </description>
     </item>
     
     <item>
       <title>Clean Slate DC</title>
-      <link>http://example.org/projects/clean-slate-dc/</link>
+      <link>/projects/clean-slate-dc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/clean-slate-dc/</guid>
+      <guid>/projects/clean-slate-dc/</guid>
       <description>   Name Clean Slate DC     Categories  Intake &amp;amp; Referral    Project URL http://cleanslatedc.com    Organization  Rebuilding Reentry    Location Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>Clear My Record</title>
-      <link>http://example.org/projects/clear-my-record/</link>
+      <link>/projects/clear-my-record/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/clear-my-record/</guid>
+      <guid>/projects/clear-my-record/</guid>
       <description>   Name Clear My Record     Categories  Intake &amp;amp; Referral    Project URL https://clearmyrecord.codeforamerica.org/    Organization  Code for America    Location San Francisco, CA    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>ClientComm</title>
-      <link>http://example.org/projects/clientcomm/</link>
+      <link>/projects/clientcomm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/clientcomm/</guid>
+      <guid>/projects/clientcomm/</guid>
       <description>   Name ClientComm     Categories  Probation &amp;amp; Parole    Project URL https://clientcomm.org/    Organization  Code for America    Location Salt Lake County, UT    Open Source Yes    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Varies    Founded 2016    Tags  Open Sourced;     </description>
     </item>
     
     <item>
       <title>CourtBot</title>
-      <link>http://example.org/projects/courtbot/</link>
+      <link>/projects/courtbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/courtbot/</guid>
+      <guid>/projects/courtbot/</guid>
       <description>   Name CourtBot     Categories  Courts    Project URL https://www.codeforamerica.org/past-projects/court-bot    Organization  Code for America    Location Atlanta, GA    Open Source Yes    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal Texting Fees Apply    Founded 2016    Tags  Open Sourced , A2J     </description>
     </item>
     
     <item>
       <title>Expunge.io</title>
-      <link>http://example.org/projects/expungeio/</link>
+      <link>/projects/expungeio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/expungeio/</guid>
+      <guid>/projects/expungeio/</guid>
       <description>   Name Expunge.io     Categories  Intake &amp;amp; Referral    Project URL http://www.expunge.io/    Organization  Smart Chicago    Location Cook County, IL    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Expungements &amp;amp; Pardons , Open sourced     </description>
     </item>
     
     <item>
       <title>ExpungeMaryland</title>
-      <link>http://example.org/projects/expungemaryland/</link>
+      <link>/projects/expungemaryland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/expungemaryland/</guid>
+      <guid>/projects/expungemaryland/</guid>
       <description>   Name ExpungeMaryland     Categories  Intake &amp;amp; Referral    Project URL https://docs.google.com/spreadsheets/d/1xqdPyLLza8qlgY_HJg_yTwEuvQi5iJ-1NIxzNJw8fQw/expungemaryland.org    Organization  Advocates for Children &amp;amp; Youth    Location Maryland    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>Expungement Generator</title>
-      <link>http://example.org/projects/expungement-generator/</link>
+      <link>/projects/expungement-generator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/expungement-generator/</guid>
+      <guid>/projects/expungement-generator/</guid>
       <description>   Name Expungement Generator     Categories  Intake &amp;amp; Referral    Project URL     Organization  Community Legal Services    Location Philadelphia, PA    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>Flikshop</title>
-      <link>http://example.org/projects/flikshop/</link>
+      <link>/projects/flikshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/flikshop/</guid>
+      <guid>/projects/flikshop/</guid>
       <description>   Name Flikshop     Categories  Corrections    Project URL     Organization  Flikshop    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User $.99 per postcard    Founded 2011    Tags       </description>
     </item>
     
     <item>
       <title>FocalPoint</title>
-      <link>http://example.org/projects/focalpoint/</link>
+      <link>/projects/focalpoint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/focalpoint/</guid>
+      <guid>/projects/focalpoint/</guid>
       <description>   Name FocalPoint     Categories  Probation &amp;amp; Parole    Project URL     Organization  Omnilink    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies    Founded 1988    Tags       </description>
     </item>
     
     <item>
       <title>Friendly</title>
-      <link>http://example.org/projects/friendly/</link>
+      <link>/projects/friendly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/friendly/</guid>
+      <guid>/projects/friendly/</guid>
       <description>   Name Friendly     Categories  Intake &amp;amp; Referral    Project URL http://simlab.org/blog/2016/07/19/making-complexity-friendly/    Organization  SIMLab    Location Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Open Sourced;     </description>
     </item>
     
     <item>
       <title>GoodCall</title>
-      <link>http://example.org/projects/goodcall/</link>
+      <link>/projects/goodcall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/goodcall/</guid>
+      <guid>/projects/goodcall/</guid>
       <description>   Name GoodCall     Categories  Intake &amp;amp; Referral    Project URL https://goodcall.nyc/    Organization  Bronx Defenders; Blue Ridge Labs    Location Bronx, NY    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Defense     </description>
     </item>
     
     <item>
       <title>GunBail</title>
-      <link>http://example.org/projects/gunbail/</link>
+      <link>/projects/gunbail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/gunbail/</guid>
+      <guid>/projects/gunbail/</guid>
       <description>   Name GunBail     Categories  Law Enforcement    Project URL https://www.indiegogo.com/projects/gunbail-a-movement-to-stop-the-tears#/    Organization  GunBail, Inc.    Location New Jersey    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies    Founded 2016    Tags       </description>
     </item>
     
     <item>
       <title>Hate Crime Help</title>
-      <link>http://example.org/projects/hate-crime-help/</link>
+      <link>/projects/hate-crime-help/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/hate-crime-help/</guid>
+      <guid>/projects/hate-crime-help/</guid>
       <description>   Name Hate Crime Help     Categories  Intake &amp;amp; Referral    Project URL https://hatecrimehelp.com/    Organization  ABA Center for Innovation    Location U.S.    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2017    Tags  A2J     </description>
     </item>
     
     <item>
       <title>LEEDIR</title>
-      <link>http://example.org/projects/leedir/</link>
+      <link>/projects/leedir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/leedir/</guid>
+      <guid>/projects/leedir/</guid>
       <description>   Name LEEDIR     Categories  Law Enforcement    Project URL https://www.leedir.com    Organization  Citizen Global &amp;amp; LA County Sheriff&amp;#39;s Department    Location U.S.    Open Source No    Open Data     Compatibility  Cloud    Outcome Measurements     Cost to User Free to law enforcement    Founded 2014    Tags  Investigation     </description>
     </item>
     
     <item>
       <title>Legal Financial Obligation Calculator</title>
-      <link>http://example.org/projects/legal-financial-obligation-calculator/</link>
+      <link>/projects/legal-financial-obligation-calculator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/legal-financial-obligation-calculator/</guid>
+      <guid>/projects/legal-financial-obligation-calculator/</guid>
       <description>   Name Legal Financial Obligation Calculator     Categories  Courts    Project URL http://beta.lfocalculator.org    Organization  Microsoft    Location Washington    Open Source Forthcoming    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2018    Tags  A2J     </description>
     </item>
     
     <item>
       <title>MDExpungement</title>
-      <link>http://example.org/projects/mdexpungement/</link>
+      <link>/projects/mdexpungement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/mdexpungement/</guid>
+      <guid>/projects/mdexpungement/</guid>
       <description>   Name MDExpungement     Categories  Intake &amp;amp; Referral    Project URL http://www.mdexpungement.com/    Organization  Maryland Legal Apps LLC    Location Maryland    Open Source Yes, upon Request    Open Data     Compatibility  Web; Chrome Extension    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Expungements &amp;amp; Pardons     </description>
     </item>
     
     <item>
       <title>Mark43 CAD</title>
-      <link>http://example.org/projects/mark43-cad/</link>
+      <link>/projects/mark43-cad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/mark43-cad/</guid>
+      <guid>/projects/mark43-cad/</guid>
       <description>   Name Mark43 CAD     Categories  Law Enforcement    Project URL https://www.mark43.com/cad/    Organization  Mark43    Location U.S.    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Varies    Founded 2012    Tags       </description>
     </item>
     
     <item>
       <title>Matterhorn</title>
-      <link>http://example.org/projects/matterhorn/</link>
+      <link>/projects/matterhorn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/matterhorn/</guid>
+      <guid>/projects/matterhorn/</guid>
       <description>   Name Matterhorn     Categories  Courts    Project URL http://getmatterhorn.com/    Organization  Court Innovations    Location Michigan    Open Source No    Open Data     Compatibility  Web , SMS    Outcome Measurements     Cost to User Free to Individuals, Court pays to install platform    Founded 2014    Tags  A2J , Dispute Resolution      </description>
     </item>
     
     <item>
       <title>Mobile PD</title>
-      <link>http://example.org/projects/mobile-pd/</link>
+      <link>/projects/mobile-pd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/mobile-pd/</guid>
+      <guid>/projects/mobile-pd/</guid>
       <description>   Name Mobile PD     Categories  Law Enforcement    Project URL http://gomobilepd.com/product.html    Organization  Mobile PD, Inc.    Location U.S.    Open Source No    Open Data     Compatibility  Android , iOS    Outcome Measurements     Cost to User Free    Founded 2010    Tags       </description>
     </item>
     
     <item>
       <title>My Clean Jacket</title>
-      <link>http://example.org/projects/my-clean-jacket/</link>
+      <link>/projects/my-clean-jacket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/my-clean-jacket/</guid>
+      <guid>/projects/my-clean-jacket/</guid>
       <description>   Name My Clean Jacket     Categories  Intake &amp;amp; Referral    Project URL http://www.jaclouisiana.org/    Organization  Justice &amp;amp; Accountability Center of Louisiana    Location Louisiana    Open Source Yes    Open Data     Compatibility  iOS , Android , Web    Outcome Measurements     Cost to User Free to users; Fee to become a legal partner    Founded 2013    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>North County Kiosk</title>
-      <link>http://example.org/projects/north-county-kiosk/</link>
+      <link>/projects/north-county-kiosk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/north-county-kiosk/</guid>
+      <guid>/projects/north-county-kiosk/</guid>
       <description>   Name North County Kiosk     Categories  Courts    Project URL     Organization  Mohave Superior Court    Location Mohave County, AZ    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2013    Tags  A2J;     </description>
     </item>
     
     <item>
       <title>Notice of Claim</title>
-      <link>http://example.org/projects/notice-of-claim/</link>
+      <link>/projects/notice-of-claim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/notice-of-claim/</guid>
+      <guid>/projects/notice-of-claim/</guid>
       <description>   Name Notice of Claim     Categories  Intake &amp;amp; Referral    Project URL http://notice-of-claim.herokuapp.com/    Organization  Justice Codes &amp;#43; Partners    Location New York City, NY    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Police Accountability , Open Sourced     </description>
     </item>
     
     <item>
       <title>Online Pardon Applicaton</title>
-      <link>http://example.org/projects/online-pardon-applicaton/</link>
+      <link>/projects/online-pardon-applicaton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/online-pardon-applicaton/</guid>
+      <guid>/projects/online-pardon-applicaton/</guid>
       <description>   Name Online Pardon Applicaton     Categories  Intake &amp;amp; Referral    Project URL https://doc.sd.gov/pardon/    Organization  South Dakota Department of Corrections    Location South Dakota    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Expungements &amp;amp; Pardons     </description>
     </item>
     
     <item>
       <title>Open Referral</title>
-      <link>http://example.org/projects/open-referral/</link>
+      <link>/projects/open-referral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/open-referral/</guid>
+      <guid>/projects/open-referral/</guid>
       <description>   Name Open Referral     Categories  Intake &amp;amp; Referral    Project URL https://openreferral.org/    Organization  Open Referral    Location Chicago, IL; San Francisco, CA; Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2012    Tags  Open Sourced , Data , Open Data     </description>
     </item>
     
     <item>
       <title>Outreach Smartphone Monitoring</title>
-      <link>http://example.org/projects/outreach-smartphone-monitoring/</link>
+      <link>/projects/outreach-smartphone-monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/outreach-smartphone-monitoring/</guid>
+      <guid>/projects/outreach-smartphone-monitoring/</guid>
       <description>   Name Outreach Smartphone Monitoring     Categories  Probation &amp;amp; Parole    Project URL http://www.osmnow.com/    Organization  Outreach Smartphone Monitoring    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User $1-$4 per day    Founded 2016    Tags       </description>
     </item>
     
     <item>
       <title>Photo, Print, Voice, &amp; Letters</title>
-      <link>http://example.org/projects/photo-print-voice--letters/</link>
+      <link>/projects/photo-print-voice--letters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/photo-print-voice--letters/</guid>
+      <guid>/projects/photo-print-voice--letters/</guid>
       <description>   Name Photo, Print, Voice, &amp;amp; Letters     Categories  Corrections    Project URL     Organization  Pigeon.ly    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies by Service    Founded 2012    Tags       </description>
     </item>
     
     <item>
       <title>SMS Criminal Diversion Pilot</title>
-      <link>http://example.org/projects/sms-criminal-diversion-pilot/</link>
+      <link>/projects/sms-criminal-diversion-pilot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/sms-criminal-diversion-pilot/</guid>
+      <guid>/projects/sms-criminal-diversion-pilot/</guid>
       <description>   Name SMS Criminal Diversion Pilot     Categories  Courts    Project URL https://www.magistratescourt.vic.gov.au/news/criminal-diversion-sms-reminder-pilot    Organization  Magistrate Court    Location Victoria, Australia    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal texting fees apply    Founded 2014    Tags  Diversion     </description>
     </item>
     
     <item>
       <title>SPROKIT</title>
-      <link>http://example.org/projects/sprokit/</link>
+      <link>/projects/sprokit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/sprokit/</guid>
+      <guid>/projects/sprokit/</guid>
       <description>   Name SPROKIT     Categories  Probation &amp;amp; Parole    Project URL http://www.sprokit.net/    Organization  SPROKIT    Location U.S.    Open Source No    Open Data     Compatibility  Web , Android    Outcome Measurements     Cost to User Varies    Founded 2015    Tags       </description>
     </item>
     
     <item>
       <title>Seattle Complaint Portal</title>
-      <link>http://example.org/projects/seattle-complaint-portal/</link>
+      <link>/projects/seattle-complaint-portal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/seattle-complaint-portal/</guid>
+      <guid>/projects/seattle-complaint-portal/</guid>
       <description>   Name Seattle Complaint Portal     Categories  Law Enforcement    Project URL http://www.seattle.gov/opa/file-a-complaint-about-the-seattle-police    Organization  Seattle Police    Location Seattle, WA    Open Source No    Open Data https://data.seattle.gov/City-Business/OPA-Complaint-Tracker/pafy-bfmu    Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Police Accountability , Open Data , Data     </description>
     </item>
     
     <item>
       <title>Swift 911</title>
-      <link>http://example.org/projects/swift-911/</link>
+      <link>/projects/swift-911/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/swift-911/</guid>
+      <guid>/projects/swift-911/</guid>
       <description>   Name Swift 911     Categories  Law Enforcement    Project URL     Organization  Swift Reach    Location U.S.    Open Source No    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Normal texting fees apply    Founded 1996    Tags       </description>
     </item>
     
     <item>
       <title>TestNotice</title>
-      <link>http://example.org/projects/testnotice/</link>
+      <link>/projects/testnotice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/testnotice/</guid>
+      <guid>/projects/testnotice/</guid>
       <description>   Name TestNotice     Categories  Probation &amp;amp; Parole    Project URL http://www.testnotice.com/    Organization  TestNotice    Location Nevada, Oklahoma, Minnesota, South Dakota    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User $10 to create an account; $5 per month    Founded 2015    Tags       </description>
     </item>
     
     <item>
       <title>UpTrust</title>
-      <link>http://example.org/projects/uptrust/</link>
+      <link>/projects/uptrust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/uptrust/</guid>
+      <guid>/projects/uptrust/</guid>
       <description>   Name UpTrust     Categories  Probation &amp;amp; Parole    Project URL http://www.uptrust.co/    Organization  UpTrust    Location Brooklyn, NY    Open Source No    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags       </description>
     </item>
     
     <item>
       <title>Verie</title>
-      <link>http://example.org/projects/verie/</link>
+      <link>/projects/verie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/verie/</guid>
+      <guid>/projects/verie/</guid>
       <description>   Name Verie     Categories  Probation &amp;amp; Parole    Project URL http://verie.com/    Organization  Verie    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies    Founded 2014    Tags       </description>
     </item>
     
     <item>
       <title>Virtual Youth Probation Teams</title>
-      <link>http://example.org/projects/virtual-youth-probation-teams/</link>
+      <link>/projects/virtual-youth-probation-teams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/virtual-youth-probation-teams/</guid>
+      <guid>/projects/virtual-youth-probation-teams/</guid>
       <description>   Name Virtual Youth Probation Teams     Categories  Probation &amp;amp; Parole    Project URL     Organization  Google Government Innovation Labs    Location San Joaquin, CA    Open Source No    Open Data     Compatibility  NA    Outcome Measurements     Cost to User NA    Founded 2016    Tags       </description>
     </item>
     
     <item>
       <title>Visallo</title>
-      <link>http://example.org/projects/visallo/</link>
+      <link>/projects/visallo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/visallo/</guid>
+      <guid>/projects/visallo/</guid>
       <description>   Name Visallo     Categories  Law Enforcement    Project URL https://www.visallo.com    Organization  Visallo    Location U.S.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Varies    Founded 2014    Tags  Open Sourced , Investigation     </description>
     </item>
     
     <item>
       <title>Yelp Prison Review Faxbot</title>
-      <link>http://example.org/projects/yelp-prison-review-faxbot/</link>
+      <link>/projects/yelp-prison-review-faxbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/yelp-prison-review-faxbot/</guid>
+      <guid>/projects/yelp-prison-review-faxbot/</guid>
       <description>   Name Yelp Prison Review Faxbot     Categories  Corrections    Project URL http://lav.io/2014/11/yelp-prison-review-faxbot/    Organization  Sam Lavign    Location Various U.S. Prisons    Open Source Yes    Open Data     Compatibility  Web , Fax    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Open Sourced;     </description>
     </item>
     
     <item>
       <title>besafe.city</title>
-      <link>http://example.org/projects/besafecity/</link>
+      <link>/projects/besafecity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/besafecity/</guid>
+      <guid>/projects/besafecity/</guid>
       <description>   Name besafe.city     Categories  Law Enforcement    Project URL     Organization  OpenJC    Location New Jersey    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal Texting Fees Apply    Founded 2014    Tags       </description>
     </item>
     

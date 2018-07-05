@@ -1,84 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Expungements  Pardons on Forty</title>
-    <link>http://example.org/tags/expungements--pardons/</link>
-    <description>Recent content in Expungements  Pardons on Forty</description>
+    <title>Expungements &amp; Pardons on Academic</title>
+    <link>/tags/expungements--pardons/</link>
+    <description>Recent content in Expungements &amp; Pardons on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/expungements--pardons/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/expungements--pardons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Clean Slate DC</title>
-      <link>http://example.org/projects/clean-slate-dc/</link>
+      <link>/projects/clean-slate-dc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/clean-slate-dc/</guid>
+      <guid>/projects/clean-slate-dc/</guid>
       <description>   Name Clean Slate DC     Categories  Intake &amp;amp; Referral    Project URL http://cleanslatedc.com    Organization  Rebuilding Reentry    Location Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>Clear My Record</title>
-      <link>http://example.org/projects/clear-my-record/</link>
+      <link>/projects/clear-my-record/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/clear-my-record/</guid>
+      <guid>/projects/clear-my-record/</guid>
       <description>   Name Clear My Record     Categories  Intake &amp;amp; Referral    Project URL https://clearmyrecord.codeforamerica.org/    Organization  Code for America    Location San Francisco, CA    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>Expunge.io</title>
-      <link>http://example.org/projects/expungeio/</link>
+      <link>/projects/expungeio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/expungeio/</guid>
+      <guid>/projects/expungeio/</guid>
       <description>   Name Expunge.io     Categories  Intake &amp;amp; Referral    Project URL http://www.expunge.io/    Organization  Smart Chicago    Location Cook County, IL    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Expungements &amp;amp; Pardons , Open sourced     </description>
     </item>
     
     <item>
       <title>ExpungeMaryland</title>
-      <link>http://example.org/projects/expungemaryland/</link>
+      <link>/projects/expungemaryland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/expungemaryland/</guid>
+      <guid>/projects/expungemaryland/</guid>
       <description>   Name ExpungeMaryland     Categories  Intake &amp;amp; Referral    Project URL https://docs.google.com/spreadsheets/d/1xqdPyLLza8qlgY_HJg_yTwEuvQi5iJ-1NIxzNJw8fQw/expungemaryland.org    Organization  Advocates for Children &amp;amp; Youth    Location Maryland    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>Expungement Generator</title>
-      <link>http://example.org/projects/expungement-generator/</link>
+      <link>/projects/expungement-generator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/expungement-generator/</guid>
+      <guid>/projects/expungement-generator/</guid>
       <description>   Name Expungement Generator     Categories  Intake &amp;amp; Referral    Project URL     Organization  Community Legal Services    Location Philadelphia, PA    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>MDExpungement</title>
-      <link>http://example.org/projects/mdexpungement/</link>
+      <link>/projects/mdexpungement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/mdexpungement/</guid>
+      <guid>/projects/mdexpungement/</guid>
       <description>   Name MDExpungement     Categories  Intake &amp;amp; Referral    Project URL http://www.mdexpungement.com/    Organization  Maryland Legal Apps LLC    Location Maryland    Open Source Yes, upon Request    Open Data     Compatibility  Web; Chrome Extension    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Expungements &amp;amp; Pardons     </description>
     </item>
     
     <item>
       <title>My Clean Jacket</title>
-      <link>http://example.org/projects/my-clean-jacket/</link>
+      <link>/projects/my-clean-jacket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/my-clean-jacket/</guid>
+      <guid>/projects/my-clean-jacket/</guid>
       <description>   Name My Clean Jacket     Categories  Intake &amp;amp; Referral    Project URL http://www.jaclouisiana.org/    Organization  Justice &amp;amp; Accountability Center of Louisiana    Location Louisiana    Open Source Yes    Open Data     Compatibility  iOS , Android , Web    Outcome Measurements     Cost to User Free to users; Fee to become a legal partner    Founded 2013    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
     </item>
     
     <item>
       <title>Online Pardon Applicaton</title>
-      <link>http://example.org/projects/online-pardon-applicaton/</link>
+      <link>/projects/online-pardon-applicaton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/online-pardon-applicaton/</guid>
+      <guid>/projects/online-pardon-applicaton/</guid>
       <description>   Name Online Pardon Applicaton     Categories  Intake &amp;amp; Referral    Project URL https://doc.sd.gov/pardon/    Organization  South Dakota Department of Corrections    Location South Dakota    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Expungements &amp;amp; Pardons     </description>
     </item>
     

@@ -1,728 +1,1463 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/a2j-author/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/a2j/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/acivilate/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/appolition/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/arrest-sos/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/bail/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/bail-bloc/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/bail-judgment-debt/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/between-the-bars/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/blockchain/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/buoy/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/callisto/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/cherry-tree-data-science/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/chicago-police-board-info-center/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/chicagos-million-dollar-blocks/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/citizens-police-data-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/clean-slate-dc/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/clear-my-record/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/clientcomm/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/cocounsel/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/comprehensive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/convicted-in-cook/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/cop-accountability-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/cop-watch-video-recorder/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/corporate-prosecution-registry/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/corrections/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/courtbot/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/courts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/crime-scape/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/crime-and-punishment-in-chicago/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/crimereports/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/crowd-justice/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/crowd-sourcing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/crowdsourced/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/project_types/crowdsourcing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/crowdsourcing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/project_types/data/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/data/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/data-justice-network/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/defense/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/dispute-resolution/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/diversion/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/expungeio/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/expungemaryland/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/expungement-generator/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/expungements--pardons/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/fq-task-force/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/fatal-encounters/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/finding-street-gang-members-on-twitter/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/five-0/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/flikshop/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/focalpoint/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/friendly/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/gangs/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/goodcall/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/gunbail/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/haka/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/harm-assessment-risk-tool/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/harris-county-criminal-court-data-visualization-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/hate-crime-help/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/haystac/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/hitachi-visualization-predictive-crime-analytics/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/hunchlab/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/im-getting-arrested/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/intake--referral/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/integrated-database/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/internet-banging-algorithm-/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/investigation/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/jail-population-dashboard/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/justice-atlas/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/justice-system-performance/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/killed-by-police/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/leedir/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/law-enforcement/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/legal/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/legal-education/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/legal-financial-obligation-calculator/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/legaleq/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/locations/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/mdexpungement/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/mapping-police-violence/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/mark43-cad/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/matterhorn/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/measures-for-justice/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/meet-your-da/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/mobile-justice-app/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/mobile-pd/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/my-clean-jacket/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/national-police-misconduct-reporting-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/neulaw-criminal-records-database/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/nextdoor/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/north-county-kiosk/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/notice-of-claim/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/offender-screening-tool-ost/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/officer-complaint-history/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/ohio-risk-assessment-system-oras/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/online-pardon-applicaton/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/open-data/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/open-data-policing-nc/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/open-police-complaints/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/open-referral/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/open-sourced/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/openjustice/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/opening-criminal-justice-data/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/organizations/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/outreach-smartphone-monitoring/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/parole--probation/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/parole-board-hearing-data-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/phillyblotter/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/photo-print-voice--letters/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/police-accountability/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/police-shootings-investigation/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/power-bi-azure-analytics/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/predpol/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/project_types/predictive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/predictive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/predictive-policing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/probation--parole/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/project-comport/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/project_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/prosectuors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/prosecutors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/public-safety-assessment/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/recap/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/raheem/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/reentry/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/research/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/ring/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/risk-assessment/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/scotus-mapper/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/sms-criminal-diversion-pilot/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/sprokit/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/seattle-complaint-portal/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/see-something-send-something/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/sexual-assault/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/shotspotter/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/solve-a-crime/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/spotcrime/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/project_types/stakeholders/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/statistical-package-for-the-social-sciences/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/stop-and-frisk-app/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/strategic-subjects-list/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/swift-911/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/testnotice/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/the-counted/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/the-murder-accountability-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/the-restorative-justice-city/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/unfounded/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/unicourt/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/uptrust/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/use-of-force-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/verie/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/virginiacourtdata/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/virtual-youth-probation-teams/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/visallo/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/white-collar/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/white-collar-crime-risk-zones/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/yelp-prison-review-faxbot/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/besafecity/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/about/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/stats/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/a2j/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/a2j-author/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/a2j/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/acivilate/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/appolition/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/arrest-sos/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/bail/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/bail-bloc/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/bail-judgment-debt/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/between-the-bars/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/blockchain/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/buoy/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/callisto/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/cherry-tree-data-science/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/chicago-police-board-info-center/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/chicagos-million-dollar-blocks/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/citizens-police-data-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/clean-slate-dc/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/clear-my-record/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/clientcomm/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/cocounsel/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/comprehensive/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/convicted-in-cook/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/cop-accountability-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/cop-watch-video-recorder/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/corporate-prosecution-registry/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/correctional-assessment-and-intervention-system-cais/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/corrections/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/courtbot/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/courts/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/crime-scape/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/crime-and-punishment-in-chicago/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/crimereports/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/crowd-justice/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/crowd-sourcing/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/crowdsourced/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project_types/crowdsourcing/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/crowdsourcing/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project_types/data/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/data/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/data-justice-network/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/data/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/defense/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/dispute-resolution-/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/diversion/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/expungeio/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/expungemaryland/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/expungement-generator/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/expungements--pardons/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/fq-task-force/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/fatal-encounters/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/finding-street-gang-members-on-twitter/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/five-0/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/flikshop/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/focalpoint/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/friendly/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/gangs/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/goodcall/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/gunbail/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/haka/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/harm-assessment-risk-tool/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/harris-county-criminal-court-data-visualization-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/hate-crime-help/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/haystac/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/hitachi-visualization-predictive-crime-analytics/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/hunchlab/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/im-getting-arrested/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/intake--referral/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/integrated-database/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/internet-banging-algorithm-/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/investigation/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/jail-population-dashboard/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/justice-atlas/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/justice-system-performance/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/killed-by-police/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/leedir/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/law-enforcement/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/legal/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/legal-education/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/legal-financial-obligation-calculator/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/legaleq/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/level-of-service-assessments-lsi-r-and-lscmi/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/locations/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/mdexpungement/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/mapping-police-violence/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/mark43-cad/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/matterhorn/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/measures-for-justice/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/meet-your-da/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/mobile-justice-app/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/mobile-pd/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/my-clean-jacket/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/national-police-misconduct-reporting-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/neulaw-criminal-records-database/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/nextdoor/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/north-county-kiosk/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/notice-of-claim/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/offender-screening-tool-ost/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/officer-complaint-history/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/ohio-risk-assessment-system-oras/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/online-pardon-applicaton/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/open-data/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/open-data-policing-nc/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/open-police-complaints/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/open-referral/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/open-sourced/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/open-sourced/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/open-sourced/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/openjustice/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/opening-criminal-justice-data/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/organizations/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/outreach-smartphone-monitoring/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/parole--probation/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/parole-board-hearing-data-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/phillyblotter/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/photo-print-voice--letters/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/police-accountability/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/police-shootings-investigation/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/power-bi-&#43;-azure-analytics/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/power-bi-azure-analytics/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/predpol/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project_types/predictive/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/predictive/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/predictive-policing/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/probation--parole/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/project-comport/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/prosectuors/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/prosecutors/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/public-safety-assessment/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/recap/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/raheem/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/reentry/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/research/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/ring/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/risk-assessment/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/scotus-mapper/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/sms-criminal-diversion-pilot/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/sprokit/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/seattle-complaint-portal/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/see-something-send-something/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/sexual-assault/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/shotspotter/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/solve-a-crime/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/spotcrime/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project_types/stakeholders/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/static-risk-and-offender-needs-guide-strong/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/statistical-package-for-the-social-sciences/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/stop-and-frisk-app/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/strategic-subjects-list/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/swift-911/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/testnotice/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/the-counted/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/the-murder-accountability-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/the-restorative-justice-city/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/unfounded/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/unicourt/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/uptrust/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/use-of-force-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/verie/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/virginiacourtdata/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/virtual-youth-probation-teams/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/visallo/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/white-collar/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/white-collar-crime-risk-zones/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/yelp-prison-review-faxbot/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/projects/besafecity/</loc>
+    </url>
+    
   
 </urlset>

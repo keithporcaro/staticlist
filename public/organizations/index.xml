@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Organizations on Forty</title>
-    <link>http://example.org/organizations/</link>
-    <description>Recent content in Organizations on Forty</description>
+    <title>Organizations on Academic</title>
+    <link>/organizations/</link>
+    <description>Recent content in Organizations on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/organizations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/organizations/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

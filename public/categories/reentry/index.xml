@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reentry on Forty</title>
-    <link>http://example.org/categories/reentry/</link>
-    <description>Recent content in Reentry on Forty</description>
+    <title>ReEntry on Academic</title>
+    <link>/categories/reentry/</link>
+    <description>Recent content in ReEntry on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/categories/reentry/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/reentry/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acivilate</title>
-      <link>http://example.org/projects/acivilate/</link>
+      <link>/projects/acivilate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/acivilate/</guid>
+      <guid>/projects/acivilate/</guid>
       <description>   Name Acivilate     Categories  ReEntry    Project URL http://acivilate.com/    Organization  Acivilate    Location U.S.    Open Source Yes    Open Data     Compatibility  Web &amp;amp; mobile    Outcome Measurements     Cost to User SaaS model    Founded 2014    Tags  Open Sourced;     </description>
     </item>
     
     <item>
       <title>Cherry Tree Data Science</title>
-      <link>http://example.org/projects/cherry-tree-data-science/</link>
+      <link>/projects/cherry-tree-data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/cherry-tree-data-science/</guid>
+      <guid>/projects/cherry-tree-data-science/</guid>
       <description>   Name Cherry Tree Data Science     Categories  ReEntry    Project URL http://www.cherrytreedatascience.com/    Organization  Cherry Tree Data Science    Location U.S.    Public Portal No    Bulk Download No    Ongoing Yes    Founded 2016    Tags  Data;     </description>
     </item>
     

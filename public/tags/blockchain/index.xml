@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blockchain on Forty</title>
-    <link>http://example.org/tags/blockchain/</link>
-    <description>Recent content in Blockchain on Forty</description>
+    <title>Blockchain on Academic</title>
+    <link>/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bail Bloc</title>
-      <link>http://example.org/projects/bail-bloc/</link>
+      <link>/projects/bail-bloc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/bail-bloc/</guid>
+      <guid>/projects/bail-bloc/</guid>
       <description>   Name Bail Bloc     Categories  Parole &amp;amp; Probation    Project URL https://bailbloc.thenewinquiry.com/    Organization  The New Inquiry    Location U.S.    Open Source https://github.com/thenewinquiry/bailbloc/    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Blockchain     </description>
     </item>
     
     <item>
       <title>Haka</title>
-      <link>http://example.org/projects/haka/</link>
+      <link>/projects/haka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/haka/</guid>
+      <guid>/projects/haka/</guid>
       <description>   Name Haka     Categories  Parole &amp;amp; Probation    Project URL     Organization  Reshma Kamath    Location U.S.    Open Source Yes    Outcome Measurements     Cost to User TBD    Founded 2017    Tags  Crowdsourcing , Blockchain     </description>
     </item>
     

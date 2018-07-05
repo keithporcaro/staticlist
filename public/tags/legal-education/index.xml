@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Legal Education on Forty</title>
-    <link>http://example.org/tags/legal-education/</link>
-    <description>Recent content in Legal Education on Forty</description>
+    <title>Legal Education on Academic</title>
+    <link>/tags/legal-education/</link>
+    <description>Recent content in Legal Education on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/legal-education/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/legal-education/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Open Police Complaints</title>
-      <link>http://example.org/projects/open-police-complaints/</link>
+      <link>/projects/open-police-complaints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/open-police-complaints/</guid>
+      <guid>/projects/open-police-complaints/</guid>
       <description>   Name Open Police Complaints     Categories  Law Enforcement    Project URL https://openpolice.org/    Organization  Flex Your Rights    Location U.S.    Public Portal No    Bulk Download Not yet    Ongoing Yes    Founded 2016    Tags  Police Accountability , Legal Education     </description>
     </item>
     

@@ -1,66 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Predictive Policing on Forty</title>
-    <link>http://example.org/tags/predictive-policing/</link>
-    <description>Recent content in Predictive Policing on Forty</description>
+    <title>Predictive Policing on Academic</title>
+    <link>/tags/predictive-policing/</link>
+    <description>Recent content in Predictive Policing on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/predictive-policing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/predictive-policing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Crime Scape</title>
-      <link>http://example.org/projects/crime-scape/</link>
+      <link>/projects/crime-scape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/crime-scape/</guid>
+      <guid>/projects/crime-scape/</guid>
       <description>   Name Crime Scape     Categories  Law Enforcement    Project URL https://www.civicscape.com/    Organization  CivicScape    Location U.S.    What is Predicted Where police are needed    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Sourced , Open Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>Hitachi Visualization Predictive Crime Analytics</title>
-      <link>http://example.org/projects/hitachi-visualization-predictive-crime-analytics/</link>
+      <link>/projects/hitachi-visualization-predictive-crime-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/hitachi-visualization-predictive-crime-analytics/</guid>
+      <guid>/projects/hitachi-visualization-predictive-crime-analytics/</guid>
       <description>   Name Hitachi Visualization Predictive Crime Analytics     Categories  Law Enforcement    Project URL https://www.hds.com/en-us/news-insights/press-releases/2015/gl150928.html    Organization  Hitachi Data Systems Corporation    Location U.S.    What is Predicted Where police are needed/ geospatial risk of crime    Open Source     Available Training Data No    Ongoing Yes    Founded 2015    Tags  Predictive Policing     </description>
     </item>
     
     <item>
       <title>Hunchlab</title>
-      <link>http://example.org/projects/hunchlab/</link>
+      <link>/projects/hunchlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/hunchlab/</guid>
+      <guid>/projects/hunchlab/</guid>
       <description>   Name Hunchlab     Categories  Law Enforcement    Project URL https://www.hunchlab.com/    Organization  Avazea    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2005    Tags  Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>Power BI &#43; Azure Analytics</title>
-      <link>http://example.org/projects/power-bi-azure-analytics/</link>
+      <link>/projects/power-bi-&#43;-azure-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/power-bi-azure-analytics/</guid>
+      <guid>/projects/power-bi-&#43;-azure-analytics/</guid>
+      <description>   Name Power BI + Azure Analytics     Categories  Law Enforcement    Project URL https://enterprise.microsoft.com/en-us/articles/industries/government/predictive-policing-the-future-of-law-enforcement/    Organization  Microsoft    Location Chicago, IL    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2016    Tags  Data , Predictive Policing     </description>
+    </item>
+    
+    <item>
+      <title>Power BI &#43; Azure Analytics</title>
+      <link>/projects/power-bi-azure-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/power-bi-azure-analytics/</guid>
       <description>   Name Power BI + Azure Analytics     Categories  Law Enforcement    Project URL https://enterprise.microsoft.com/en-us/articles/industries/government/predictive-policing-the-future-of-law-enforcement/    Organization  Microsoft    Location Chicago, IL    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2016    Tags  Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>PredPol</title>
-      <link>http://example.org/projects/predpol/</link>
+      <link>/projects/predpol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/predpol/</guid>
+      <guid>/projects/predpol/</guid>
       <description>   Name PredPol     Categories  Law Enforcement    Project URL http://www.predpol.com/    Organization  PredPol    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2012    Tags  Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>Statistical Package for the Social Sciences</title>
-      <link>http://example.org/projects/statistical-package-for-the-social-sciences/</link>
+      <link>/projects/statistical-package-for-the-social-sciences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/statistical-package-for-the-social-sciences/</guid>
+      <guid>/projects/statistical-package-for-the-social-sciences/</guid>
       <description>   Name Statistical Package for the Social Sciences     Categories  Law Enforcement    Project URL http://www-01.ibm.com/software/analytics/spss/11/na/cpp/    Organization  IBM    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded NA    Tags  Data , Predictive Policing     </description>
     </item>
     

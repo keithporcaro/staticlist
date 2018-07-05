@@ -1,246 +1,247 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Data on Forty</title>
-    <link>http://example.org/tags/open-data/</link>
-    <description>Recent content in Open Data on Forty</description>
+    <title>Open Data on Academic</title>
+    <link>/tags/open-data/</link>
+    <description>Recent content in Open Data on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chicago Police Board Info Center</title>
-      <link>http://example.org/projects/chicago-police-board-info-center/</link>
+      <link>/projects/chicago-police-board-info-center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/chicago-police-board-info-center/</guid>
+      <guid>/projects/chicago-police-board-info-center/</guid>
       <description>   Name Chicago Police Board Info Center     Categories  Law Enforcement    Project URL http://www.cpbinfocenter.org/    Organization  Chicago Justice Project    Location Chicago, IL    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Citizens Police Data Project</title>
-      <link>http://example.org/projects/citizens-police-data-project/</link>
+      <link>/projects/citizens-police-data-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/citizens-police-data-project/</guid>
+      <guid>/projects/citizens-police-data-project/</guid>
       <description>   Name Citizens Police Data Project     Categories  Law Enforcement    Project URL http://cpdb.co/    Organization  Invisible Institute    Location Chicago, IL    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Convicted in Cook</title>
-      <link>http://example.org/projects/convicted-in-cook/</link>
+      <link>/projects/convicted-in-cook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/convicted-in-cook/</guid>
+      <guid>/projects/convicted-in-cook/</guid>
       <description>   Name Convicted in Cook     Categories  Courts    Project URL http://convictions.smartchicagoapps.org/    Organization  Smart Chicago, Chicago Justice Project    Location Cook County, IL    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2014    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>Corporate Prosecution Registry</title>
-      <link>http://example.org/projects/corporate-prosecution-registry/</link>
+      <link>/projects/corporate-prosecution-registry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/corporate-prosecution-registry/</guid>
+      <guid>/projects/corporate-prosecution-registry/</guid>
       <description>   Name Corporate Prosecution Registry     Categories  Law Enforcement    Project URL http://lib.law.virginia.edu/Garrett/corporate-prosecution-registry/index.html    Organization  University of Virginia Law Library    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data , White Collar     </description>
     </item>
     
     <item>
       <title>Crime Scape</title>
-      <link>http://example.org/projects/crime-scape/</link>
+      <link>/projects/crime-scape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/crime-scape/</guid>
+      <guid>/projects/crime-scape/</guid>
       <description>   Name Crime Scape     Categories  Law Enforcement    Project URL https://www.civicscape.com/    Organization  CivicScape    Location U.S.    What is Predicted Where police are needed    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Sourced , Open Data , Predictive Policing     </description>
     </item>
     
     <item>
       <title>Crime and Punishment in Chicago</title>
-      <link>http://example.org/projects/crime-and-punishment-in-chicago/</link>
+      <link>/projects/crime-and-punishment-in-chicago/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/crime-and-punishment-in-chicago/</guid>
+      <guid>/projects/crime-and-punishment-in-chicago/</guid>
       <description>   Name Crime and Punishment in Chicago     Categories  Comprehensive    Project URL http://crime-punishment.smartchicagoapps.org/    Organization  Smart Chicago, Chicago Justice Project    Location Chicago, IL    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>Fatal Encounters</title>
-      <link>http://example.org/projects/fatal-encounters/</link>
+      <link>/projects/fatal-encounters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/fatal-encounters/</guid>
+      <guid>/projects/fatal-encounters/</guid>
       <description>   Name Fatal Encounters     Categories  Law Enforcement    Project URL http://www.fatalencounters.org/    Organization  D. Brian Burghart    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Harris County Criminal Court Data Visualization Project</title>
-      <link>http://example.org/projects/harris-county-criminal-court-data-visualization-project/</link>
+      <link>/projects/harris-county-criminal-court-data-visualization-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/harris-county-criminal-court-data-visualization-project/</guid>
+      <guid>/projects/harris-county-criminal-court-data-visualization-project/</guid>
       <description>   Name Harris County Criminal Court Data Visualization Project     Categories  Courts    Project URL http://tcjcdashboard.com/    Organization  Texas Criminal Justice Coalition    Location Harris County, TX    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 1999    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>Integrated Database</title>
-      <link>http://example.org/projects/integrated-database/</link>
+      <link>/projects/integrated-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/integrated-database/</guid>
+      <guid>/projects/integrated-database/</guid>
       <description>   Name Integrated Database     Categories  Courts    Project URL https://www.fjc.gov/research/idb    Organization  U.S. Federal Courts    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>Mapping Police Violence</title>
-      <link>http://example.org/projects/mapping-police-violence/</link>
+      <link>/projects/mapping-police-violence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/mapping-police-violence/</guid>
+      <guid>/projects/mapping-police-violence/</guid>
       <description>   Name Mapping Police Violence     Categories  Law Enforcement    Project URL http://mappingpoliceviolence.org/    Organization  Various Stakeholders    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>National Police Misconduct Reporting Project</title>
-      <link>http://example.org/projects/national-police-misconduct-reporting-project/</link>
+      <link>/projects/national-police-misconduct-reporting-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/national-police-misconduct-reporting-project/</guid>
+      <guid>/projects/national-police-misconduct-reporting-project/</guid>
       <description>   Name National Police Misconduct Reporting Project     Categories  Law Enforcement    Project URL https://www.policemisconduct.net    Organization  Cato Institute    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2012    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Neulaw Criminal Records Database</title>
-      <link>http://example.org/projects/neulaw-criminal-records-database/</link>
+      <link>/projects/neulaw-criminal-records-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/neulaw-criminal-records-database/</guid>
+      <guid>/projects/neulaw-criminal-records-database/</guid>
       <description>   Name Neulaw Criminal Records Database     Categories  Courts    Project URL http://www.neulaw.org/research/crime-big-data    Organization  Neulaw Center for Science &amp;amp; Law    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2018    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>Officer Complaint History</title>
-      <link>http://example.org/projects/officer-complaint-history/</link>
+      <link>/projects/officer-complaint-history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/officer-complaint-history/</guid>
+      <guid>/projects/officer-complaint-history/</guid>
       <description>   Name Officer Complaint History     Categories  Law Enforcement    Project URL http://www.ci.minneapolis.mn.us/civilrights/policereview/opcr-data    Organization  Minneapolis Police Department    Location Minneapolis, MN    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2012    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Open Data Policing NC</title>
-      <link>http://example.org/projects/open-data-policing-nc/</link>
+      <link>/projects/open-data-policing-nc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/open-data-policing-nc/</guid>
+      <guid>/projects/open-data-policing-nc/</guid>
       <description>   Name Open Data Policing NC     Categories  Law Enforcement    Project URL https://opendatapolicingnc.com/    Organization  Southern Coalition for Social Justice    Location North Carolina    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Open Referral</title>
-      <link>http://example.org/projects/open-referral/</link>
+      <link>/projects/open-referral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/open-referral/</guid>
+      <guid>/projects/open-referral/</guid>
       <description>   Name Open Referral     Categories  Intake &amp;amp; Referral    Project URL https://openreferral.org/    Organization  Open Referral    Location Chicago, IL; San Francisco, CA; Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2012    Tags  Open Sourced , Data , Open Data     </description>
     </item>
     
     <item>
       <title>OpenJustice</title>
-      <link>http://example.org/projects/openjustice/</link>
+      <link>/projects/openjustice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/openjustice/</guid>
+      <guid>/projects/openjustice/</guid>
       <description>   Name OpenJustice     Categories  Comprehensive    Project URL http://openjustice.doj.ca.gov/    Organization  California Department of Justice    Location California    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2016    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>Opening Criminal Justice Data</title>
-      <link>http://example.org/projects/opening-criminal-justice-data/</link>
+      <link>/projects/opening-criminal-justice-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/opening-criminal-justice-data/</guid>
+      <guid>/projects/opening-criminal-justice-data/</guid>
       <description>   Name Opening Criminal Justice Data     Categories  Comprehensive    Project URL http://sunlightfoundation.com/criminaljustice/    Organization  Sunlight Foundation    Location U.S.    Public Portal No    Bulk Download Yes    Ongoing Yes    Founded     Tags  Data , Open Data , Research     </description>
     </item>
     
     <item>
       <title>Parole Board Hearing Data Project</title>
-      <link>http://example.org/projects/parole-board-hearing-data-project/</link>
+      <link>/projects/parole-board-hearing-data-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/parole-board-hearing-data-project/</guid>
+      <guid>/projects/parole-board-hearing-data-project/</guid>
       <description>   Name Parole Board Hearing Data Project     Categories  Probation &amp;amp; Parole    Project URL http://www.parolehearingdata.org/    Organization  Nikki Zeichner    Location New York    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>Police Shootings Investigation</title>
-      <link>http://example.org/projects/police-shootings-investigation/</link>
+      <link>/projects/police-shootings-investigation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/police-shootings-investigation/</guid>
+      <guid>/projects/police-shootings-investigation/</guid>
       <description>   Name Police Shootings Investigation     Categories  Law Enforcement    Project URL https://www.washingtonpost.com/graphics/national/police-shootings/    Organization  The Washington Post    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Project Comport</title>
-      <link>http://example.org/projects/project-comport/</link>
+      <link>/projects/project-comport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/project-comport/</guid>
+      <guid>/projects/project-comport/</guid>
       <description>   Name Project Comport     Categories  Law Enforcement    Project URL https://www.projectcomport.org/    Organization  Code for America    Location Indianapolis, IN    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>Seattle Complaint Portal</title>
-      <link>http://example.org/projects/seattle-complaint-portal/</link>
+      <link>/projects/seattle-complaint-portal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/seattle-complaint-portal/</guid>
+      <guid>/projects/seattle-complaint-portal/</guid>
       <description>   Name Seattle Complaint Portal     Categories  Law Enforcement    Project URL http://www.seattle.gov/opa/file-a-complaint-about-the-seattle-police    Organization  Seattle Police    Location Seattle, WA    Open Source No    Open Data https://data.seattle.gov/City-Business/OPA-Complaint-Tracker/pafy-bfmu    Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Police Accountability , Open Data , Data     </description>
     </item>
     
     <item>
       <title>Strategic Subjects List</title>
-      <link>http://example.org/projects/strategic-subjects-list/</link>
+      <link>/projects/strategic-subjects-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/strategic-subjects-list/</guid>
+      <guid>/projects/strategic-subjects-list/</guid>
       <description>   Name Strategic Subjects List     Categories  Law Enforcement    Project URL https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List-Dashboard/wgnt-sjgb    Organization  Chicago Police Deptartment    Location Chicago, IL    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2016    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>The Counted</title>
-      <link>http://example.org/projects/the-counted/</link>
+      <link>/projects/the-counted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/the-counted/</guid>
+      <guid>/projects/the-counted/</guid>
       <description>   Name The Counted     Categories  Law Enforcement    Project URL http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database    Organization  The Guardian    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>The Murder Accountability Project</title>
-      <link>http://example.org/projects/the-murder-accountability-project/</link>
+      <link>/projects/the-murder-accountability-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/the-murder-accountability-project/</guid>
+      <guid>/projects/the-murder-accountability-project/</guid>
       <description>   Name The Murder Accountability Project     Categories  Law Enforcement    Project URL http://www.murderdata.org/    Organization  The Murder Accountability Project    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data     </description>
     </item>
     
     <item>
       <title>Use of Force Project</title>
-      <link>http://example.org/projects/use-of-force-project/</link>
+      <link>/projects/use-of-force-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/use-of-force-project/</guid>
+      <guid>/projects/use-of-force-project/</guid>
       <description>   Name Use of Force Project     Categories  Law Enforcement    Project URL http://useofforceproject.org/    Organization  Various Stakeholders    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2016    Tags  Data , Open Data , Police Accountability     </description>
     </item>
     
     <item>
       <title>VirginiaCourtData</title>
-      <link>http://example.org/projects/virginiacourtdata/</link>
+      <link>/projects/virginiacourtdata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/virginiacourtdata/</guid>
+      <guid>/projects/virginiacourtdata/</guid>
       <description>   Name VirginiaCourtData     Categories  Courts    Project URL http://virginiacourtdata.org/    Organization  Ben Schoenfeld    Location Virginia    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data     </description>
     </item>
     

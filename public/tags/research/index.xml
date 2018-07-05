@@ -1,75 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Forty</title>
-    <link>http://example.org/tags/research/</link>
-    <description>Recent content in Research on Forty</description>
+    <title>Research on Academic</title>
+    <link>/tags/research/</link>
+    <description>Recent content in Research on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Co/Counsel</title>
-      <link>http://example.org/projects/cocounsel/</link>
+      <link>/projects/cocounsel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/cocounsel/</guid>
+      <guid>/projects/cocounsel/</guid>
       <description>   Name Co/Counsel     Categories  Legal    Project URL http://www.cocounsel.co/maps    Organization  Co/Counsel    Location U.S.    Open Source Yes    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Research     </description>
     </item>
     
     <item>
       <title>Data Justice Network</title>
-      <link>http://example.org/projects/data-justice-network/</link>
+      <link>/projects/data-justice-network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/data-justice-network/</guid>
+      <guid>/projects/data-justice-network/</guid>
       <description>   Name Data Justice Network     Categories  Comprehensive    Project URL https://datajustice.us/    Organization  GovLab    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Research     </description>
     </item>
     
     <item>
       <title>Measures for Justice</title>
-      <link>http://example.org/projects/measures-for-justice/</link>
+      <link>/projects/measures-for-justice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/measures-for-justice/</guid>
+      <guid>/projects/measures-for-justice/</guid>
       <description>   Name Measures for Justice     Categories  Comprehensive    Project URL http://measuresforjustice.org/    Organization  Measures for Justice    Location U.S.    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2011    Tags  Data , Research     </description>
     </item>
     
     <item>
       <title>Opening Criminal Justice Data</title>
-      <link>http://example.org/projects/opening-criminal-justice-data/</link>
+      <link>/projects/opening-criminal-justice-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/opening-criminal-justice-data/</guid>
+      <guid>/projects/opening-criminal-justice-data/</guid>
       <description>   Name Opening Criminal Justice Data     Categories  Comprehensive    Project URL http://sunlightfoundation.com/criminaljustice/    Organization  Sunlight Foundation    Location U.S.    Public Portal No    Bulk Download Yes    Ongoing Yes    Founded     Tags  Data , Open Data , Research     </description>
     </item>
     
     <item>
       <title>RECAP</title>
-      <link>http://example.org/projects/recap/</link>
+      <link>/projects/recap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/recap/</guid>
+      <guid>/projects/recap/</guid>
       <description>   Name RECAP     Categories  Legal    Project URL https://www.recapthelaw.org/    Organization  Princeton University &amp;amp; the Free Law Project    Location U.S.    Open Source https://github.com/freelawproject/recap    Outcome Measurements     Cost to User Free    Founded 2009    Tags  Crowdsourcing , Research     </description>
     </item>
     
     <item>
       <title>SCOTUS Mapper</title>
-      <link>http://example.org/projects/scotus-mapper/</link>
+      <link>/projects/scotus-mapper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/scotus-mapper/</guid>
+      <guid>/projects/scotus-mapper/</guid>
       <description>   Name SCOTUS Mapper     Categories  Legal    Project URL http://law.ubalt.edu/faculty/scotus-mapping/    Organization  University of Baltimore School of Law &amp;amp; the Free Law Project    Location U.S.    Open Source In Dev.    Outcome Measurements     Cost to User Free    Founded 2013    Tags  Crowdsourcing , Research     </description>
     </item>
     
     <item>
       <title>UniCourt</title>
-      <link>http://example.org/projects/unicourt/</link>
+      <link>/projects/unicourt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/unicourt/</guid>
+      <guid>/projects/unicourt/</guid>
       <description>   Name UniCourt     Categories  Courts    Project URL https://unicourt.com/    Organization  UniCourt    Location U.S.    Public Portal No    Bulk Download Yes, with a fee    Ongoing Yes    Founded 2014    Tags  Data , Research     </description>
     </item>
     

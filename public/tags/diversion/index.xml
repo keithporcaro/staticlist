@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diversion on Forty</title>
-    <link>http://example.org/tags/diversion/</link>
-    <description>Recent content in Diversion on Forty</description>
+    <title>Diversion on Academic</title>
+    <link>/tags/diversion/</link>
+    <description>Recent content in Diversion on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/tags/diversion/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/diversion/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SMS Criminal Diversion Pilot</title>
-      <link>http://example.org/projects/sms-criminal-diversion-pilot/</link>
+      <link>/projects/sms-criminal-diversion-pilot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/sms-criminal-diversion-pilot/</guid>
+      <guid>/projects/sms-criminal-diversion-pilot/</guid>
       <description>   Name SMS Criminal Diversion Pilot     Categories  Courts    Project URL https://www.magistratescourt.vic.gov.au/news/criminal-diversion-sms-reminder-pilot    Organization  Magistrate Court    Location Victoria, Australia    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal texting fees apply    Founded 2014    Tags  Diversion     </description>
     </item>
     
     <item>
       <title>The Restorative Justice City</title>
-      <link>http://example.org/projects/the-restorative-justice-city/</link>
+      <link>/projects/the-restorative-justice-city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/the-restorative-justice-city/</guid>
+      <guid>/projects/the-restorative-justice-city/</guid>
       <description>   Name The Restorative Justice City     Categories  Legal    Project URL http://www.iftf.org/rjcity/    Organization  Institute for the Future    Location Oakland, CA    Public Portal Yes    Bulk Download No    Ongoing No    Founded 2016    Tags  Diversion , Data     </description>
     </item>
     

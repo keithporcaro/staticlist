@@ -1,48 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project_types on Forty</title>
-    <link>http://example.org/project_types/</link>
-    <description>Recent content in Project_types on Forty</description>
+    <title>Project_types on Academic</title>
+    <link>/project_types/</link>
+    <description>Recent content in Project_types on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://example.org/project_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Crowdsourcing</title>
-      <link>http://example.org/project_types/crowdsourcing/</link>
+      <link>/project_types/crowdsourcing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project_types/crowdsourcing/</guid>
+      <guid>/project_types/crowdsourcing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>http://example.org/project_types/data/</link>
+      <link>/project_types/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project_types/data/</guid>
+      <guid>/project_types/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive</title>
-      <link>http://example.org/project_types/predictive/</link>
+      <link>/project_types/predictive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project_types/predictive/</guid>
+      <guid>/project_types/predictive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stakeholders</title>
-      <link>http://example.org/project_types/stakeholders/</link>
+      <link>/project_types/stakeholders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/project_types/stakeholders/</guid>
+      <guid>/project_types/stakeholders/</guid>
       <description></description>
     </item>
     
