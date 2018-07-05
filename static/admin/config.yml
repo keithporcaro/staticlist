@@ -6,7 +6,7 @@ media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-- label: "Stakeholder Projects"
+- label: "Stakeholder Project"
   name: "stakeholder_projects"
   folder: "content/projects"
   filter: {field: "project_types", value: "Stakeholders"}
