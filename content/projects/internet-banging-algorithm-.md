@@ -2,7 +2,7 @@
 title: "Internet Banging Algorithm "
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Law Enforcement"]
 projectURL: ""
 organization: "Columbia School of Social work: Desmond Patton"

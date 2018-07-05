@@ -2,7 +2,7 @@
 title: "The Restorative Justice City"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Legal"]
 projectURL: "http://www.iftf.org/rjcity/"
 organization: "Institute for the Future"

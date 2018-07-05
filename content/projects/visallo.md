@@ -2,7 +2,7 @@
 title: "Visallo"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Law Enforcement"]
 projectURL: "https://www.visallo.com"
 organization: "Visallo"

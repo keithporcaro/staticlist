@@ -2,7 +2,7 @@
 title: "Clear My Record"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://clearmyrecord.codeforamerica.org/"
 organization: "Code for America"

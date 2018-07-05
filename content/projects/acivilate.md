@@ -2,7 +2,7 @@
 title: "Acivilate"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["ReEntry"]
 projectURL: "http://acivilate.com/"
 organization: "Acivilate"

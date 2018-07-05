@@ -2,7 +2,7 @@
 title: "GoodCall"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://goodcall.nyc/"
 organization: "Bronx Defenders; Blue Ridge Labs"

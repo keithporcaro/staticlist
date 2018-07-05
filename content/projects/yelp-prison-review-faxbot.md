@@ -2,7 +2,7 @@
 title: "Yelp Prison Review Faxbot"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Corrections"]
 projectURL: "http://lav.io/2014/11/yelp-prison-review-faxbot/"
 organization: "Sam Lavign"

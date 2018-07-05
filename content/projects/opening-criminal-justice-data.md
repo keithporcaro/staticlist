@@ -2,7 +2,7 @@
 title: "Opening Criminal Justice Data"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Comprehensive"]
 projectURL: "http://sunlightfoundation.com/criminaljustice/"
 organization: "Sunlight Foundation"

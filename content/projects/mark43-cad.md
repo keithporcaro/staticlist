@@ -2,7 +2,7 @@
 title: "Mark43 CAD"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Law Enforcement"]
 projectURL: "https://www.mark43.com/cad/"
 organization: "Mark43"

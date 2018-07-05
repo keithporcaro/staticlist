@@ -2,7 +2,7 @@
 title: "Stop and Frisk App"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: "http://www.nyclu.org/app"
 organization: "NY Civil Liberties Union"

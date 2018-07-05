@@ -2,7 +2,7 @@
 title: "Jail Population Dashboard"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Corrections"]
 projectURL: "https://cjdashboardtst.louisvilleky.gov/"
 organization: "Code for America"

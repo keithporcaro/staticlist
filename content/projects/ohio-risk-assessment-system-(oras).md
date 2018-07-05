@@ -2,7 +2,7 @@
 title: "Ohio Risk Assessment System (ORAS)"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Corrections"]
 projectURL: "http://www.drc.ohio.gov/oras"
 organization: "Ohio Dept. of Rehabilitation and Correction"

@@ -2,7 +2,7 @@
 title: "Static Risk and Offender Needs Guide (STRONG)"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Corrections"]
 projectURL: ""
 organization: "Washington State Institute for Criminal Justice & Washington Department of Corrections "

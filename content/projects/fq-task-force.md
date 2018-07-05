@@ -2,7 +2,7 @@
 title: "FQ Task Force"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: "http://www.fqtaskforce.com/"
 organization: "SDT Productions"

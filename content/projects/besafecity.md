@@ -2,7 +2,7 @@
 title: "besafe.city"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Law Enforcement"]
 projectURL: ""
 organization: "OpenJC"

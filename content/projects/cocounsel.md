@@ -2,7 +2,7 @@
 title: "Co/Counsel"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Legal"]
 projectURL: "http://www.cocounsel.co/maps"
 organization: "Co/Counsel"

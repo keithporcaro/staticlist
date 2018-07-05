@@ -2,7 +2,7 @@
 title: "Photo, Print, Voice, & Letters"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Corrections"]
 projectURL: ""
 organization: "Pigeon.ly"

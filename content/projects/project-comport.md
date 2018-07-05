@@ -2,7 +2,7 @@
 title: "Project Comport"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "https://www.projectcomport.org/"
 organization: "Code for America"

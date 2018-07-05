@@ -2,7 +2,7 @@
 title: "See Something Send Something"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: "http://www.mymobilewitness.com/consumer-services"
 organization: "My Mobile Witness"

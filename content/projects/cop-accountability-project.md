@@ -2,7 +2,7 @@
 title: "Cop Accountability Project"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: ""
 organization: "New York Legal Aid Society"

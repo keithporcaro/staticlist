@@ -2,7 +2,7 @@
 title: "My Clean Jacket"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "http://www.jaclouisiana.org/"
 organization: "Justice & Accountability Center of Louisiana"

@@ -2,7 +2,7 @@
 title: "SCOTUS Mapper"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Legal"]
 projectURL: "http://law.ubalt.edu/faculty/scotus-mapping/"
 organization: "University of Baltimore School of Law & the Free Law Project"

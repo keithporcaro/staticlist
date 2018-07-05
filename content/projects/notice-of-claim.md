@@ -2,7 +2,7 @@
 title: "Notice of Claim"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "http://notice-of-claim.herokuapp.com/"
 organization: "Justice Codes + Partners"

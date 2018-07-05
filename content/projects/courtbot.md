@@ -2,7 +2,7 @@
 title: "CourtBot"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Courts"]
 projectURL: "https://www.codeforamerica.org/past-projects/court-bot"
 organization: "Code for America"

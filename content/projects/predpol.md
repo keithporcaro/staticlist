@@ -2,7 +2,7 @@
 title: "PredPol"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Law Enforcement"]
 projectURL: "http://www.predpol.com/"
 organization: "PredPol"

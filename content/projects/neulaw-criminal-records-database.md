@@ -2,7 +2,7 @@
 title: "Neulaw Criminal Records Database"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Courts"]
 projectURL: "http://www.neulaw.org/research/crime-big-data"
 organization: "Neulaw Center for Science & Law"

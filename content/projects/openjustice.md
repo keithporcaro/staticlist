@@ -2,7 +2,7 @@
 title: "OpenJustice"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Comprehensive"]
 projectURL: "http://openjustice.doj.ca.gov/"
 organization: "California Department of Justice"

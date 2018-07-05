@@ -2,7 +2,7 @@
 title: "White Collar Crime Risk Zones"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Law Enforcement"]
 projectURL: "https://whitecollar.thenewinquiry.com/"
 organization: "The New Inquiry Magazine"

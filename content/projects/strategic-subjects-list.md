@@ -2,7 +2,7 @@
 title: "Strategic Subjects List"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List-Dashboard/wgnt-sjgb"
 organization: "Chicago Police Deptartment"

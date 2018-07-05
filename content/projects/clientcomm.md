@@ -2,7 +2,7 @@
 title: "ClientComm"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Probation & Parole"]
 projectURL: "https://clientcomm.org/"
 organization: "Code for America"

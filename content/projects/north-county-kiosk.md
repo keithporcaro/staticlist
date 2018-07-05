@@ -2,7 +2,7 @@
 title: "North County Kiosk"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Courts"]
 projectURL: ""
 organization: "Mohave Superior Court"

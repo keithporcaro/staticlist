@@ -2,7 +2,7 @@
 title: "Crime Scape"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Law Enforcement"]
 projectURL: "https://www.civicscape.com/"
 organization: "CivicScape"

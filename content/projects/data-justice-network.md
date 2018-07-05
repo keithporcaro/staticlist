@@ -2,7 +2,7 @@
 title: "Data Justice Network"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Comprehensive"]
 projectURL: "https://datajustice.us/"
 organization: "GovLab"

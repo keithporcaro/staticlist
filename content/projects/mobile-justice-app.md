@@ -2,7 +2,7 @@
 title: "Mobile Justice App"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: "https://www.aclu.org/feature/aclu-apps-record-police-conduct"
 organization: "ACLU"

@@ -2,7 +2,7 @@
 title: "Meet Your DA"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: "https://meetyourda.org/"
 organization: "ACLU California"

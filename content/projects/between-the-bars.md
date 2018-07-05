@@ -2,7 +2,7 @@
 title: "Between the Bars"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Corrections"]
 projectURL: "https://betweenthebars.org/"
 organization: "MIT Center for Civic Media"

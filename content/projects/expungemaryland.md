@@ -2,7 +2,7 @@
 title: "ExpungeMaryland"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://docs.google.com/spreadsheets/d/1xqdPyLLza8qlgY_HJg_yTwEuvQi5iJ-1NIxzNJw8fQw/expungemaryland.org"
 organization: "Advocates for Children & Youth"

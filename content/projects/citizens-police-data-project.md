@@ -2,7 +2,7 @@
 title: "Citizens Police Data Project"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "http://cpdb.co/"
 organization: "Invisible Institute"

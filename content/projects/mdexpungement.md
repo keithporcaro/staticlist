@@ -2,7 +2,7 @@
 title: "MDExpungement"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "http://www.mdexpungement.com/"
 organization: "Maryland Legal Apps LLC"

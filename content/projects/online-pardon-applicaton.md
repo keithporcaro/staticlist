@@ -2,7 +2,7 @@
 title: "Online Pardon Applicaton"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://doc.sd.gov/pardon/"
 organization: "South Dakota Department of Corrections"

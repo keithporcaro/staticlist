@@ -2,7 +2,7 @@
 title: "UniCourt"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Courts"]
 projectURL: "https://unicourt.com/"
 organization: "UniCourt"

@@ -2,7 +2,7 @@
 title: "Finding Street Gang Members on Twitter"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Law Enforcement"]
 projectURL: ""
 organization: "Kno.e.sis at Wright State University"

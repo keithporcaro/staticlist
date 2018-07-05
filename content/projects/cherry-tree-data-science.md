@@ -2,7 +2,7 @@
 title: "Cherry Tree Data Science"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["ReEntry"]
 projectURL: "http://www.cherrytreedatascience.com/"
 organization: "Cherry Tree Data Science"

@@ -2,7 +2,7 @@
 title: "Integrated Database"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Courts"]
 projectURL: "https://www.fjc.gov/research/idb"
 organization: "U.S. Federal Courts"

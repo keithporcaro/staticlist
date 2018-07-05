@@ -2,7 +2,7 @@
 title: "Chicago Police Board Info Center"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "http://www.cpbinfocenter.org/"
 organization: "Chicago Justice Project"

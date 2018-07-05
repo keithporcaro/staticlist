@@ -2,7 +2,7 @@
 title: "National Police Misconduct Reporting Project"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "https://www.policemisconduct.net"
 organization: "Cato Institute"

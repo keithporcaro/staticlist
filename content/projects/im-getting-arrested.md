@@ -2,7 +2,7 @@
 title: "I'm Getting Arrested"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: "https://play.google.com/store/apps/details?id=us.quadrant2.arrested&hl=en"
 organization: "Quadrant 2, Inc."

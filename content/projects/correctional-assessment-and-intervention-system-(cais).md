@@ -2,7 +2,7 @@
 title: "Correctional Assessment and Intervention System (CAIS)"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Corrections"]
 projectURL: "http://www.nccdglobal.org/assessment/correctional-assessment-and-intervention-system-cais"
 organization: "National Council on Crime and Delinquency"

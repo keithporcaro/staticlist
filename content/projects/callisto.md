@@ -2,7 +2,7 @@
 title: "Callisto"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://demo.callistocampus.org/"
 organization: "Sexual Health Innovations"

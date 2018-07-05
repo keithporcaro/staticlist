@@ -2,7 +2,7 @@
 title: "Officer Complaint History"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "http://www.ci.minneapolis.mn.us/civilrights/policereview/opcr-data"
 organization: "Minneapolis Police Department"

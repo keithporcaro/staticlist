@@ -2,7 +2,7 @@
 title: "SMS Criminal Diversion Pilot"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Courts"]
 projectURL: "https://www.magistratescourt.vic.gov.au/news/criminal-diversion-sms-reminder-pilot"
 organization: "Magistrate Court"

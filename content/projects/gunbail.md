@@ -2,7 +2,7 @@
 title: "GunBail"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Law Enforcement"]
 projectURL: "https://www.indiegogo.com/projects/gunbail-a-movement-to-stop-the-tears#/"
 organization: "GunBail, Inc."

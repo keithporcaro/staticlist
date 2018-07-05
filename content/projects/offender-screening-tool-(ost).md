@@ -2,7 +2,7 @@
 title: "Offender Screening Tool (OST)"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Corrections"]
 projectURL: "https://www.azcourts.gov/apsd/Evidence-Based-Practice/Risk-Needs-Assessment/Offender-Screening-Tool-OST"
 organization: "Arizona Judicial Branch"

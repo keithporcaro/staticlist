@@ -2,7 +2,7 @@
 title: "Police Shootings Investigation"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "https://www.washingtonpost.com/graphics/national/police-shootings/"
 organization: "The Washington Post"

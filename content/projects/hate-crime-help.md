@@ -2,7 +2,7 @@
 title: "Hate Crime Help"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://hatecrimehelp.com/"
 organization: "ABA Center for Innovation"

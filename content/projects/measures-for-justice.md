@@ -2,7 +2,7 @@
 title: "Measures for Justice"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Comprehensive"]
 projectURL: "http://measuresforjustice.org/"
 organization: "Measures for Justice"

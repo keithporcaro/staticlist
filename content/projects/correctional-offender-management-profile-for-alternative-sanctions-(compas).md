@@ -2,7 +2,7 @@
 title: "Correctional Offender Management Profile for Alternative Sanctions (COMPAS)"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Corrections"]
 projectURL: "http://www.equivant.com/solutions/inmate-classification"
 organization: "Equivant"

@@ -2,7 +2,7 @@
 title: "Statistical Package for the Social Sciences"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Law Enforcement"]
 projectURL: "http://www-01.ibm.com/software/analytics/spss/11/na/cpp/"
 organization: "IBM"

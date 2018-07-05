@@ -2,7 +2,7 @@
 title: "Solve a Crime"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: "https://www.solveacrime.com/"
 organization: "Qface Systems LLC."

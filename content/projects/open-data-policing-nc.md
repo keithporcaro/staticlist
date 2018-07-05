@@ -2,7 +2,7 @@
 title: "Open Data Policing NC"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "https://opendatapolicingnc.com/"
 organization: "Southern Coalition for Social Justice"

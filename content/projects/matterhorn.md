@@ -2,7 +2,7 @@
 title: "Matterhorn"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Courts"]
 projectURL: "http://getmatterhorn.com/"
 organization: "Court Innovations"

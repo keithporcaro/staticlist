@@ -2,7 +2,7 @@
 title: "The Counted"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database"
 organization: "The Guardian"

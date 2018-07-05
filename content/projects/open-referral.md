@@ -2,7 +2,7 @@
 title: "Open Referral"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://openreferral.org/"
 organization: "Open Referral"

@@ -2,7 +2,7 @@
 title: "Appolition"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Parole & Probation"]
 projectURL: "https://appolition.us"
 organization: "Appolition"

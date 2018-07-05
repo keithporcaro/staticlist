@@ -2,7 +2,7 @@
 title: "Legal Financial Obligation Calculator"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Courts"]
 projectURL: "http://beta.lfocalculator.org"
 organization: "Microsoft"

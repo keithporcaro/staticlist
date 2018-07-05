@@ -2,7 +2,7 @@
 title: "Expungement Generator"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: ""
 organization: "Community Legal Services"

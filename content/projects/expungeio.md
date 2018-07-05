@@ -2,7 +2,7 @@
 title: "Expunge.io"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "http://www.expunge.io/"
 organization: "Smart Chicago"

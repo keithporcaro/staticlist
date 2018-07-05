@@ -2,7 +2,7 @@
 title: "Outreach Smartphone Monitoring"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Probation & Parole"]
 projectURL: "http://www.osmnow.com/"
 organization: "Outreach Smartphone Monitoring"

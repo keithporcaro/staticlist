@@ -2,7 +2,7 @@
 title: "Mapping Police Violence"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "http://mappingpoliceviolence.org/"
 organization: "Various Stakeholders"

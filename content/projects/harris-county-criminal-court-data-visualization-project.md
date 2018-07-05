@@ -2,7 +2,7 @@
 title: "Harris County Criminal Court Data Visualization Project"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Courts"]
 projectURL: "http://tcjcdashboard.com/"
 organization: "Texas Criminal Justice Coalition"

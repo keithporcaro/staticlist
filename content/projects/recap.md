@@ -2,7 +2,7 @@
 title: "RECAP"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Legal"]
 projectURL: "https://www.recapthelaw.org/"
 organization: "Princeton University & the Free Law Project"

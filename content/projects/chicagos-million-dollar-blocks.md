@@ -2,7 +2,7 @@
 title: "Chicagos Million Dollar Blocks"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Corrections"]
 projectURL: "http://chicagosmilliondollarblocks.com/"
 organization: "Various Stakeholders"

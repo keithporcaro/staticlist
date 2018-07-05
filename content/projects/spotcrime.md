@@ -2,7 +2,7 @@
 title: "SpotCrime"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "https://spotcrime.com/"
 organization: "SpotCrime"

@@ -2,7 +2,7 @@
 title: "Public Safety Assessment"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Corrections"]
 projectURL: "http://www.arnoldfoundation.org/initiative/criminal-justice/crime-prevention/public-safety-assessment/"
 organization: "Laura and John Arnold Foundation"

@@ -2,7 +2,7 @@
 title: "Mobile PD"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Law Enforcement"]
 projectURL: "http://gomobilepd.com/product.html"
 organization: "Mobile PD, Inc."

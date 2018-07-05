@@ -2,7 +2,7 @@
 title: "Crime and Punishment in Chicago"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Comprehensive"]
 projectURL: "http://crime-punishment.smartchicagoapps.org/"
 organization: "Smart Chicago, Chicago Justice Project"

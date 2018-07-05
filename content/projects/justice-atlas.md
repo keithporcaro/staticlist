@@ -2,7 +2,7 @@
 title: "Justice Atlas"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Corrections"]
 projectURL: "http://www.justiceatlas.org/"
 organization: "Justice Mapping Center"

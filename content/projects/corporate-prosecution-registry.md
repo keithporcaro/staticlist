@@ -2,7 +2,7 @@
 title: "Corporate Prosecution Registry"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "http://lib.law.virginia.edu/Garrett/corporate-prosecution-registry/index.html"
 organization: "University of Virginia Law Library"

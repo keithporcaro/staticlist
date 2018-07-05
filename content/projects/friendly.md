@@ -2,7 +2,7 @@
 title: "Friendly"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "http://simlab.org/blog/2016/07/19/making-complexity-friendly/"
 organization: "SIMLab"

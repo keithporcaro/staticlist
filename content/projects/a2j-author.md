@@ -2,7 +2,7 @@
 title: "A2J Author"
 draft: false
 layout: "project"
-project_types: ["Stakeholders"]
+project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://www.kentlaw.iit.edu/institutes-centers/center-for-access-to-justice-and-technology/a2j-author"
 organization: "Chicago-Kent College of Law & CALI"

@@ -2,7 +2,7 @@
 title: "Convicted in Cook"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Courts"]
 projectURL: "http://convictions.smartchicagoapps.org/"
 organization: "Smart Chicago, Chicago Justice Project"

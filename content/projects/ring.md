@@ -2,7 +2,7 @@
 title: "Ring"
 draft: false
 layout: "project"
-project_types: ["Crowdsourcing"]
+project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: ""
 organization: "Ring"

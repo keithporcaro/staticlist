@@ -2,7 +2,7 @@
 title: "The Murder Accountability Project"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "http://www.murderdata.org/"
 organization: "The Murder Accountability Project"

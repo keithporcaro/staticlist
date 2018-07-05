@@ -2,7 +2,7 @@
 title: "VirginiaCourtData"
 draft: false
 layout: "project"
-project_types: ["Data"]
+project_types: "Data"
 categories: ["Courts"]
 projectURL: "http://virginiacourtdata.org/"
 organization: "Ben Schoenfeld"

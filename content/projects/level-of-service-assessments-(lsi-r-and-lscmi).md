@@ -2,7 +2,7 @@
 title: "Level of Service Assessments (LSI-R and LS/CMI)"
 draft: false
 layout: "project"
-project_types: ["Predictive"]
+project_types: "Predictive"
 categories: ["Corrections"]
 projectURL: "http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi"
 organization: "Multi-Health Systems, Inc."
