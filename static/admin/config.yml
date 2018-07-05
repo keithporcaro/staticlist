@@ -9,7 +9,7 @@ collections:
 - label: "Stakeholder Projects"
   name: "stakeholder_projects"
   folder: "content/projects"
-  filter: {field: "project_types", value: ["Stakeholders"]}
+  filter: {field: "project_types", value: "Stakeholders"}
   create: true
   fields:
     - {label: "Name", name: "title", widget: "string"}
