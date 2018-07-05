@@ -1,18 +1,15 @@
 ---
-title: "Chicagos Million Dollar Blocks"
-draft: false
-layout: "project"
-project_types: ["Data"]
-categories: ["Corrections"]
-projectURL: "http://chicagosmilliondollarblocks.com/"
-organization: "Various Stakeholders"
-organizationURL: ""
-location: "Chicago, IL"
-public_portal: "Yes"
-bulk_download: "No"
-ongoing: "No"
-founded: "2006"
-tags: ["Data"]
+title: Chicago's Million Dollar Blocks
+categories:
+  - Corrections
+projectURL: 'http://chicagosmilliondollarblocks.com/'
+organization: Various Stakeholders
+organizationURL: ''
+location: 'Chicago, IL'
+founded: '2006'
+tags:
+  - Data
+date: '2018-07-05T00:00:00-04:00'
 ---
 
 
