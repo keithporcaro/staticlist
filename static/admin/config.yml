@@ -5,7 +5,7 @@ publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
-
+collections:
 - label: "Project"
   name: "project"
   folder: "projects"
