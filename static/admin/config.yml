@@ -12,5 +12,17 @@ collections:
   create: true
   fields:
     - {label: "Name", name: "title", widget: "string"}
+    - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Project URL", name: "projectURL", widget: "string", required: false}
+    - {label: "Organization", name: "organization", widget: "relation", collection: "projects", searchFields:["organization"], valueField: "organization", required: false}
+    - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
+    - {label: "Location", name: "location", widget: "string", required: false}
+    - {label: "Open Source", name: "open_source", widget: "string", required: false}
+    - {label: "Open Data", name: "open_data", widget: "string", required: false}
+    - {label: "Compatibility", name: "compatibility", widget: "list", required: false}
+    - {label: "Outcome Measurements", name: "outcome_measurements", widget: "string", required: false}
+    - {label: "Cost To User", name: "cost", widget: "string", required: false}
+    - {label: "Founded", name: "founded", widget: "date", format: "YYYY", required: false}
+    - {label: "Tags", name: "tags", widget: "list", required: false}
     - {label: "Publish Date", name: "date", widget: "datetime"}
     - {label: "Body", name: "body", widget: "markdown"}
