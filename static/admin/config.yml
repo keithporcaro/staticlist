@@ -8,7 +8,7 @@ public_folder: "/images/uploads"
 collections:
 - label: "Project"
   name: "project"
-  folder: "projects"
+  folder: "content/projects"
   create: true
   fields:
     - {label: "Name", name: "title", widget: "string"}
