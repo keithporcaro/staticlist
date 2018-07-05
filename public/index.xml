@@ -6,19 +6,1106 @@
     <description>Recent content on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 13:08:32 -0400</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>A2J Author</title>
+      <link>http://example.org/projects/a2j-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/a2j-author/</guid>
+      <description>   Name A2J Author     Categories  Intake &amp;amp; Referral    Project URL https://www.kentlaw.iit.edu/institutes-centers/center-for-access-to-justice-and-technology/a2j-author    Organization  Chicago-Kent College of Law &amp;amp; CALI    Location U.S. &amp;amp; Canada    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free for certain non-profit legal service providers    Founded 1999    Tags  A2J     </description>
+    </item>
+    
+    <item>
+      <title>Acivilate</title>
+      <link>http://example.org/projects/acivilate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/acivilate/</guid>
+      <description>   Name Acivilate     Categories  ReEntry    Project URL http://acivilate.com/    Organization  Acivilate    Location U.S.    Open Source Yes    Open Data     Compatibility  Web &amp;amp; mobile    Outcome Measurements     Cost to User SaaS model    Founded 2014    Tags  Open Sourced;     </description>
+    </item>
+    
+    <item>
+      <title>Appolition</title>
+      <link>http://example.org/projects/appolition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/appolition/</guid>
+      <description>   Name Appolition     Categories  Parole &amp;amp; Probation    Project URL https://appolition.us    Organization  Appolition    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2018    Tags  Crowdsourcing ,      </description>
+    </item>
+    
+    <item>
+      <title>Arrest SOS</title>
+      <link>http://example.org/projects/arrest-sos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/arrest-sos/</guid>
+      <description>   Name Arrest SOS     Categories  Intake &amp;amp; Referral    Project URL http://arrestsos.com/    Organization  Arrest SOS    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Free    Founded 2011    Tags  A2J , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Bail Bloc</title>
+      <link>http://example.org/projects/bail-bloc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/bail-bloc/</guid>
+      <description>   Name Bail Bloc     Categories  Parole &amp;amp; Probation    Project URL https://bailbloc.thenewinquiry.com/    Organization  The New Inquiry    Location U.S.    Open Source https://github.com/thenewinquiry/bailbloc/    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Blockchain     </description>
+    </item>
+    
+    <item>
+      <title>Bail Judgment Debt</title>
+      <link>http://example.org/projects/bail-judgment-debt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/bail-judgment-debt/</guid>
+      <description>   Name Bail Judgment Debt     Categories  Probation &amp;amp; Parole    Project URL     Organization  Community Legal Services    Location Philadelphia, PA    Public Portal No    Bulk Download No    Ongoing No    Founded     Tags  Data , Bail     </description>
+    </item>
+    
+    <item>
+      <title>Between the Bars</title>
+      <link>http://example.org/projects/between-the-bars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/between-the-bars/</guid>
+      <description>   Name Between the Bars     Categories  Corrections    Project URL https://betweenthebars.org/    Organization  MIT Center for Civic Media    Location U.S.    Open Source No    Open Data     Compatibility  Web , Paper    Outcome Measurements     Cost to User Free    Founded 2012    Tags       </description>
+    </item>
+    
+    <item>
+      <title>Buoy</title>
+      <link>http://example.org/projects/buoy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/buoy/</guid>
+      <description>   Name Buoy     Categories  Law Enforcement    Project URL https://maymay.net/blog/2015/11/25/a-sneak-peek-at-better-angels-buoy-the-private-enhanced-9-1-1-for-your-personal-community/    Organization  Better Angel Collective    Location U.S.    Open Source https://github.com/meitar/better-angels/#readme    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Callisto</title>
+      <link>http://example.org/projects/callisto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/callisto/</guid>
+      <description>   Name Callisto     Categories  Intake &amp;amp; Referral    Project URL https://demo.callistocampus.org/    Organization  Sexual Health Innovations    Location Various U.S. Universities    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User NA    Founded 2014    Tags  Sexual Assault , Open Sourced , Crowd Sourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>Cherry Tree Data Science</title>
+      <link>http://example.org/projects/cherry-tree-data-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/cherry-tree-data-science/</guid>
+      <description>   Name Cherry Tree Data Science     Categories  ReEntry    Project URL http://www.cherrytreedatascience.com/    Organization  Cherry Tree Data Science    Location U.S.    Public Portal No    Bulk Download No    Ongoing Yes    Founded 2016    Tags  Data;     </description>
+    </item>
+    
+    <item>
+      <title>Chicago Police Board Info Center</title>
+      <link>http://example.org/projects/chicago-police-board-info-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/chicago-police-board-info-center/</guid>
+      <description>   Name Chicago Police Board Info Center     Categories  Law Enforcement    Project URL http://www.cpbinfocenter.org/    Organization  Chicago Justice Project    Location Chicago, IL    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Chicagos Million Dollar Blocks</title>
+      <link>http://example.org/projects/chicagos-million-dollar-blocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/chicagos-million-dollar-blocks/</guid>
+      <description>   Name Chicagos Million Dollar Blocks     Categories  Corrections    Project URL http://chicagosmilliondollarblocks.com/    Organization  Various Stakeholders    Location Chicago, IL    Public Portal Yes    Bulk Download No    Ongoing No    Founded 2006    Tags  Data     </description>
+    </item>
+    
+    <item>
+      <title>Citizens Police Data Project</title>
+      <link>http://example.org/projects/citizens-police-data-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/citizens-police-data-project/</guid>
+      <description>   Name Citizens Police Data Project     Categories  Law Enforcement    Project URL http://cpdb.co/    Organization  Invisible Institute    Location Chicago, IL    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Clean Slate DC</title>
+      <link>http://example.org/projects/clean-slate-dc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/clean-slate-dc/</guid>
+      <description>   Name Clean Slate DC     Categories  Intake &amp;amp; Referral    Project URL http://cleanslatedc.com    Organization  Rebuilding Reentry    Location Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
+    </item>
+    
+    <item>
+      <title>Clear My Record</title>
+      <link>http://example.org/projects/clear-my-record/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/clear-my-record/</guid>
+      <description>   Name Clear My Record     Categories  Intake &amp;amp; Referral    Project URL https://clearmyrecord.codeforamerica.org/    Organization  Code for America    Location San Francisco, CA    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
+    </item>
+    
+    <item>
+      <title>ClientComm</title>
+      <link>http://example.org/projects/clientcomm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/clientcomm/</guid>
+      <description>   Name ClientComm     Categories  Probation &amp;amp; Parole    Project URL https://clientcomm.org/    Organization  Code for America    Location Salt Lake County, UT    Open Source Yes    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Varies    Founded 2016    Tags  Open Sourced;     </description>
+    </item>
+    
+    <item>
+      <title>Co/Counsel</title>
+      <link>http://example.org/projects/cocounsel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/cocounsel/</guid>
+      <description>   Name Co/Counsel     Categories  Legal    Project URL http://www.cocounsel.co/maps    Organization  Co/Counsel    Location U.S.    Open Source Yes    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>Convicted in Cook</title>
+      <link>http://example.org/projects/convicted-in-cook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/convicted-in-cook/</guid>
+      <description>   Name Convicted in Cook     Categories  Courts    Project URL http://convictions.smartchicagoapps.org/    Organization  Smart Chicago, Chicago Justice Project    Location Cook County, IL    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2014    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Cop Accountability Project</title>
+      <link>http://example.org/projects/cop-accountability-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/cop-accountability-project/</guid>
+      <description>   Name Cop Accountability Project     Categories  Law Enforcement    Project URL     Organization  New York Legal Aid Society    Location New York City, NY    Public Portal No    Bulk Download No    Ongoing Yes    Founded 2015    Tags  Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Cop Watch Video Recorder</title>
+      <link>http://example.org/projects/cop-watch-video-recorder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/cop-watch-video-recorder/</guid>
+      <description>   Name Cop Watch Video Recorder     Categories  Law Enforcement    Project URL http://nepv.org/cop-watch/download-app    Organization  Network for Elimination of Police Violence    Location Toronto, Canada    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Corporate Prosecution Registry</title>
+      <link>http://example.org/projects/corporate-prosecution-registry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/corporate-prosecution-registry/</guid>
+      <description>   Name Corporate Prosecution Registry     Categories  Law Enforcement    Project URL http://lib.law.virginia.edu/Garrett/corporate-prosecution-registry/index.html    Organization  University of Virginia Law Library    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data , White Collar     </description>
+    </item>
+    
+    <item>
+      <title>Correctional Assessment and Intervention System (CAIS)</title>
+      <link>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/correctional-assessment-and-intervention-system-cais/</guid>
+      <description>   Name Correctional Assessment and Intervention System (CAIS)     Categories  Corrections    Project URL http://www.nccdglobal.org/assessment/correctional-assessment-and-intervention-system-cais    Organization  National Council on Crime and Delinquency    Location U.S.    What is Predicted Likelihood of recidivism    Open Source     Available Training Data NA    Ongoing Yes    Founded NA    Tags  Risk Assessment , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>Correctional Offender Management Profile for Alternative Sanctions (COMPAS)</title>
+      <link>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/correctional-offender-management-profile-for-alternative-sanctions-compas/</guid>
+      <description>   Name Correctional Offender Management Profile for Alternative Sanctions (COMPAS)     Categories  Corrections    Project URL http://www.equivant.com/solutions/inmate-classification    Organization  Equivant    Location U.S.    What is Predicted Likelihood of recidivism; service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded 1989    Tags  Risk Assessment , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>CourtBot</title>
+      <link>http://example.org/projects/courtbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/courtbot/</guid>
+      <description>   Name CourtBot     Categories  Courts    Project URL https://www.codeforamerica.org/past-projects/court-bot    Organization  Code for America    Location Atlanta, GA    Open Source Yes    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal Texting Fees Apply    Founded 2016    Tags  Open Sourced , A2J     </description>
+    </item>
+    
+    <item>
+      <title>Crime Scape</title>
+      <link>http://example.org/projects/crime-scape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/crime-scape/</guid>
+      <description>   Name Crime Scape     Categories  Law Enforcement    Project URL https://www.civicscape.com/    Organization  CivicScape    Location U.S.    What is Predicted Where police are needed    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Sourced , Open Data , Predictive Policing     </description>
+    </item>
+    
+    <item>
+      <title>Crime and Punishment in Chicago</title>
+      <link>http://example.org/projects/crime-and-punishment-in-chicago/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/crime-and-punishment-in-chicago/</guid>
+      <description>   Name Crime and Punishment in Chicago     Categories  Comprehensive    Project URL http://crime-punishment.smartchicagoapps.org/    Organization  Smart Chicago, Chicago Justice Project    Location Chicago, IL    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>CrimeReports</title>
+      <link>http://example.org/projects/crimereports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/crimereports/</guid>
+      <description>   Name CrimeReports     Categories  Law Enforcement    Project URL https://www.crimereports.com/    Organization  Motorola    Location U.S.    Public Portal No    Bulk Download No    Ongoing Yes    Founded 2016    Tags  Data , Crowdsourced     </description>
+    </item>
+    
+    <item>
+      <title>Crowd Justice</title>
+      <link>http://example.org/projects/crowd-justice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/crowd-justice/</guid>
+      <description>   Name Crowd Justice     Categories  Legal    Project URL https://www.crowdjustice.co.uk    Organization  Justice Platform Ltd    Location United Kingdom    Open Source No    Outcome Measurements     Cost to User 5% of goal &amp;#43; processing fees    Founded 2017    Tags  Crowdsourcing     </description>
+    </item>
+    
+    <item>
+      <title>Data Justice Network</title>
+      <link>http://example.org/projects/data-justice-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/data-justice-network/</guid>
+      <description>   Name Data Justice Network     Categories  Comprehensive    Project URL https://datajustice.us/    Organization  GovLab    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>Expunge.io</title>
+      <link>http://example.org/projects/expungeio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/expungeio/</guid>
+      <description>   Name Expunge.io     Categories  Intake &amp;amp; Referral    Project URL http://www.expunge.io/    Organization  Smart Chicago    Location Cook County, IL    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Expungements &amp;amp; Pardons , Open sourced     </description>
+    </item>
+    
+    <item>
+      <title>ExpungeMaryland</title>
+      <link>http://example.org/projects/expungemaryland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/expungemaryland/</guid>
+      <description>   Name ExpungeMaryland     Categories  Intake &amp;amp; Referral    Project URL https://docs.google.com/spreadsheets/d/1xqdPyLLza8qlgY_HJg_yTwEuvQi5iJ-1NIxzNJw8fQw/expungemaryland.org    Organization  Advocates for Children &amp;amp; Youth    Location Maryland    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
+    </item>
+    
+    <item>
+      <title>Expungement Generator</title>
+      <link>http://example.org/projects/expungement-generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/expungement-generator/</guid>
+      <description>   Name Expungement Generator     Categories  Intake &amp;amp; Referral    Project URL     Organization  Community Legal Services    Location Philadelphia, PA    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
+    </item>
+    
+    <item>
+      <title>FQ Task Force</title>
+      <link>http://example.org/projects/fq-task-force/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/fq-task-force/</guid>
+      <description>   Name FQ Task Force     Categories  Law Enforcement    Project URL http://www.fqtaskforce.com/    Organization  SDT Productions    Location New Orleans, LA    Open Source No    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>Fatal Encounters</title>
+      <link>http://example.org/projects/fatal-encounters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/fatal-encounters/</guid>
+      <description>   Name Fatal Encounters     Categories  Law Enforcement    Project URL http://www.fatalencounters.org/    Organization  D. Brian Burghart    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Finding Street Gang Members on Twitter</title>
+      <link>http://example.org/projects/finding-street-gang-members-on-twitter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/finding-street-gang-members-on-twitter/</guid>
+      <description>   Name Finding Street Gang Members on Twitter     Categories  Law Enforcement    Project URL     Organization  Kno.e.sis at Wright State University    Location U.S.    What is Predicted Likelihood person is a gang member    Open Source     Available Training Data No    Ongoing No    Founded 2010    Tags  Gangs , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>Five-0</title>
+      <link>http://example.org/projects/five-0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/five-0/</guid>
+      <description>   Name Five-0     Categories  Law Enforcement    Project URL http://fiveo.us/    Organization  Pinetart, Inc.    Location Georgia    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Flikshop</title>
+      <link>http://example.org/projects/flikshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/flikshop/</guid>
+      <description>   Name Flikshop     Categories  Corrections    Project URL     Organization  Flikshop    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User $.99 per postcard    Founded 2011    Tags       </description>
+    </item>
+    
+    <item>
+      <title>FocalPoint</title>
+      <link>http://example.org/projects/focalpoint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/focalpoint/</guid>
+      <description>   Name FocalPoint     Categories  Probation &amp;amp; Parole    Project URL     Organization  Omnilink    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies    Founded 1988    Tags       </description>
+    </item>
+    
+    <item>
+      <title>Friendly</title>
+      <link>http://example.org/projects/friendly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/friendly/</guid>
+      <description>   Name Friendly     Categories  Intake &amp;amp; Referral    Project URL http://simlab.org/blog/2016/07/19/making-complexity-friendly/    Organization  SIMLab    Location Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Open Sourced;     </description>
+    </item>
+    
+    <item>
+      <title>GoodCall</title>
+      <link>http://example.org/projects/goodcall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/goodcall/</guid>
+      <description>   Name GoodCall     Categories  Intake &amp;amp; Referral    Project URL https://goodcall.nyc/    Organization  Bronx Defenders; Blue Ridge Labs    Location Bronx, NY    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Defense     </description>
+    </item>
+    
+    <item>
+      <title>GunBail</title>
+      <link>http://example.org/projects/gunbail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/gunbail/</guid>
+      <description>   Name GunBail     Categories  Law Enforcement    Project URL https://www.indiegogo.com/projects/gunbail-a-movement-to-stop-the-tears#/    Organization  GunBail, Inc.    Location New Jersey    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies    Founded 2016    Tags       </description>
+    </item>
+    
+    <item>
+      <title>Haka</title>
+      <link>http://example.org/projects/haka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/haka/</guid>
+      <description>   Name Haka     Categories  Parole &amp;amp; Probation    Project URL     Organization  Reshma Kamath    Location U.S.    Open Source Yes    Outcome Measurements     Cost to User TBD    Founded 2017    Tags  Crowdsourcing , Blockchain     </description>
+    </item>
+    
+    <item>
+      <title>Harm Assessment Risk Tool</title>
+      <link>http://example.org/projects/harm-assessment-risk-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/harm-assessment-risk-tool/</guid>
+      <description>   Name Harm Assessment Risk Tool     Categories  Corrections    Project URL     Organization  Durham Constabulary &amp;amp; University of Cambridge&amp;#39;s Centre for Evidence-based Policing    Location Durham, England    What is Predicted Likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2013    Tags  Risk Assessment , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>Harris County Criminal Court Data Visualization Project</title>
+      <link>http://example.org/projects/harris-county-criminal-court-data-visualization-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/harris-county-criminal-court-data-visualization-project/</guid>
+      <description>   Name Harris County Criminal Court Data Visualization Project     Categories  Courts    Project URL http://tcjcdashboard.com/    Organization  Texas Criminal Justice Coalition    Location Harris County, TX    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 1999    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Hate Crime Help</title>
+      <link>http://example.org/projects/hate-crime-help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/hate-crime-help/</guid>
+      <description>   Name Hate Crime Help     Categories  Intake &amp;amp; Referral    Project URL https://hatecrimehelp.com/    Organization  ABA Center for Innovation    Location U.S.    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2017    Tags  A2J     </description>
+    </item>
+    
+    <item>
+      <title>Haystac</title>
+      <link>http://example.org/projects/haystac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/haystac/</guid>
+      <description>   Name Haystac     Categories  Corrections    Project URL https://pigeon.ly/search?_ga=2.133203149.21256110.1527441308-1979766512.1527441308    Organization  Pigeon.ly    Location U.S.    Public Portal Yes, behind pay wall    Bulk Download No    Ongoing Yes    Founded 2015    Tags  Data     </description>
+    </item>
+    
+    <item>
+      <title>Hitachi Visualization Predictive Crime Analytics</title>
+      <link>http://example.org/projects/hitachi-visualization-predictive-crime-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/hitachi-visualization-predictive-crime-analytics/</guid>
+      <description>   Name Hitachi Visualization Predictive Crime Analytics     Categories  Law Enforcement    Project URL https://www.hds.com/en-us/news-insights/press-releases/2015/gl150928.html    Organization  Hitachi Data Systems Corporation    Location U.S.    What is Predicted Where police are needed/ geospatial risk of crime    Open Source     Available Training Data No    Ongoing Yes    Founded 2015    Tags  Predictive Policing     </description>
+    </item>
+    
+    <item>
+      <title>Hunchlab</title>
+      <link>http://example.org/projects/hunchlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/hunchlab/</guid>
+      <description>   Name Hunchlab     Categories  Law Enforcement    Project URL https://www.hunchlab.com/    Organization  Avazea    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2005    Tags  Data , Predictive Policing     </description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Getting Arrested</title>
+      <link>http://example.org/projects/im-getting-arrested/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/im-getting-arrested/</guid>
+      <description>   Name I&amp;rsquo;m Getting Arrested     Categories  Law Enforcement    Project URL https://play.google.com/store/apps/details?id=us.quadrant2.arrested&amp;amp;hl=en    Organization  Quadrant 2, Inc.    Location International    Open Source No    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Integrated Database</title>
+      <link>http://example.org/projects/integrated-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/integrated-database/</guid>
+      <description>   Name Integrated Database     Categories  Courts    Project URL https://www.fjc.gov/research/idb    Organization  U.S. Federal Courts    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Internet Banging Algorithm </title>
+      <link>http://example.org/projects/internet-banging-algorithm-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/internet-banging-algorithm-/</guid>
+      <description>   Name Internet Banging Algorithm     Categories  Law Enforcement    Project URL     Organization  Columbia School of Social work: Desmond Patton    Location U.S.    What is Predicted Likelihood a youth&amp;#39;s violent post to social media is going to percipitate a violent act    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2012    Tags  Gangs , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>Jail Population Dashboard</title>
+      <link>http://example.org/projects/jail-population-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/jail-population-dashboard/</guid>
+      <description>   Name Jail Population Dashboard     Categories  Corrections    Project URL https://cjdashboardtst.louisvilleky.gov/    Organization  Code for America    Location Louisville, KY    Public Portal Yes, via separate Xjail data portal    Bulk Download No    Ongoing Yes    Founded 2013    Tags  Data , Open Sourced     </description>
+    </item>
+    
+    <item>
+      <title>Justice Atlas</title>
+      <link>http://example.org/projects/justice-atlas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/justice-atlas/</guid>
+      <description>   Name Justice Atlas     Categories  Corrections    Project URL http://www.justiceatlas.org/    Organization  Justice Mapping Center    Location U.S.    Public Portal Yes    Bulk Download No    Ongoing No    Founded 2010    Tags  Data     </description>
+    </item>
+    
+    <item>
+      <title>Justice System Performance</title>
+      <link>http://example.org/projects/justice-system-performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/justice-system-performance/</guid>
+      <description>   Name Justice System Performance     Categories  Law Enforcement    Project URL http://prosecutor.cuyahogacounty.us/en-US/justice-system-performance.aspx    Organization  Prosecutor Office of Cuyahoga County    Location Cuyahoga County, OH    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2014    Tags  Data , Prosecutors     </description>
+    </item>
+    
+    <item>
+      <title>Killed By Police</title>
+      <link>http://example.org/projects/killed-by-police/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/killed-by-police/</guid>
+      <description>   Name Killed By Police     Categories  Law Enforcement    Project URL http://killedbypolice.net/    Organization  Killed By Police    Location U.S.    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2013    Tags  Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>LEEDIR</title>
+      <link>http://example.org/projects/leedir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/leedir/</guid>
+      <description>   Name LEEDIR     Categories  Law Enforcement    Project URL https://www.leedir.com    Organization  Citizen Global &amp;amp; LA County Sheriff&amp;#39;s Department    Location U.S.    Open Source No    Open Data     Compatibility  Cloud    Outcome Measurements     Cost to User Free to law enforcement    Founded 2014    Tags  Investigation     </description>
+    </item>
+    
+    <item>
+      <title>Legal Financial Obligation Calculator</title>
+      <link>http://example.org/projects/legal-financial-obligation-calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/legal-financial-obligation-calculator/</guid>
+      <description>   Name Legal Financial Obligation Calculator     Categories  Courts    Project URL http://beta.lfocalculator.org    Organization  Microsoft    Location Washington    Open Source Forthcoming    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2018    Tags  A2J     </description>
+    </item>
+    
+    <item>
+      <title>LegalEq</title>
+      <link>http://example.org/projects/legaleq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/legaleq/</guid>
+      <description>   Name LegalEq     Categories  Law Enforcement    Project URL http://www.legaleqapp.com/    Organization  Legal Equalizer LLC    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Level of Service Assessments (LSI-R and LS/CMI)</title>
+      <link>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/level-of-service-assessments-lsi-r-and-lscmi/</guid>
+      <description>   Name Level of Service Assessments (LSI-R and LS/CMI)     Categories  Corrections    Project URL http://www.mhs.com/product.aspx?gr=saf&amp;amp;id=overview&amp;amp;prod=ls-cmi    Organization  Multi-Health Systems, Inc.    Location U.S.    What is Predicted Likelihood of recidivism; service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded 1995    Tags  Risk Assessment , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>MDExpungement</title>
+      <link>http://example.org/projects/mdexpungement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/mdexpungement/</guid>
+      <description>   Name MDExpungement     Categories  Intake &amp;amp; Referral    Project URL http://www.mdexpungement.com/    Organization  Maryland Legal Apps LLC    Location Maryland    Open Source Yes, upon Request    Open Data     Compatibility  Web; Chrome Extension    Outcome Measurements     Cost to User Free    Founded 2016    Tags  Expungements &amp;amp; Pardons     </description>
+    </item>
+    
+    <item>
+      <title>Mapping Police Violence</title>
+      <link>http://example.org/projects/mapping-police-violence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/mapping-police-violence/</guid>
+      <description>   Name Mapping Police Violence     Categories  Law Enforcement    Project URL http://mappingpoliceviolence.org/    Organization  Various Stakeholders    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Mark43 CAD</title>
+      <link>http://example.org/projects/mark43-cad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/mark43-cad/</guid>
+      <description>   Name Mark43 CAD     Categories  Law Enforcement    Project URL https://www.mark43.com/cad/    Organization  Mark43    Location U.S.    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Varies    Founded 2012    Tags       </description>
+    </item>
+    
+    <item>
+      <title>Matterhorn</title>
+      <link>http://example.org/projects/matterhorn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/matterhorn/</guid>
+      <description>   Name Matterhorn     Categories  Courts    Project URL http://getmatterhorn.com/    Organization  Court Innovations    Location Michigan    Open Source No    Open Data     Compatibility  Web , SMS    Outcome Measurements     Cost to User Free to Individuals, Court pays to install platform    Founded 2014    Tags  A2J , Dispute Resolution      </description>
+    </item>
+    
+    <item>
+      <title>Measures for Justice</title>
+      <link>http://example.org/projects/measures-for-justice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/measures-for-justice/</guid>
+      <description>   Name Measures for Justice     Categories  Comprehensive    Project URL http://measuresforjustice.org/    Organization  Measures for Justice    Location U.S.    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2011    Tags  Data , Research     </description>
+    </item>
+    
+    <item>
+      <title>Meet Your DA</title>
+      <link>http://example.org/projects/meet-your-da/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/meet-your-da/</guid>
+      <description>   Name Meet Your DA     Categories  Law Enforcement    Project URL https://meetyourda.org/    Organization  ACLU California    Location California    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Prosectuors     </description>
+    </item>
+    
+    <item>
+      <title>Mobile Justice App</title>
+      <link>http://example.org/projects/mobile-justice-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/mobile-justice-app/</guid>
+      <description>   Name Mobile Justice App     Categories  Law Enforcement    Project URL https://www.aclu.org/feature/aclu-apps-record-police-conduct    Organization  ACLU    Location Arizona, California, Colorado, Washington D.C., Gerogia, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New Jersey, New Mexico, North Carolina, Oklahoma, Oregon, Pennsylvania, Virginia    Open Source No    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Mobile PD</title>
+      <link>http://example.org/projects/mobile-pd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/mobile-pd/</guid>
+      <description>   Name Mobile PD     Categories  Law Enforcement    Project URL http://gomobilepd.com/product.html    Organization  Mobile PD, Inc.    Location U.S.    Open Source No    Open Data     Compatibility  Android , iOS    Outcome Measurements     Cost to User Free    Founded 2010    Tags       </description>
+    </item>
+    
+    <item>
+      <title>My Clean Jacket</title>
+      <link>http://example.org/projects/my-clean-jacket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/my-clean-jacket/</guid>
+      <description>   Name My Clean Jacket     Categories  Intake &amp;amp; Referral    Project URL http://www.jaclouisiana.org/    Organization  Justice &amp;amp; Accountability Center of Louisiana    Location Louisiana    Open Source Yes    Open Data     Compatibility  iOS , Android , Web    Outcome Measurements     Cost to User Free to users; Fee to become a legal partner    Founded 2013    Tags  Expungements &amp;amp; Pardons , Open Sourced     </description>
+    </item>
+    
+    <item>
+      <title>National Police Misconduct Reporting Project</title>
+      <link>http://example.org/projects/national-police-misconduct-reporting-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/national-police-misconduct-reporting-project/</guid>
+      <description>   Name National Police Misconduct Reporting Project     Categories  Law Enforcement    Project URL https://www.policemisconduct.net    Organization  Cato Institute    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2012    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Neulaw Criminal Records Database</title>
+      <link>http://example.org/projects/neulaw-criminal-records-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/neulaw-criminal-records-database/</guid>
+      <description>   Name Neulaw Criminal Records Database     Categories  Courts    Project URL http://www.neulaw.org/research/crime-big-data    Organization  Neulaw Center for Science &amp;amp; Law    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2018    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Nextdoor</title>
+      <link>http://example.org/projects/nextdoor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/nextdoor/</guid>
+      <description>   Name Nextdoor     Categories  Law Enforcement    Project URL https://nextdoor.com/    Organization  Nextdoor    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>North County Kiosk</title>
+      <link>http://example.org/projects/north-county-kiosk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/north-county-kiosk/</guid>
+      <description>   Name North County Kiosk     Categories  Courts    Project URL     Organization  Mohave Superior Court    Location Mohave County, AZ    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2013    Tags  A2J;     </description>
+    </item>
+    
+    <item>
+      <title>Notice of Claim</title>
+      <link>http://example.org/projects/notice-of-claim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/notice-of-claim/</guid>
+      <description>   Name Notice of Claim     Categories  Intake &amp;amp; Referral    Project URL http://notice-of-claim.herokuapp.com/    Organization  Justice Codes &amp;#43; Partners    Location New York City, NY    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Police Accountability , Open Sourced     </description>
+    </item>
+    
+    <item>
+      <title>Offender Screening Tool (OST)</title>
+      <link>http://example.org/projects/offender-screening-tool-ost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/offender-screening-tool-ost/</guid>
+      <description>   Name Offender Screening Tool (OST)     Categories  Corrections    Project URL https://www.azcourts.gov/apsd/Evidence-Based-Practice/Risk-Needs-Assessment/Offender-Screening-Tool-OST    Organization  Arizona Judicial Branch    Location Arizona, Virginia    What is Predicted likelihood of recidivism; includes service needs analysis    Open Source     Available Training Data No    Ongoing Yes    Founded NA    Tags  Risk Assessment , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>Officer Complaint History</title>
+      <link>http://example.org/projects/officer-complaint-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/officer-complaint-history/</guid>
+      <description>   Name Officer Complaint History     Categories  Law Enforcement    Project URL http://www.ci.minneapolis.mn.us/civilrights/policereview/opcr-data    Organization  Minneapolis Police Department    Location Minneapolis, MN    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2012    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Ohio Risk Assessment System (ORAS)</title>
+      <link>http://example.org/projects/ohio-risk-assessment-system-oras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/ohio-risk-assessment-system-oras/</guid>
+      <description>   Name Ohio Risk Assessment System (ORAS)     Categories  Corrections    Project URL http://www.drc.ohio.gov/oras    Organization  Ohio Dept. of Rehabilitation and Correction    Location Ohio    What is Predicted 10 tools: ranging from likelihood of recidivism, misdemeanor screening, community supervision screening    Open Source     Available Training Data No    Ongoing Yes    Founded 2011    Tags  Risk Assessment , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>Online Pardon Applicaton</title>
+      <link>http://example.org/projects/online-pardon-applicaton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/online-pardon-applicaton/</guid>
+      <description>   Name Online Pardon Applicaton     Categories  Intake &amp;amp; Referral    Project URL https://doc.sd.gov/pardon/    Organization  South Dakota Department of Corrections    Location South Dakota    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Expungements &amp;amp; Pardons     </description>
+    </item>
+    
+    <item>
+      <title>Open Data Policing NC</title>
+      <link>http://example.org/projects/open-data-policing-nc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/open-data-policing-nc/</guid>
+      <description>   Name Open Data Policing NC     Categories  Law Enforcement    Project URL https://opendatapolicingnc.com/    Organization  Southern Coalition for Social Justice    Location North Carolina    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Open Police Complaints</title>
+      <link>http://example.org/projects/open-police-complaints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/open-police-complaints/</guid>
+      <description>   Name Open Police Complaints     Categories  Law Enforcement    Project URL https://openpolice.org/    Organization  Flex Your Rights    Location U.S.    Public Portal No    Bulk Download Not yet    Ongoing Yes    Founded 2016    Tags  Police Accountability , Legal Education     </description>
+    </item>
+    
+    <item>
+      <title>Open Referral</title>
+      <link>http://example.org/projects/open-referral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/open-referral/</guid>
+      <description>   Name Open Referral     Categories  Intake &amp;amp; Referral    Project URL https://openreferral.org/    Organization  Open Referral    Location Chicago, IL; San Francisco, CA; Washington D.C.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2012    Tags  Open Sourced , Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>OpenJustice</title>
+      <link>http://example.org/projects/openjustice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/openjustice/</guid>
+      <description>   Name OpenJustice     Categories  Comprehensive    Project URL http://openjustice.doj.ca.gov/    Organization  California Department of Justice    Location California    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2016    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Opening Criminal Justice Data</title>
+      <link>http://example.org/projects/opening-criminal-justice-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/opening-criminal-justice-data/</guid>
+      <description>   Name Opening Criminal Justice Data     Categories  Comprehensive    Project URL http://sunlightfoundation.com/criminaljustice/    Organization  Sunlight Foundation    Location U.S.    Public Portal No    Bulk Download Yes    Ongoing Yes    Founded     Tags  Data , Open Data , Research     </description>
+    </item>
+    
+    <item>
+      <title>Outreach Smartphone Monitoring</title>
+      <link>http://example.org/projects/outreach-smartphone-monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/outreach-smartphone-monitoring/</guid>
+      <description>   Name Outreach Smartphone Monitoring     Categories  Probation &amp;amp; Parole    Project URL http://www.osmnow.com/    Organization  Outreach Smartphone Monitoring    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User $1-$4 per day    Founded 2016    Tags       </description>
+    </item>
+    
+    <item>
+      <title>Parole Board Hearing Data Project</title>
+      <link>http://example.org/projects/parole-board-hearing-data-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/parole-board-hearing-data-project/</guid>
+      <description>   Name Parole Board Hearing Data Project     Categories  Probation &amp;amp; Parole    Project URL http://www.parolehearingdata.org/    Organization  Nikki Zeichner    Location New York    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>PhillyBlotter</title>
+      <link>http://example.org/projects/phillyblotter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/phillyblotter/</guid>
+      <description>   Name PhillyBlotter     Categories  Law Enforcement    Project URL http://www.phillyblotter.com/    Organization  Philadelinquency    Location Philadelphia, PA    Public Portal Yes, behind paywall    Bulk Download No    Ongoing Yes    Founded 2016    Tags  Data     </description>
+    </item>
+    
+    <item>
+      <title>Photo, Print, Voice, &amp; Letters</title>
+      <link>http://example.org/projects/photo-print-voice--letters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/photo-print-voice--letters/</guid>
+      <description>   Name Photo, Print, Voice, &amp;amp; Letters     Categories  Corrections    Project URL     Organization  Pigeon.ly    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies by Service    Founded 2012    Tags       </description>
+    </item>
+    
+    <item>
+      <title>Police Shootings Investigation</title>
+      <link>http://example.org/projects/police-shootings-investigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/police-shootings-investigation/</guid>
+      <description>   Name Police Shootings Investigation     Categories  Law Enforcement    Project URL https://www.washingtonpost.com/graphics/national/police-shootings/    Organization  The Washington Post    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Power BI &#43; Azure Analytics</title>
+      <link>http://example.org/projects/power-bi-azure-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/power-bi-azure-analytics/</guid>
+      <description>   Name Power BI + Azure Analytics     Categories  Law Enforcement    Project URL https://enterprise.microsoft.com/en-us/articles/industries/government/predictive-policing-the-future-of-law-enforcement/    Organization  Microsoft    Location Chicago, IL    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2016    Tags  Data , Predictive Policing     </description>
+    </item>
+    
+    <item>
+      <title>PredPol</title>
+      <link>http://example.org/projects/predpol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/predpol/</guid>
+      <description>   Name PredPol     Categories  Law Enforcement    Project URL http://www.predpol.com/    Organization  PredPol    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded 2012    Tags  Data , Predictive Policing     </description>
+    </item>
+    
+    <item>
+      <title>Project Comport</title>
+      <link>http://example.org/projects/project-comport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/project-comport/</guid>
+      <description>   Name Project Comport     Categories  Law Enforcement    Project URL https://www.projectcomport.org/    Organization  Code for America    Location Indianapolis, IN    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Public Safety Assessment</title>
+      <link>http://example.org/projects/public-safety-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/public-safety-assessment/</guid>
+      <description>   Name Public Safety Assessment     Categories  Corrections    Project URL http://www.arnoldfoundation.org/initiative/criminal-justice/crime-prevention/public-safety-assessment/    Organization  Laura and John Arnold Foundation    Location Kentucky, New Jersey, Arizona, Florida, Illinois, Ohio, Pennsylvania, Washington, Wisconsin, California, North Carolina    What is Predicted Likelihood to attend court date; likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2017    Tags  Risk Assessment , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>RECAP</title>
+      <link>http://example.org/projects/recap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/recap/</guid>
+      <description>   Name RECAP     Categories  Legal    Project URL https://www.recapthelaw.org/    Organization  Princeton University &amp;amp; the Free Law Project    Location U.S.    Open Source https://github.com/freelawproject/recap    Outcome Measurements     Cost to User Free    Founded 2009    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>Raheem</title>
+      <link>http://example.org/projects/raheem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/raheem/</guid>
+      <description>   Name Raheem     Categories  Law Enforcement    Project URL http://raheem.ai/    Organization  Raheem AI    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Ring</title>
+      <link>http://example.org/projects/ring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/ring/</guid>
+      <description>   Name Ring     Categories  Law Enforcement    Project URL     Organization  Ring    Location Various    Open Source No    Outcome Measurements     Cost to User Varies    Founded 2012    Tags  Crowdsourcing     </description>
+    </item>
+    
+    <item>
+      <title>SCOTUS Mapper</title>
+      <link>http://example.org/projects/scotus-mapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/scotus-mapper/</guid>
+      <description>   Name SCOTUS Mapper     Categories  Legal    Project URL http://law.ubalt.edu/faculty/scotus-mapping/    Organization  University of Baltimore School of Law &amp;amp; the Free Law Project    Location U.S.    Open Source In Dev.    Outcome Measurements     Cost to User Free    Founded 2013    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>SMS Criminal Diversion Pilot</title>
+      <link>http://example.org/projects/sms-criminal-diversion-pilot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/sms-criminal-diversion-pilot/</guid>
+      <description>   Name SMS Criminal Diversion Pilot     Categories  Courts    Project URL https://www.magistratescourt.vic.gov.au/news/criminal-diversion-sms-reminder-pilot    Organization  Magistrate Court    Location Victoria, Australia    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal texting fees apply    Founded 2014    Tags  Diversion     </description>
+    </item>
+    
+    <item>
+      <title>SPROKIT</title>
+      <link>http://example.org/projects/sprokit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/sprokit/</guid>
+      <description>   Name SPROKIT     Categories  Probation &amp;amp; Parole    Project URL http://www.sprokit.net/    Organization  SPROKIT    Location U.S.    Open Source No    Open Data     Compatibility  Web , Android    Outcome Measurements     Cost to User Varies    Founded 2015    Tags       </description>
+    </item>
+    
+    <item>
+      <title>Seattle Complaint Portal</title>
+      <link>http://example.org/projects/seattle-complaint-portal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/seattle-complaint-portal/</guid>
+      <description>   Name Seattle Complaint Portal     Categories  Law Enforcement    Project URL http://www.seattle.gov/opa/file-a-complaint-about-the-seattle-police    Organization  Seattle Police    Location Seattle, WA    Open Source No    Open Data https://data.seattle.gov/City-Business/OPA-Complaint-Tracker/pafy-bfmu    Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Police Accountability , Open Data , Data     </description>
+    </item>
+    
+    <item>
+      <title>See Something Send Something</title>
+      <link>http://example.org/projects/see-something-send-something/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/see-something-send-something/</guid>
+      <description>   Name See Something Send Something     Categories  Law Enforcement    Project URL http://www.mymobilewitness.com/consumer-services    Organization  My Mobile Witness    Location Colorado, Louisiana, New York, Ohio, Pennsylvania, Virginia    Open Source No    Outcome Measurements     Cost to User Free to users    Founded 2008    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>ShotSpotter</title>
+      <link>http://example.org/projects/shotspotter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/shotspotter/</guid>
+      <description>   Name ShotSpotter     Categories  Law Enforcement    Project URL http://www.shotspotter.com/    Organization  SST    Location International    Open Source No    Outcome Measurements     Cost to User Yes    Founded 1996    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>Solve a Crime</title>
+      <link>http://example.org/projects/solve-a-crime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/solve-a-crime/</guid>
+      <description>   Name Solve a Crime     Categories  Law Enforcement    Project URL https://www.solveacrime.com/    Organization  Qface Systems LLC.    Location U.S.    Open Source No    Outcome Measurements     Cost to User Varies    Founded 2015    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>SpotCrime</title>
+      <link>http://example.org/projects/spotcrime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/spotcrime/</guid>
+      <description>   Name SpotCrime     Categories  Law Enforcement    Project URL https://spotcrime.com/    Organization  SpotCrime    Location U.S.    Public Portal No    Bulk Download No    Ongoing Yes    Founded 2007    Tags  Data     </description>
+    </item>
+    
+    <item>
+      <title>Static Risk and Offender Needs Guide (STRONG)</title>
+      <link>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/static-risk-and-offender-needs-guide-strong/</guid>
+      <description>   Name Static Risk and Offender Needs Guide (STRONG)     Categories  Corrections    Project URL     Organization  Washington State Institute for Criminal Justice &amp;amp; Washington Department of Corrections    Location Califonria, Florida, Texas, Washington    What is Predicted Likelihood of recidivism    Open Source     Available Training Data No    Ongoing Yes    Founded 2013    Tags  Risk Assessment , Predictive , Data     </description>
+    </item>
+    
+    <item>
+      <title>Statistical Package for the Social Sciences</title>
+      <link>http://example.org/projects/statistical-package-for-the-social-sciences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/statistical-package-for-the-social-sciences/</guid>
+      <description>   Name Statistical Package for the Social Sciences     Categories  Law Enforcement    Project URL http://www-01.ibm.com/software/analytics/spss/11/na/cpp/    Organization  IBM    Location Various    What is Predicted Where police are needed    Open Source     Available Training Data No    Ongoing Yes    Founded NA    Tags  Data , Predictive Policing     </description>
+    </item>
+    
+    <item>
+      <title>Stop and Frisk App</title>
+      <link>http://example.org/projects/stop-and-frisk-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/stop-and-frisk-app/</guid>
+      <description>   Name Stop and Frisk App     Categories  Law Enforcement    Project URL http://www.nyclu.org/app    Organization  NY Civil Liberties Union    Location New York City, NY    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Strategic Subjects List</title>
+      <link>http://example.org/projects/strategic-subjects-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/strategic-subjects-list/</guid>
+      <description>   Name Strategic Subjects List     Categories  Law Enforcement    Project URL https://data.cityofchicago.org/Public-Safety/Strategic-Subject-List-Dashboard/wgnt-sjgb    Organization  Chicago Police Deptartment    Location Chicago, IL    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2016    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Swift 911</title>
+      <link>http://example.org/projects/swift-911/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/swift-911/</guid>
+      <description>   Name Swift 911     Categories  Law Enforcement    Project URL     Organization  Swift Reach    Location U.S.    Open Source No    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Normal texting fees apply    Founded 1996    Tags       </description>
+    </item>
+    
+    <item>
+      <title>TestNotice</title>
+      <link>http://example.org/projects/testnotice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/testnotice/</guid>
+      <description>   Name TestNotice     Categories  Probation &amp;amp; Parole    Project URL http://www.testnotice.com/    Organization  TestNotice    Location Nevada, Oklahoma, Minnesota, South Dakota    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User $10 to create an account; $5 per month    Founded 2015    Tags       </description>
+    </item>
+    
+    <item>
+      <title>The Counted</title>
+      <link>http://example.org/projects/the-counted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/the-counted/</guid>
+      <description>   Name The Counted     Categories  Law Enforcement    Project URL http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database    Organization  The Guardian    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2015    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>The Murder Accountability Project</title>
+      <link>http://example.org/projects/the-murder-accountability-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/the-murder-accountability-project/</guid>
+      <description>   Name The Murder Accountability Project     Categories  Law Enforcement    Project URL http://www.murderdata.org/    Organization  The Murder Accountability Project    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2015    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>The Restorative Justice City</title>
+      <link>http://example.org/projects/the-restorative-justice-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/the-restorative-justice-city/</guid>
+      <description>   Name The Restorative Justice City     Categories  Legal    Project URL http://www.iftf.org/rjcity/    Organization  Institute for the Future    Location Oakland, CA    Public Portal Yes    Bulk Download No    Ongoing No    Founded 2016    Tags  Diversion , Data     </description>
+    </item>
+    
+    <item>
+      <title>Unfounded</title>
+      <link>http://example.org/projects/unfounded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/unfounded/</guid>
+      <description>   Name Unfounded     Categories  Law Enforcement    Project URL https://beta.theglobeandmail.com/news/investigations/compare-unfounded-sex-assault-rates-across-canada/article33855643/?ref=http://www.theglobeandmail.com&amp;amp;    Organization  The Globe and Mail    Location Canada    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2017    Tags  Data , Sexual Assault , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>UniCourt</title>
+      <link>http://example.org/projects/unicourt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/unicourt/</guid>
+      <description>   Name UniCourt     Categories  Courts    Project URL https://unicourt.com/    Organization  UniCourt    Location U.S.    Public Portal No    Bulk Download Yes, with a fee    Ongoing Yes    Founded 2014    Tags  Data , Research     </description>
+    </item>
+    
+    <item>
+      <title>UpTrust</title>
+      <link>http://example.org/projects/uptrust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/uptrust/</guid>
+      <description>   Name UpTrust     Categories  Probation &amp;amp; Parole    Project URL http://www.uptrust.co/    Organization  UpTrust    Location Brooklyn, NY    Open Source No    Open Data     Compatibility  SMS , Web    Outcome Measurements     Cost to User Free    Founded 2015    Tags       </description>
+    </item>
+    
+    <item>
+      <title>Use of Force Project</title>
+      <link>http://example.org/projects/use-of-force-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/use-of-force-project/</guid>
+      <description>   Name Use of Force Project     Categories  Law Enforcement    Project URL http://useofforceproject.org/    Organization  Various Stakeholders    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2016    Tags  Data , Open Data , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Verie</title>
+      <link>http://example.org/projects/verie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/verie/</guid>
+      <description>   Name Verie     Categories  Probation &amp;amp; Parole    Project URL http://verie.com/    Organization  Verie    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Varies    Founded 2014    Tags       </description>
+    </item>
+    
+    <item>
+      <title>VirginiaCourtData</title>
+      <link>http://example.org/projects/virginiacourtdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/virginiacourtdata/</guid>
+      <description>   Name VirginiaCourtData     Categories  Courts    Project URL http://virginiacourtdata.org/    Organization  Ben Schoenfeld    Location Virginia    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Virtual Youth Probation Teams</title>
+      <link>http://example.org/projects/virtual-youth-probation-teams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/virtual-youth-probation-teams/</guid>
+      <description>   Name Virtual Youth Probation Teams     Categories  Probation &amp;amp; Parole    Project URL     Organization  Google Government Innovation Labs    Location San Joaquin, CA    Open Source No    Open Data     Compatibility  NA    Outcome Measurements     Cost to User NA    Founded 2016    Tags       </description>
+    </item>
+    
+    <item>
       <title>Visallo</title>
       <link>http://example.org/projects/visallo/</link>
-      <pubDate>Wed, 04 Jul 2018 13:08:32 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/projects/visallo/</guid>
-      <description>Project Name  |  &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;|&amp;mdash;- Category | 27 Organization | 23 Location | 23 Open Source | 23 Open Data | 23 Compatibility | 23 Outcome Measurements | 23 Cost to User | Founded |
-Related Companies</description>
+      <description>   Name Visallo     Categories  Law Enforcement    Project URL https://www.visallo.com    Organization  Visallo    Location U.S.    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Varies    Founded 2014    Tags  Open Sourced , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>White Collar Crime Risk Zones</title>
+      <link>http://example.org/projects/white-collar-crime-risk-zones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/white-collar-crime-risk-zones/</guid>
+      <description>   Name White Collar Crime Risk Zones     Categories  Law Enforcement    Project URL https://whitecollar.thenewinquiry.com/    Organization  The New Inquiry Magazine    Location U.S.    What is Predicted Where white collar crime is likely to occur    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2017    Tags  White Collar , Data     </description>
+    </item>
+    
+    <item>
+      <title>Yelp Prison Review Faxbot</title>
+      <link>http://example.org/projects/yelp-prison-review-faxbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/yelp-prison-review-faxbot/</guid>
+      <description>   Name Yelp Prison Review Faxbot     Categories  Corrections    Project URL http://lav.io/2014/11/yelp-prison-review-faxbot/    Organization  Sam Lavign    Location Various U.S. Prisons    Open Source Yes    Open Data     Compatibility  Web , Fax    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Open Sourced;     </description>
+    </item>
+    
+    <item>
+      <title>besafe.city</title>
+      <link>http://example.org/projects/besafecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/besafecity/</guid>
+      <description>   Name besafe.city     Categories  Law Enforcement    Project URL     Organization  OpenJC    Location New Jersey    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal Texting Fees Apply    Founded 2014    Tags       </description>
     </item>
     
   </channel>

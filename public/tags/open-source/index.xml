@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Forty</title>
+    <link>http://example.org/tags/open-source/</link>
+    <description>Recent content in Open Source on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jul 2018 13:08:32 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visallo</title>
+      <link>http://example.org/projects/visallo/</link>
+      <pubDate>Wed, 04 Jul 2018 13:08:32 -0400</pubDate>
+      
+      <guid>http://example.org/projects/visallo/</guid>
+      <description>   Name Visallo     Category  Law Enforcement    Project URL http://www.visallo.com   Organization Visallo   Location United States   Open Source No   Open Data    Compatibility Web   Outcome Measurements Yes   Cost to User Varies   Founded 2014    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>White Collar on Forty</title>
+    <link>http://example.org/tags/white-collar/</link>
+    <description>Recent content in White Collar on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/white-collar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corporate Prosecution Registry</title>
+      <link>http://example.org/projects/corporate-prosecution-registry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/corporate-prosecution-registry/</guid>
+      <description>   Name Corporate Prosecution Registry     Categories  Law Enforcement    Project URL http://lib.law.virginia.edu/Garrett/corporate-prosecution-registry/index.html    Organization  University of Virginia Law Library    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data , White Collar     </description>
+    </item>
+    
+    <item>
+      <title>White Collar Crime Risk Zones</title>
+      <link>http://example.org/projects/white-collar-crime-risk-zones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/white-collar-crime-risk-zones/</guid>
+      <description>   Name White Collar Crime Risk Zones     Categories  Law Enforcement    Project URL https://whitecollar.thenewinquiry.com/    Organization  The New Inquiry Magazine    Location U.S.    What is Predicted Where white collar crime is likely to occur    Open Source     Available Training Data Yes    Ongoing Yes    Founded 2017    Tags  White Collar , Data     </description>
+    </item>
+    
+  </channel>
+</rss>

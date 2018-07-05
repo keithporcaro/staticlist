@@ -1,30 +1,35 @@
 ---
 title: "Visallo"
-date: 2018-07-04T13:08:32-04:00
 draft: false
 layout: "project"
-project-types: ["Stakeholders"]
+project_types: ["Stakeholders"]
 categories: ["Law Enforcement"]
-tags: ["open source", "investigation"]
+projectURL: "https://www.visallo.com"
+organization: "Visallo"
+organizationURL: ""
+location: "U.S."
+open_source: "Yes"
+open_data: ""
+compatibility: ["Web"]
+outcome_measurements: ""
+cost: "Varies"
+founded: "2014"
+tags: ["Open Sourced","Investigation"]
+
 ---
 
 
-
-
-Name                         |  Visallo   
+Name                    |  Visallo    
 ------------------------|----
-Category                | {{< category "Law Enforcement" >}}
-Project URL             | [http://www.visallo.com](http://www.visallo.com)
-Organization            | [Visallo](http://www.visallo.com)
-Location                | U.S.
-Open Source             | No
-Open Data               | 
-Compatibility           | Web
-Outcome Measurements   | Yes
-Cost to User            | Varies
-Founded                  |  2014
+Categories              | {{< category >}} 
+Project URL             | {{< projectURL >}} 
+Organization            | {{< organization >}} 
+Location                | {{< location >}} 
+Open Source             | {{< open-source >}} 
+Open Data               | {{< open-data >}} 
+Compatibility           | {{< compatibility >}} 
+Outcome Measurements    | {{< outcome >}} 
+Cost to User            | {{< cost >}} 
+Founded                 | {{< founded >}} 
+Tags                    | {{< tags >}} 
 
-
-
-
-**Related Projects**

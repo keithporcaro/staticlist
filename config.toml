@@ -92,25 +92,25 @@ disqusShortname = ""
       title = "Stakeholder Tools"
       subtitle = "Tools used primarily by criminal justice stakeholders."
       image = "pic01.jpg"
-      url = "projects/stakeholder"
+      url = "project_types/stakeholder"
 
     [[params.tiles.showcase]]
       title = "Crowdsourcing Tools"
       subtitle = "Tools that rely on community-generated reports."
       image = "pic02.jpg"
-      url = "projects/crowdsourcing"
+      url = "project_types/crowdsourcing"
 
     [[params.tiles.showcase]]
       title = "Data Projects"
       subtitle = "Collecting, analyzing, and reporting data."
       image = "pic03.jpg"
-      url = "projects/data"
+      url = "project_types/data"
 
     [[params.tiles.showcase]]
       title = "Predictive Tools"
       subtitle = "Tools that see the future."
       image = "pic04.jpg"
-      url = "projects/predictions"
+      url = "project_types/predictions"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -120,17 +120,7 @@ disqusShortname = ""
     # For more informtion take a look at the README.
     # To add more blogs just copy and paste the code.
 
-  # Section Type Two
-  [params.two]
-    enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
-    url = "blogs"
+  
 
 
   # Contact section
@@ -186,6 +176,7 @@ disqusShortname = ""
 [taxonomies]
   category = "categories"
   type = "types"
-  project-type = "project-types"
+  project_type = "project_types"
+  organization = "organizations"
   tag = "tags"
   location = "locations"

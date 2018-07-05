@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A2j on Forty</title>
+    <link>http://example.org/tags/a2j/</link>
+    <description>Recent content in A2j on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/a2j/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A2J Author</title>
+      <link>http://example.org/projects/a2j-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/a2j-author/</guid>
+      <description>   Name A2J Author     Categories  Intake &amp;amp; Referral    Project URL https://www.kentlaw.iit.edu/institutes-centers/center-for-access-to-justice-and-technology/a2j-author    Organization  Chicago-Kent College of Law &amp;amp; CALI    Location U.S. &amp;amp; Canada    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free for certain non-profit legal service providers    Founded 1999    Tags  A2J     </description>
+    </item>
+    
+    <item>
+      <title>Arrest SOS</title>
+      <link>http://example.org/projects/arrest-sos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/arrest-sos/</guid>
+      <description>   Name Arrest SOS     Categories  Intake &amp;amp; Referral    Project URL http://arrestsos.com/    Organization  Arrest SOS    Location U.S.    Open Source No    Open Data     Compatibility  iOS , Android    Outcome Measurements     Cost to User Free    Founded 2011    Tags  A2J , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>CourtBot</title>
+      <link>http://example.org/projects/courtbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/courtbot/</guid>
+      <description>   Name CourtBot     Categories  Courts    Project URL https://www.codeforamerica.org/past-projects/court-bot    Organization  Code for America    Location Atlanta, GA    Open Source Yes    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal Texting Fees Apply    Founded 2016    Tags  Open Sourced , A2J     </description>
+    </item>
+    
+    <item>
+      <title>Hate Crime Help</title>
+      <link>http://example.org/projects/hate-crime-help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/hate-crime-help/</guid>
+      <description>   Name Hate Crime Help     Categories  Intake &amp;amp; Referral    Project URL https://hatecrimehelp.com/    Organization  ABA Center for Innovation    Location U.S.    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2017    Tags  A2J     </description>
+    </item>
+    
+    <item>
+      <title>Legal Financial Obligation Calculator</title>
+      <link>http://example.org/projects/legal-financial-obligation-calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/legal-financial-obligation-calculator/</guid>
+      <description>   Name Legal Financial Obligation Calculator     Categories  Courts    Project URL http://beta.lfocalculator.org    Organization  Microsoft    Location Washington    Open Source Forthcoming    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2018    Tags  A2J     </description>
+    </item>
+    
+    <item>
+      <title>Matterhorn</title>
+      <link>http://example.org/projects/matterhorn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/matterhorn/</guid>
+      <description>   Name Matterhorn     Categories  Courts    Project URL http://getmatterhorn.com/    Organization  Court Innovations    Location Michigan    Open Source No    Open Data     Compatibility  Web , SMS    Outcome Measurements     Cost to User Free to Individuals, Court pays to install platform    Founded 2014    Tags  A2J , Dispute Resolution      </description>
+    </item>
+    
+    <item>
+      <title>North County Kiosk</title>
+      <link>http://example.org/projects/north-county-kiosk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/north-county-kiosk/</guid>
+      <description>   Name North County Kiosk     Categories  Courts    Project URL     Organization  Mohave Superior Court    Location Mohave County, AZ    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2013    Tags  A2J;     </description>
+    </item>
+    
+  </channel>
+</rss>

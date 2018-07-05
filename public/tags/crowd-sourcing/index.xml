@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crowd Sourcing on Forty</title>
+    <link>http://example.org/tags/crowd-sourcing/</link>
+    <description>Recent content in Crowd Sourcing on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/crowd-sourcing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Callisto</title>
+      <link>http://example.org/projects/callisto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/callisto/</guid>
+      <description>   Name Callisto     Categories  Intake &amp;amp; Referral    Project URL https://demo.callistocampus.org/    Organization  Sexual Health Innovations    Location Various U.S. Universities    Open Source Yes    Open Data     Compatibility  Web    Outcome Measurements     Cost to User NA    Founded 2014    Tags  Sexual Assault , Open Sourced , Crowd Sourcing , Investigation     </description>
+    </item>
+    
+  </channel>
+</rss>

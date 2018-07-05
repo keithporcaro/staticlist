@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crowdsourced on Forty</title>
+    <link>http://example.org/tags/crowdsourced/</link>
+    <description>Recent content in Crowdsourced on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/crowdsourced/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CrimeReports</title>
+      <link>http://example.org/projects/crimereports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/crimereports/</guid>
+      <description>   Name CrimeReports     Categories  Law Enforcement    Project URL https://www.crimereports.com/    Organization  Motorola    Location U.S.    Public Portal No    Bulk Download No    Ongoing Yes    Founded 2016    Tags  Data , Crowdsourced     </description>
+    </item>
+    
+  </channel>
+</rss>

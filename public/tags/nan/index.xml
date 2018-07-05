@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nan on Forty</title>
+    <link>http://example.org/tags/nan/</link>
+    <description>Recent content in Nan on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/tags/nan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Between the Bars</title>
+      <link>http://example.org/projects/between-the-bars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/between-the-bars/</guid>
+      <description>   Name Between the Bars     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>Flikshop</title>
+      <link>http://example.org/projects/flikshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/flikshop/</guid>
+      <description>   Name Flikshop     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>FocalPoint</title>
+      <link>http://example.org/projects/focalpoint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/focalpoint/</guid>
+      <description>   Name FocalPoint     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>GunBail</title>
+      <link>http://example.org/projects/gunbail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/gunbail/</guid>
+      <description>   Name GunBail     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>Mark43 CAD</title>
+      <link>http://example.org/projects/mark43-cad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/mark43-cad/</guid>
+      <description>   Name Mark43 CAD     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>Mobile PD</title>
+      <link>http://example.org/projects/mobile-pd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/mobile-pd/</guid>
+      <description>   Name Mobile PD     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>Outreach Smartphone Monitoring</title>
+      <link>http://example.org/projects/outreach-smartphone-monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/outreach-smartphone-monitoring/</guid>
+      <description>   Name Outreach Smartphone Monitoring     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>Photo, Print, Voice, &amp; Letters</title>
+      <link>http://example.org/projects/photo-print-voice--letters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/photo-print-voice--letters/</guid>
+      <description>   Name Photo, Print, Voice, &amp;amp; Letters     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>SPROKIT</title>
+      <link>http://example.org/projects/sprokit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/sprokit/</guid>
+      <description>   Name SPROKIT     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>Swift 911</title>
+      <link>http://example.org/projects/swift-911/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/swift-911/</guid>
+      <description>   Name Swift 911     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>TestNotice</title>
+      <link>http://example.org/projects/testnotice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/testnotice/</guid>
+      <description>   Name TestNotice     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>UpTrust</title>
+      <link>http://example.org/projects/uptrust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/uptrust/</guid>
+      <description>   Name UpTrust     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+    <item>
+      <title>besafe.city</title>
+      <link>http://example.org/projects/besafecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/besafecity/</guid>
+      <description>   Name besafe.city     Categories {{ &amp;lt; category &amp;gt;}}   Project URL {{ &amp;lt; projectURL &amp;gt;}}   Organization {{ &amp;lt; organization &amp;gt;}}   Location {{ &amp;lt; location &amp;gt;}}   Open Source {{ &amp;lt; open-source &amp;gt;}}   Open Data {{ &amp;lt; open-data &amp;gt;}}   Compatibility {{ &amp;lt; compat &amp;gt;}}   Outcome Measurements {{ &amp;lt; outcome &amp;gt;}}   Cost to User {{ &amp;lt; cost &amp;gt;}}   Founded {{ &amp;lt; founded &amp;gt;}}    </description>
+    </item>
+    
+  </channel>
+</rss>

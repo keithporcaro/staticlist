@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courts on Forty</title>
+    <link>http://example.org/categories/courts/</link>
+    <description>Recent content in Courts on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/courts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Convicted in Cook</title>
+      <link>http://example.org/projects/convicted-in-cook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/convicted-in-cook/</guid>
+      <description>   Name Convicted in Cook     Categories  Courts    Project URL http://convictions.smartchicagoapps.org/    Organization  Smart Chicago, Chicago Justice Project    Location Cook County, IL    Public Portal Yes    Bulk Download Yes    Ongoing No    Founded 2014    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>CourtBot</title>
+      <link>http://example.org/projects/courtbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/courtbot/</guid>
+      <description>   Name CourtBot     Categories  Courts    Project URL https://www.codeforamerica.org/past-projects/court-bot    Organization  Code for America    Location Atlanta, GA    Open Source Yes    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal Texting Fees Apply    Founded 2016    Tags  Open Sourced , A2J     </description>
+    </item>
+    
+    <item>
+      <title>Harris County Criminal Court Data Visualization Project</title>
+      <link>http://example.org/projects/harris-county-criminal-court-data-visualization-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/harris-county-criminal-court-data-visualization-project/</guid>
+      <description>   Name Harris County Criminal Court Data Visualization Project     Categories  Courts    Project URL http://tcjcdashboard.com/    Organization  Texas Criminal Justice Coalition    Location Harris County, TX    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 1999    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Integrated Database</title>
+      <link>http://example.org/projects/integrated-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/integrated-database/</guid>
+      <description>   Name Integrated Database     Categories  Courts    Project URL https://www.fjc.gov/research/idb    Organization  U.S. Federal Courts    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Legal Financial Obligation Calculator</title>
+      <link>http://example.org/projects/legal-financial-obligation-calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/legal-financial-obligation-calculator/</guid>
+      <description>   Name Legal Financial Obligation Calculator     Categories  Courts    Project URL http://beta.lfocalculator.org    Organization  Microsoft    Location Washington    Open Source Forthcoming    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2018    Tags  A2J     </description>
+    </item>
+    
+    <item>
+      <title>Matterhorn</title>
+      <link>http://example.org/projects/matterhorn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/matterhorn/</guid>
+      <description>   Name Matterhorn     Categories  Courts    Project URL http://getmatterhorn.com/    Organization  Court Innovations    Location Michigan    Open Source No    Open Data     Compatibility  Web , SMS    Outcome Measurements     Cost to User Free to Individuals, Court pays to install platform    Founded 2014    Tags  A2J , Dispute Resolution      </description>
+    </item>
+    
+    <item>
+      <title>Neulaw Criminal Records Database</title>
+      <link>http://example.org/projects/neulaw-criminal-records-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/neulaw-criminal-records-database/</guid>
+      <description>   Name Neulaw Criminal Records Database     Categories  Courts    Project URL http://www.neulaw.org/research/crime-big-data    Organization  Neulaw Center for Science &amp;amp; Law    Location U.S.    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2018    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>North County Kiosk</title>
+      <link>http://example.org/projects/north-county-kiosk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/north-county-kiosk/</guid>
+      <description>   Name North County Kiosk     Categories  Courts    Project URL     Organization  Mohave Superior Court    Location Mohave County, AZ    Open Source No    Open Data     Compatibility  Web    Outcome Measurements     Cost to User Free    Founded 2013    Tags  A2J;     </description>
+    </item>
+    
+    <item>
+      <title>SMS Criminal Diversion Pilot</title>
+      <link>http://example.org/projects/sms-criminal-diversion-pilot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/sms-criminal-diversion-pilot/</guid>
+      <description>   Name SMS Criminal Diversion Pilot     Categories  Courts    Project URL https://www.magistratescourt.vic.gov.au/news/criminal-diversion-sms-reminder-pilot    Organization  Magistrate Court    Location Victoria, Australia    Open Source No    Open Data     Compatibility  SMS    Outcome Measurements     Cost to User Normal texting fees apply    Founded 2014    Tags  Diversion     </description>
+    </item>
+    
+    <item>
+      <title>UniCourt</title>
+      <link>http://example.org/projects/unicourt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/unicourt/</guid>
+      <description>   Name UniCourt     Categories  Courts    Project URL https://unicourt.com/    Organization  UniCourt    Location U.S.    Public Portal No    Bulk Download Yes, with a fee    Ongoing Yes    Founded 2014    Tags  Data , Research     </description>
+    </item>
+    
+    <item>
+      <title>VirginiaCourtData</title>
+      <link>http://example.org/projects/virginiacourtdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/virginiacourtdata/</guid>
+      <description>   Name VirginiaCourtData     Categories  Courts    Project URL http://virginiacourtdata.org/    Organization  Ben Schoenfeld    Location Virginia    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2017    Tags  Data , Open Data     </description>
+    </item>
+    
+  </channel>
+</rss>

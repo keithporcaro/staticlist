@@ -24,6 +24,7 @@
                             {{ .Content }}
                         </div>
                     </section>
+                    {{ partial "related.html"}}
             {{ "<!-- Disqus Inject -->" | safeHTML }}
                 {{ if .Site.DisqusShortname }}
                   {{ partial "disqus.html" . }}

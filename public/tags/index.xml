@@ -10,5 +10,239 @@
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>http://example.org/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A2j</title>
+      <link>http://example.org/tags/a2j/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/a2j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bail</title>
+      <link>http://example.org/tags/bail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/bail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://example.org/tags/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd Sourcing</title>
+      <link>http://example.org/tags/crowd-sourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/crowd-sourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourced</title>
+      <link>http://example.org/tags/crowdsourced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/crowdsourced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing</title>
+      <link>http://example.org/tags/crowdsourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/crowdsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>http://example.org/tags/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defense</title>
+      <link>http://example.org/tags/defense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dispute Resolution</title>
+      <link>http://example.org/tags/dispute-resolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/dispute-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversion</title>
+      <link>http://example.org/tags/diversion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/diversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expungements  Pardons</title>
+      <link>http://example.org/tags/expungements--pardons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/expungements--pardons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gangs</title>
+      <link>http://example.org/tags/gangs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/gangs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation</title>
+      <link>http://example.org/tags/investigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal Education</title>
+      <link>http://example.org/tags/legal-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/legal-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>http://example.org/tags/open-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Sourced</title>
+      <link>http://example.org/tags/open-sourced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/open-sourced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Police Accountability</title>
+      <link>http://example.org/tags/police-accountability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/police-accountability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive</title>
+      <link>http://example.org/tags/predictive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Policing</title>
+      <link>http://example.org/tags/predictive-policing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/predictive-policing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosectuors</title>
+      <link>http://example.org/tags/prosectuors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/prosectuors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosecutors</title>
+      <link>http://example.org/tags/prosecutors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/prosecutors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://example.org/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Assessment</title>
+      <link>http://example.org/tags/risk-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/risk-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sexual Assault</title>
+      <link>http://example.org/tags/sexual-assault/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/sexual-assault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White Collar</title>
+      <link>http://example.org/tags/white-collar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/white-collar/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

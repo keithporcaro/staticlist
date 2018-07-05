@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal on Forty</title>
+    <link>http://example.org/categories/legal/</link>
+    <description>Recent content in Legal on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/legal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Co/Counsel</title>
+      <link>http://example.org/projects/cocounsel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/cocounsel/</guid>
+      <description>   Name Co/Counsel     Categories  Legal    Project URL http://www.cocounsel.co/maps    Organization  Co/Counsel    Location U.S.    Open Source Yes    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>Crowd Justice</title>
+      <link>http://example.org/projects/crowd-justice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/crowd-justice/</guid>
+      <description>   Name Crowd Justice     Categories  Legal    Project URL https://www.crowdjustice.co.uk    Organization  Justice Platform Ltd    Location United Kingdom    Open Source No    Outcome Measurements     Cost to User 5% of goal &amp;#43; processing fees    Founded 2017    Tags  Crowdsourcing     </description>
+    </item>
+    
+    <item>
+      <title>RECAP</title>
+      <link>http://example.org/projects/recap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/recap/</guid>
+      <description>   Name RECAP     Categories  Legal    Project URL https://www.recapthelaw.org/    Organization  Princeton University &amp;amp; the Free Law Project    Location U.S.    Open Source https://github.com/freelawproject/recap    Outcome Measurements     Cost to User Free    Founded 2009    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>SCOTUS Mapper</title>
+      <link>http://example.org/projects/scotus-mapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/scotus-mapper/</guid>
+      <description>   Name SCOTUS Mapper     Categories  Legal    Project URL http://law.ubalt.edu/faculty/scotus-mapping/    Organization  University of Baltimore School of Law &amp;amp; the Free Law Project    Location U.S.    Open Source In Dev.    Outcome Measurements     Cost to User Free    Founded 2013    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>The Restorative Justice City</title>
+      <link>http://example.org/projects/the-restorative-justice-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/the-restorative-justice-city/</guid>
+      <description>   Name The Restorative Justice City     Categories  Legal    Project URL http://www.iftf.org/rjcity/    Organization  Institute for the Future    Location Oakland, CA    Public Portal Yes    Bulk Download No    Ongoing No    Founded 2016    Tags  Diversion , Data     </description>
+    </item>
+    
+  </channel>
+</rss>

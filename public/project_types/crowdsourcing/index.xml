@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crowdsourcing on Forty</title>
+    <link>http://example.org/project_types/crowdsourcing/</link>
+    <description>Recent content in Crowdsourcing on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/project_types/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appolition</title>
+      <link>http://example.org/projects/appolition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/appolition/</guid>
+      <description>   Name Appolition     Categories  Parole &amp;amp; Probation    Project URL https://appolition.us    Organization  Appolition    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2018    Tags  Crowdsourcing ,      </description>
+    </item>
+    
+    <item>
+      <title>Bail Bloc</title>
+      <link>http://example.org/projects/bail-bloc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/bail-bloc/</guid>
+      <description>   Name Bail Bloc     Categories  Parole &amp;amp; Probation    Project URL https://bailbloc.thenewinquiry.com/    Organization  The New Inquiry    Location U.S.    Open Source https://github.com/thenewinquiry/bailbloc/    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Blockchain     </description>
+    </item>
+    
+    <item>
+      <title>Buoy</title>
+      <link>http://example.org/projects/buoy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/buoy/</guid>
+      <description>   Name Buoy     Categories  Law Enforcement    Project URL https://maymay.net/blog/2015/11/25/a-sneak-peek-at-better-angels-buoy-the-private-enhanced-9-1-1-for-your-personal-community/    Organization  Better Angel Collective    Location U.S.    Open Source https://github.com/meitar/better-angels/#readme    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Co/Counsel</title>
+      <link>http://example.org/projects/cocounsel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/cocounsel/</guid>
+      <description>   Name Co/Counsel     Categories  Legal    Project URL http://www.cocounsel.co/maps    Organization  Co/Counsel    Location U.S.    Open Source Yes    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>Cop Watch Video Recorder</title>
+      <link>http://example.org/projects/cop-watch-video-recorder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/cop-watch-video-recorder/</guid>
+      <description>   Name Cop Watch Video Recorder     Categories  Law Enforcement    Project URL http://nepv.org/cop-watch/download-app    Organization  Network for Elimination of Police Violence    Location Toronto, Canada    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Crowd Justice</title>
+      <link>http://example.org/projects/crowd-justice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/crowd-justice/</guid>
+      <description>   Name Crowd Justice     Categories  Legal    Project URL https://www.crowdjustice.co.uk    Organization  Justice Platform Ltd    Location United Kingdom    Open Source No    Outcome Measurements     Cost to User 5% of goal &amp;#43; processing fees    Founded 2017    Tags  Crowdsourcing     </description>
+    </item>
+    
+    <item>
+      <title>Data Justice Network</title>
+      <link>http://example.org/projects/data-justice-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/data-justice-network/</guid>
+      <description>   Name Data Justice Network     Categories  Comprehensive    Project URL https://datajustice.us/    Organization  GovLab    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>FQ Task Force</title>
+      <link>http://example.org/projects/fq-task-force/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/fq-task-force/</guid>
+      <description>   Name FQ Task Force     Categories  Law Enforcement    Project URL http://www.fqtaskforce.com/    Organization  SDT Productions    Location New Orleans, LA    Open Source No    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>Five-0</title>
+      <link>http://example.org/projects/five-0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/five-0/</guid>
+      <description>   Name Five-0     Categories  Law Enforcement    Project URL http://fiveo.us/    Organization  Pinetart, Inc.    Location Georgia    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Haka</title>
+      <link>http://example.org/projects/haka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/haka/</guid>
+      <description>   Name Haka     Categories  Parole &amp;amp; Probation    Project URL     Organization  Reshma Kamath    Location U.S.    Open Source Yes    Outcome Measurements     Cost to User TBD    Founded 2017    Tags  Crowdsourcing , Blockchain     </description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Getting Arrested</title>
+      <link>http://example.org/projects/im-getting-arrested/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/im-getting-arrested/</guid>
+      <description>   Name I&amp;rsquo;m Getting Arrested     Categories  Law Enforcement    Project URL https://play.google.com/store/apps/details?id=us.quadrant2.arrested&amp;amp;hl=en    Organization  Quadrant 2, Inc.    Location International    Open Source No    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>LegalEq</title>
+      <link>http://example.org/projects/legaleq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/legaleq/</guid>
+      <description>   Name LegalEq     Categories  Law Enforcement    Project URL http://www.legaleqapp.com/    Organization  Legal Equalizer LLC    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Meet Your DA</title>
+      <link>http://example.org/projects/meet-your-da/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/meet-your-da/</guid>
+      <description>   Name Meet Your DA     Categories  Law Enforcement    Project URL https://meetyourda.org/    Organization  ACLU California    Location California    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Prosectuors     </description>
+    </item>
+    
+    <item>
+      <title>Mobile Justice App</title>
+      <link>http://example.org/projects/mobile-justice-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/mobile-justice-app/</guid>
+      <description>   Name Mobile Justice App     Categories  Law Enforcement    Project URL https://www.aclu.org/feature/aclu-apps-record-police-conduct    Organization  ACLU    Location Arizona, California, Colorado, Washington D.C., Gerogia, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New Jersey, New Mexico, North Carolina, Oklahoma, Oregon, Pennsylvania, Virginia    Open Source No    Outcome Measurements     Cost to User Free    Founded 2015    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Nextdoor</title>
+      <link>http://example.org/projects/nextdoor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/nextdoor/</guid>
+      <description>   Name Nextdoor     Categories  Law Enforcement    Project URL https://nextdoor.com/    Organization  Nextdoor    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2011    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>RECAP</title>
+      <link>http://example.org/projects/recap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/recap/</guid>
+      <description>   Name RECAP     Categories  Legal    Project URL https://www.recapthelaw.org/    Organization  Princeton University &amp;amp; the Free Law Project    Location U.S.    Open Source https://github.com/freelawproject/recap    Outcome Measurements     Cost to User Free    Founded 2009    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>Raheem</title>
+      <link>http://example.org/projects/raheem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/raheem/</guid>
+      <description>   Name Raheem     Categories  Law Enforcement    Project URL http://raheem.ai/    Organization  Raheem AI    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+    <item>
+      <title>Ring</title>
+      <link>http://example.org/projects/ring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/ring/</guid>
+      <description>   Name Ring     Categories  Law Enforcement    Project URL     Organization  Ring    Location Various    Open Source No    Outcome Measurements     Cost to User Varies    Founded 2012    Tags  Crowdsourcing     </description>
+    </item>
+    
+    <item>
+      <title>SCOTUS Mapper</title>
+      <link>http://example.org/projects/scotus-mapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/scotus-mapper/</guid>
+      <description>   Name SCOTUS Mapper     Categories  Legal    Project URL http://law.ubalt.edu/faculty/scotus-mapping/    Organization  University of Baltimore School of Law &amp;amp; the Free Law Project    Location U.S.    Open Source In Dev.    Outcome Measurements     Cost to User Free    Founded 2013    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>See Something Send Something</title>
+      <link>http://example.org/projects/see-something-send-something/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/see-something-send-something/</guid>
+      <description>   Name See Something Send Something     Categories  Law Enforcement    Project URL http://www.mymobilewitness.com/consumer-services    Organization  My Mobile Witness    Location Colorado, Louisiana, New York, Ohio, Pennsylvania, Virginia    Open Source No    Outcome Measurements     Cost to User Free to users    Founded 2008    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>ShotSpotter</title>
+      <link>http://example.org/projects/shotspotter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/shotspotter/</guid>
+      <description>   Name ShotSpotter     Categories  Law Enforcement    Project URL http://www.shotspotter.com/    Organization  SST    Location International    Open Source No    Outcome Measurements     Cost to User Yes    Founded 1996    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>Solve a Crime</title>
+      <link>http://example.org/projects/solve-a-crime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/solve-a-crime/</guid>
+      <description>   Name Solve a Crime     Categories  Law Enforcement    Project URL https://www.solveacrime.com/    Organization  Qface Systems LLC.    Location U.S.    Open Source No    Outcome Measurements     Cost to User Varies    Founded 2015    Tags  Crowdsourcing , Investigation     </description>
+    </item>
+    
+    <item>
+      <title>Stop and Frisk App</title>
+      <link>http://example.org/projects/stop-and-frisk-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/stop-and-frisk-app/</guid>
+      <description>   Name Stop and Frisk App     Categories  Law Enforcement    Project URL http://www.nyclu.org/app    Organization  NY Civil Liberties Union    Location New York City, NY    Open Source No    Outcome Measurements     Cost to User Free    Founded 2014    Tags  Crowdsourcing , Police Accountability     </description>
+    </item>
+    
+  </channel>
+</rss>

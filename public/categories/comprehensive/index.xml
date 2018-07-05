@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comprehensive on Forty</title>
+    <link>http://example.org/categories/comprehensive/</link>
+    <description>Recent content in Comprehensive on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/comprehensive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crime and Punishment in Chicago</title>
+      <link>http://example.org/projects/crime-and-punishment-in-chicago/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/crime-and-punishment-in-chicago/</guid>
+      <description>   Name Crime and Punishment in Chicago     Categories  Comprehensive    Project URL http://crime-punishment.smartchicagoapps.org/    Organization  Smart Chicago, Chicago Justice Project    Location Chicago, IL    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2014    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Data Justice Network</title>
+      <link>http://example.org/projects/data-justice-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/data-justice-network/</guid>
+      <description>   Name Data Justice Network     Categories  Comprehensive    Project URL https://datajustice.us/    Organization  GovLab    Location U.S.    Open Source No    Outcome Measurements     Cost to User Free    Founded 2017    Tags  Crowdsourcing , Research     </description>
+    </item>
+    
+    <item>
+      <title>Measures for Justice</title>
+      <link>http://example.org/projects/measures-for-justice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/measures-for-justice/</guid>
+      <description>   Name Measures for Justice     Categories  Comprehensive    Project URL http://measuresforjustice.org/    Organization  Measures for Justice    Location U.S.    Public Portal Yes    Bulk Download No    Ongoing Yes    Founded 2011    Tags  Data , Research     </description>
+    </item>
+    
+    <item>
+      <title>OpenJustice</title>
+      <link>http://example.org/projects/openjustice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/openjustice/</guid>
+      <description>   Name OpenJustice     Categories  Comprehensive    Project URL http://openjustice.doj.ca.gov/    Organization  California Department of Justice    Location California    Public Portal Yes    Bulk Download Yes    Ongoing Yes    Founded 2016    Tags  Data , Open Data     </description>
+    </item>
+    
+    <item>
+      <title>Opening Criminal Justice Data</title>
+      <link>http://example.org/projects/opening-criminal-justice-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/opening-criminal-justice-data/</guid>
+      <description>   Name Opening Criminal Justice Data     Categories  Comprehensive    Project URL http://sunlightfoundation.com/criminaljustice/    Organization  Sunlight Foundation    Location U.S.    Public Portal No    Bulk Download Yes    Ongoing Yes    Founded     Tags  Data , Open Data , Research     </description>
+    </item>
+    
+  </channel>
+</rss>

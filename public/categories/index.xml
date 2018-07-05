@@ -10,5 +10,86 @@
 	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Comprehensive</title>
+      <link>http://example.org/categories/comprehensive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrections</title>
+      <link>http://example.org/categories/corrections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/corrections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courts</title>
+      <link>http://example.org/categories/courts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/courts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intake  Referral</title>
+      <link>http://example.org/categories/intake--referral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/intake--referral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Law Enforcement</title>
+      <link>http://example.org/categories/law-enforcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/law-enforcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>http://example.org/categories/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/legal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parole  Probation</title>
+      <link>http://example.org/categories/parole--probation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/parole--probation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probation  Parole</title>
+      <link>http://example.org/categories/probation--parole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/probation--parole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reentry</title>
+      <link>http://example.org/categories/reentry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/reentry/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
