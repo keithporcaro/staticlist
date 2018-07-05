@@ -9,12 +9,13 @@ collections:
 - label: "Project"
   name: "project"
   folder: "content/projects"
+  filter: {field: "project_types", value: ["Stakeholders"]}
   create: true
   fields:
     - {label: "Name", name: "title", widget: "string"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
-    - {label: "Organization", name: "organization", widget: "relation", collection: "projects", searchFields:["organization"], valueField: "organization", required: false}
+    - {label: "Organization", name: "organization", widget: "string", required: false}
     - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
     - {label: "Location", name: "location", widget: "string", required: false}
     - {label: "Open Source", name: "open_source", widget: "string", required: false}
