@@ -1,21 +1,21 @@
 ---
-title: "Acivilate"
-draft: false
-layout: "project"
-project_types: "Stakeholders"
-categories: ["ReEntry"]
-projectURL: "http://acivilate.com/"
-organization: "Acivilate"
-organizationURL: ""
-location: "U.S."
-open_source: "Yes"
-open_data: ""
-compatibility: ["Web & mobile"]
-outcome_measurements: ""
-cost: "SaaS model"
-founded: "2014"
-tags: ["Open Sourced;"]
-
+title: Acivilate
+categories:
+  - ReEntry
+description: 'Connecting to reentry services '
+projectURL: 'http://acivilate.com/'
+organization: Acivilate
+organizationURL: ''
+location: U.S.
+open_source: 'Yes'
+open_data: ''
+compatibility:
+  - Web & mobile
+outcome_measurements: ''
+cost: SaaS model
+founded: '2014'
+tags:
+  - Open Sourced;
 ---
 
 
